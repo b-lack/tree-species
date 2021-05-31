@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <title>tree-species</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+
+    <div class="container-sm py-5 text-center">
+
+      <h1>Tree Species</h1>
+
+      <p>repo: <a href="https://github.com/b-lack/tree-species">b-lack/tree-species</a></p>
+
+      <div class="row py-5">
+        <div class="col-3"></div>
+        <div class="col">
+          <select id="select-language" class="form-select" aria-label="Select language" disabled>
+            <option selected value="./locales/en.json">English</option>
+            <option value="./locales/de.json">German</option>
+            <option value="./lat.json">Scienfic</option>
+          </select>
+          <small id="language-file"></small>
+        </div>
+        <div class="col-3"></div>
+      </div>
+      <div>
+        Species: <b id="species-count">-</b>
+      </div>
+      <div class="container py-3 position-relative text-start">
+        <div class="spinner-border position-absolute top left invisible" role="status" id="species-indicator" style="z-index:1; margin: -15px 0 0 -15px;">
+          <span class="visually-hidden">Loading...</span>
+        </div>
+        <ul id="species-list" class="list-group text-center"></ul>
+      </div>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
