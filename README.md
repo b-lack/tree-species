@@ -4,7 +4,7 @@ This repository includes lists of tree species with corresponding translation. I
 ## Structure
 
 ### Scientific Name
-The [list](https://github.com/b-lack/tree-species/main/lat.json) of scientific names includes about 58000 tree species. The scientific name should be unique. Nevertheless, it is recommended to use the unique ID offered for clear and short identification beyond your own software.
+The [list](https://github.com/b-lack/tree-species/blob/main/lat.json) of scientific names includes about 58000 tree species. The scientific name should be unique. Nevertheless, it is recommended to use the unique ID offered for clear and short identification beyond your own software.
 
 ### Translations
 The current [locales files](https://github.com/b-lack/tree-species/main/locales) include one ore more translations of the scientific name.
