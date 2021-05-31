@@ -1,5 +1,5 @@
 # Tree Species
-This repository is intended to support forest-specific software to get ready for internationalization.
+This repository includes lists of tree species with corresponding translation. It is intended to support forest-specific software to get ready for internationalization.
 
 ## Structure
 
