@@ -24,7 +24,7 @@ function refreshList(){
             line.innerHTML = '<i>' + lat[species] + '</i>';
             document.getElementById('species-list').appendChild(line);
         }
-        document.getElementById('language-file').innerHTML = '<a href=""></a>';
+        document.getElementById('language-file').innerHTML = '<a href="./lat.json">./lat.json</a>';
     }else{
         for(var species in cache[active]){
             count++;
