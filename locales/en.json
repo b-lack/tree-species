@@ -1,75 +1,1222 @@
 {
+    "171": [
+        "kaka beak"
+    ],
+    "237": [
+        "hairy ceanothus",
+        "hairy-leaf ceanothus",
+        "jimbrush"
+    ],
+    "305": [
+        "gifblaar",
+        "poison leaf"
+    ],
     "429": [
         "whitebeam"
     ],
+    "568": [
+        "babassu",
+        "babassu palm",
+        "babaçu",
+        "cusi"
+    ],
+    "620": [
+        "pinkwood",
+        "sticky wallaby bush"
+    ],
+    "682": [
+        "yellowjacket",
+        "paluma Range yellowjacket"
+    ],
+    "704": [
+        "southern plains banksia",
+        "golden stalk banksia"
+    ],
+    "945": [
+        "coonavittra wattle"
+    ],
+    "oNd": [
+        "abbott abarema"
+    ],
+    "eP-": [
+        "glaucous abarema"
+    ],
+    "Zik": [
+        "obovate abarema"
+    ],
+    "cDD": [
+        "european silver fir",
+        "silver fir"
+    ],
     "tYA": [
-        "Pacific silver fir",
-        "amabilis"
+        "pacific silver fir"
     ],
     "JRG": [
         "balsam fir"
     ],
+    "g4p": [
+        "baishanzu fir",
+        "baishan fir"
+    ],
+    "Sh0": [
+        "santa Lucia fir",
+        "bristlecone fir"
+    ],
+    "l0G": [
+        "greek fir"
+    ],
+    "zkd": [
+        "shensi fir"
+    ],
+    "yQU": [
+        "cilician fir",
+        "taurus fir"
+    ],
     "2Sx": [
         "white fir"
     ],
-    "9GF": [
-        "Fraser fir"
+    "eTQ": [
+        "delavay's silver-fir",
+        "delavay's fir"
+    ],
+    "o-L": [
+        "bhutan fir"
+    ],
+    "Qme": [
+        "faber's fir"
+    ],
+    "hdM": [
+        "momi fir"
     ],
     "jDj": [
-        "grand fir"
+        "grand fir",
+        "giant fir",
+        "lowland white fir",
+        "great silver fir",
+        "western white fir",
+        "vancouver fir",
+        "oregon fir"
     ],
     "_mC": [
-        "Guatemalan fir"
+        "guatemalan fir",
+        "pinabete"
+    ],
+    "Xdr": [
+        "needle fir",
+        "manchurian fir"
+    ],
+    "5gZ": [
+        "nikko fir"
+    ],
+    "Wd6": [
+        "korean fir"
     ],
     "anG": [
-        "alpine fir",
-        "mountain fir"
+        "subalpine fir",
+        "rocky Mountain fir"
     ],
     "8jh": [
-        "California mountain fir"
+        "red fir",
+        "silvertip fir"
+    ],
+    "6iF": [
+        "maries' fir"
+    ],
+    "ECF": [
+        "sicilian fir"
+    ],
+    "hTz": [
+        "khingan fir"
     ],
     "YIL": [
-        "Nordmann fir"
+        "nordmann fir",
+        "caucasian fir"
+    ],
+    "zAy": [
+        "algerian fir"
+    ],
+    "K46": [
+        "pindrow fir",
+        "west Himalayan fir"
     ],
     "CIS": [
-        "Spanish fir"
+        "spanish fir"
     ],
     "W0I": [
-        "noble fir"
+        "noble fir",
+        "red fir",
+        "christmas tree"
+    ],
+    "QvA": [
+        "oyamel fir",
+        "sacred fir"
+    ],
+    "X5o": [
+        "sakhalin fir"
     ],
     "Bg-": [
-        "Siberian fir",
-        "fir needle"
+        "siberian fir"
+    ],
+    "YOP": [
+        "east Himalayan fir"
+    ],
+    "Vbi": [
+        "veitch's fir",
+        "veitch's silver-fir"
+    ],
+    "XeT": [
+        "abutilon icanum",
+        "hoary abutilon",
+        "pelotazo",
+        "pelotazo chico",
+        "tronadora",
+        "maʻo"
+    ],
+    "2sY": [
+        "velvet Hill wattle",
+        "silky wattle"
+    ],
+    "v_o": [
+        "mangart",
+        "jam"
+    ],
+    "EXd": [
+        "wallangarra wattle",
+        "cascade wattle"
+    ],
+    "IgA": [
+        "mount Connor wattle"
+    ],
+    "gM0": [
+        "boomerang wattle"
+    ],
+    "78h": [
+        "salt wattle"
+    ],
+    "ehI": [
+        "sandridge gidgee",
+        "gidgee"
+    ],
+    "YyS": [
+        "duck-headed wattle"
+    ],
+    "3l1": [
+        "fitzroy wattle"
     ],
     "ELe": [
-        "mulga acacia"
+        "mulga",
+        "true mulga"
+    ],
+    "s6W": [
+        "slender mulga"
+    ],
+    "qGS": [
+        "balcanoona wattle",
+        "spidery wattle"
+    ],
+    "LQY": [
+        "black gidyea",
+        "blackwood"
+    ],
+    "V2l": [
+        "new Guinea wattle",
+        "golden flowered salwood"
+    ],
+    "T9t": [
+        "auri",
+        "earleaf acacia",
+        "earpod wattle",
+        "northern black wattle",
+        "papuan wattle",
+        "tan wattle",
+        "akashmoni"
+    ],
+    "9XX": [
+        "rudall River myall"
+    ],
+    "P9x": [
+        "ausfeld's wattle",
+        "whipstick cinnamon wattle"
+    ],
+    "aWC": [
+        "midlands mimosa",
+        "midlands wattle"
+    ],
+    "fK8": [
+        "cootamundra wattle"
+    ],
+    "jOc": [
+        "marblewood",
+        "white marblewood",
+        "baker's wattle",
+        "scrub wattle"
+    ],
+    "8wG": [
+        "acacia bancroftiorum"
+    ],
+    "ZY7": [
+        "barrett's wattle"
+    ],
+    "BJu": [
+        "pukkati"
+    ],
+    "pwy": [
+        "two-veined hickory"
+    ],
+    "XBb": [
+        "coast myall"
+    ],
+    "DMz": [
+        "blake's wattle",
+        "wollomombi wattle"
+    ],
+    "cQO": [
+        "blay's wattle",
+        "brogo wattle"
+    ],
+    "-hn": [
+        "umbrella mulga",
+        "turpentine mulga",
+        "false bowgada"
+    ],
+    "NmB": [
+        "bromilow's wattle"
+    ],
+    "3fN": [
+        "burrow's wattle"
+    ],
+    "8zU": [
+        "burrows’ snakewood",
+        "gizzard wattle"
+    ],
+    "8hh": [
+        "limestone blue wattle",
+        "buchan blue",
+        "buchan blue wattle"
+    ],
+    "kDg": [
+        "western blue mulga"
+    ],
+    "1re": [
+        "tableland wattle",
+        "bluebush wattle",
+        "blue bush"
+    ],
+    "6Ju": [
+        "wallowa",
+        "reed-leaf wattle"
+    ],
+    "SA2": [
+        "gidgee",
+        "stinking wattle",
+        "stinking gidgee",
+        "gidjiirr"
+    ],
+    "AkH": [
+        "boree",
+        "cabbage-tree wattle",
+        "broad-leaved nealie"
+    ],
+    "I4-": [
+        "west Wyalong wattle",
+        "wyalong wattle"
+    ],
+    "ROP": [
+        "purple-wood wattle",
+        "needle wattle",
+        "dead finish"
+    ],
+    "IcS": [
+        "carol's wattle",
+        "narrow leaf currawong"
+    ],
+    "zmd": [
+        "bendee"
+    ],
+    "Rqi": [
+        "glowing wattle"
+    ],
+    "prK": [
+        "brown salwood"
+    ],
+    "g6R": [
+        "motherumbah",
+        "motherumbung"
+    ],
+    "ZFM": [
+        "newry golden wattle",
+        "bellinger River wattle"
+    ],
+    "2pX": [
+        "daintree wattle",
+        "circle fruit salwood"
+    ],
+    "wm8": [
+        "black mulga",
+        "river jam",
+        "milhan",
+        "wantan"
+    ],
+    "wyg": [
+        "kowmung wattle",
+        "kanangra wattle"
+    ],
+    "opy": [
+        "bower wattle",
+        "river wattle",
+        "narrow-leaved bower wattle"
+    ],
+    "kVl": [
+        "wait-a-while",
+        "pin bush",
+        "spine bush"
+    ],
+    "o2z": [
+        "long-pod wattle",
+        "flat-stemmed wattle"
+    ],
+    "kOo": [
+        "curracabah",
+        "black wattle",
+        "acacia cunninghamii"
+    ],
+    "jrc": [
+        "crowded-leaf wattle"
+    ],
+    "joC": [
+        "sugar brother",
+        "spinifex wattle"
+    ],
+    "eLW": [
+        "river jam",
+        "wirewood",
+        "desert oak",
+        "wiry wattle",
+        "dogwood"
+    ],
+    "X-_": [
+        "northern Brother wattle",
+        "north Brother wattle"
+    ],
+    "nmW": [
+        "cowan's wattle"
+    ],
+    "nBz": [
+        "halls Creek wattle"
+    ],
+    "kON": [
+        "hop mulga",
+        "broad-leaved mulga"
+    ],
+    "zTn": [
+        "curracabah"
+    ],
+    "ewp": [
+        "northern wattle",
+        "thick-podded salwood",
+        "brown salwood",
+        "papua New Guinea red wattle",
+        "red wattle"
+    ],
+    "drR": [
+        "chalky wattle"
+    ],
+    "jJB": [
+        "pink gidgee"
+    ],
+    "ZvG": [
+        "knife-leaf wattle",
+        "dogtooth wattle",
+        "half-moon wattle",
+        "golden-glow wattle"
+    ],
+    "EkO": [
+        "wait-a-while",
+        "bohemia"
+    ],
+    "q01": [
+        "coastal wattle",
+        "cyclops wattle",
+        "one-eyed wattle",
+        "red-eyed wattle",
+        "redwreath acacia",
+        "western coastal wattle",
+        "rooikrans",
+        "rooikrans acacia"
+    ],
+    "rcR": [
+        "creekline miniritchie",
+        "red mulga"
+    ],
+    "O75": [
+        "catkin wattle"
+    ],
+    "V6L": [
+        "mount Dangar wattle"
+    ],
+    "k62": [
+        "northern manna gum"
+    ],
+    "uQ9": [
+        "dawson's wattle",
+        "poverty wattle",
+        "mitta wattle"
     ],
     "3xb": [
-        "silver wattle"
+        "silver wattle",
+        "blue wattle",
+        "mimosa"
     ],
-    "HLF": [
-        "koa"
+    "Gro": [
+        "deane's wattle",
+        "green wattle"
     ],
-    "Blh": [
-        "Sydney golden wattle"
+    "IZw": [
+        "spindly wattle"
     ],
-    "PqJ": [
+    "91R": [
+        "black wattle",
+        "early green wattle"
+    ],
+    "BJF": [
+        "tooth-bearing acacia"
+    ],
+    "BFn": [
+        "des Nelson wattle"
+    ],
+    "4mP": [
+        "dietrich wattle"
+    ],
+    "HyG": [
+        "southern salwood"
+    ],
+    "RLN": [
+        "hop leaved wattle",
+        "sticky wattle",
+        "hop bush wattle"
+    ],
+    "Dlh": [
+        "chewings Range wattle"
+    ],
+    "SKW": [
+        "currawang",
+        "lancewood",
+        "spearwood",
+        "coast myall"
+    ],
+    "vUc": [
+        "elephant ear wattle",
+        "dunn's wattle"
+    ],
+    "hp1": [
+        "cedar wattle",
+        "mountain cedar wattle"
+    ],
+    "cB5": [
+        "swamp wattle",
+        "slender wattle"
+    ],
+    "FTc": [
+        "broome pindan wattle",
+        "narrow-leaf pindan wattle"
+    ],
+    "XWX": [
+        "ironwood",
+        "southern ironwood",
+        "desert ironwood",
+        "utjanypa"
+    ],
+    "jlG": [
+        "ironwood",
+        "rosewood",
+        "bunkerman",
+        "doodlallie"
+    ],
+    "Lyt": [
+        "casterton wattle"
+    ],
+    "L11": [
+        "sickle wattle",
+        "sally"
+    ],
+    "eMP": [
+        "broad-leaved hickory",
+        "hickory wattle",
+        "mountain hickory",
+        "large-leaf wattle",
+        "tanning wattle",
         "black wattle"
     ],
+    "gy-": [
+        "scrub ironbark",
+        "rosewood"
+    ],
+    "UTz": [
+        "fern-leaved wattle"
+    ],
+    "1o6": [
+        "fringed wattle",
+        "brisbane golden wattle"
+    ],
+    "Dz3": [
+        "red wattle",
+        "yellow wattle",
+        "primrose ball wattle"
+    ],
+    "zZb": [
+        "montane wattle",
+        "frosted wattle",
+        "forest wattle"
+    ],
+    "3B7": [
+        "velvet wattle",
+        "soft wattle"
+    ],
+    "9aF": [
+        "sooty wattle"
+    ],
+    "6UC": [
+        "bega wattle",
+        "dr George Mountain wattle"
+    ],
+    "rjZ": [
+        "gill's wattle"
+    ],
+    "OcE": [
+        "hickory wattle",
+        "feathery wattle"
+    ],
+    "kYS": [
+        "wuluru"
+    ],
+    "ZVw": [
+        "ganambureng"
+    ],
+    "T1d": [
+        "miniritchie"
+    ],
+    "Liq": [
+        "karijini wattle",
+        "hamersley Range wattle"
+    ],
+    "1Fs": [
+        "hammond's wattle"
+    ],
+    "DG1": [
+        "brigalow",
+        "brigalow spearwood",
+        "orkor"
+    ],
+    "v9t": [
+        "haviland's wattle",
+        "needle wattle"
+    ],
+    "Utw": [
+        "clubleaf wattle"
+    ],
+    "AUq": [
+        "highland tamarind",
+        "tamarin des hauts"
+    ],
+    "KKg": [
+        "sticky wattle",
+        "howitt's wattle"
+    ],
+    "NTX": [
+        "yarrabah wattle"
+    ],
+    "Frn": [
+        "lightwood",
+        "hickory wattle"
+    ],
+    "-c4": [
+        "kanji bush",
+        "baderi",
+        "camel bush",
+        "fire wattle",
+        "kanyji bush",
+        "ranji bush"
+    ],
+    "tnw": [
+        "narrow-leaf wattle"
+    ],
+    "1RI": [
+        "ingram's wattle"
+    ],
+    "HDZ": [
+        "fibre-barked wattle"
+    ],
+    "r8L": [
+        "motherumbung"
+    ],
+    "eGv": [
+        "jibberding wattle",
+        "willow-leafed wattle"
+    ],
+    "Bec": [
+        "yetman wattle"
+    ],
+    "tTD": [
+        "wanderrie wattle",
+        "witchetty bush",
+        "granite wattle"
+    ],
+    "Y1-": [
+        "buffalo wattle"
+    ],
+    "y4u": [
+        "koaiʻa",
+        "koaiʻe"
+    ],
+    "rXD": [
+        "western salwood"
+    ],
+    "P_1": [
+        "silver wattle",
+        "shaggy wattle"
+    ],
+    "wud": [
+        "ball wattle"
+    ],
+    "kYA": [
+        "latz's wattle",
+        "tjilpi wattle"
+    ],
+    "NDp": [
+        "leeuwen's wattle",
+        "spear Hill wattle"
+    ],
+    "r_C": [
+        "heath wattle"
+    ],
+    "HI_": [
+        "curracabah",
+        "lamb's tail wattle",
+        "early flowering black wattle",
+        "black wattle"
+    ],
+    "U76": [
+        "coast golden wattle"
+    ],
+    "pnr": [
+        "cinnamon wattle"
+    ],
+    "GxV": [
+        "north coast wattle"
+    ],
+    "8U5": [
+        "irvinebank wattle"
+    ],
+    "qyJ": [
+        "townsville wattle",
+        "slender wattle"
+    ],
+    "X9g": [
+        "northern silver wattle"
+    ],
+    "rBY": [
+        "stringybark wattle",
+        "narrow-leaved wattle"
+    ],
+    "3OO": [
+        "white wattle",
+        "flax wattle"
+    ],
+    "Peg": [
+        "nelia",
+        "nealie"
+    ],
+    "sn7": [
+        "yalgoo",
+        "long-leaved wattle"
+    ],
+    "uWb": [
+        "slender flower wattle"
+    ],
+    "L_W": [
+        "long-leaf wattle",
+        "narrow-leaf wattle"
+    ],
+    "AtE": [
+        "ma Ma Creek wattle"
+    ],
+    "7bz": [
+        "lunate-leaved acacia"
+    ],
+    "S0Q": [
+        "mabels's wattle",
+        "black wattle"
+    ],
+    "jPe": [
+        "mullan wattle"
+    ],
+    "n1u": [
+        "zig-zag wattle"
+    ],
+    "cq5": [
+        "maiden's wattle"
+    ],
+    "rpH": [
+        "womel"
+    ],
+    "LtP": [
+        "marramamba"
+    ],
+    "lDh": [
+        "maslin's wattle"
+    ],
+    "PqJ": [
+        "black wattle",
+        "late black wattle",
+        "green wattle"
+    ],
     "Bov": [
-        "Australian blackwood"
+        "australian blackwood"
+    ],
+    "OSP": [
+        "yarran"
+    ],
+    "Pp1": [
+        "zig-zag wattle"
+    ],
+    "mic": [
+        "manna wattle",
+        "gum wattle"
+    ],
+    "fQk": [
+        "bowyakka"
+    ],
+    "J4Y": [
+        "cape York salwood"
+    ],
+    "uG1": [
+        "hairy silver wattle",
+        "velvet acacia",
+        "hoary silver wattle"
+    ],
+    "HFJ": [
+        "mallee wattle"
+    ],
+    "8RU": [
+        "red wattle",
+        "gawar",
+        "curly-bark wattle",
+        "curly-bark tree",
+        "hill turpentine"
+    ],
+    "c9q": [
+        "mountford's wattle"
+    ],
+    "xDo": [
+        "variable sallow wattle",
+        "narrow-leaved wattle"
+    ],
+    "bf8": [
+        "milky mulga",
+        "hilltop mulga"
+    ],
+    "Rmg": [
+        "spiked wattle"
+    ],
+    "sRy": [
+        "myrtle wattle",
+        "red stem wattle",
+        "red-stemmed wattle"
+    ],
+    "MBL": [
+        "oleander wattle",
+        "silver wattle",
+        "pechy wattle"
+    ],
+    "jO0": [
+        "wodjil"
+    ],
+    "yk-": [
+        "pin bush",
+        "wait a while",
+        "spine bush"
+    ],
+    "J8I": [
+        "mountain hickory",
+        "mountain hickory wattle"
+    ],
+    "qog": [
+        "stiff-leaf wattle",
+        "blunt-leaf wattle"
+    ],
+    "x0r": [
+        "kata Tjuta wattle",
+        "mount Olga wattle"
+    ],
+    "KTI": [
+        "coastal wattle"
+    ],
+    "PXh": [
+        "mountain wattle"
+    ],
+    "eVk": [
+        "pilbara weeping wattle",
+        "needle-leaf wattle",
+        "straight-podded wattle"
+    ],
+    "bYN": [
+        "corkwood wattle",
+        "irish wattle"
+    ],
+    "PMN": [
+        "boree",
+        "umbrella wattle",
+        "umbrella bush",
+        "whyacka",
+        "middia",
+        "miljee",
+        "nella",
+        "curly yarran"
+    ],
+    "WQ5": [
+        "spike wattle"
+    ],
+    "U6A": [
+        "needlewood"
+    ],
+    "ISE": [
+        "western myall"
+    ],
+    "axU": [
+        "weeping mulga"
+    ],
+    "cEO": [
+        "parramatta wattle"
+    ],
+    "muY": [
+        "silver-stemmed wattle"
+    ],
+    "HUM": [
+        "pataczek's wattle",
+        "wally's wattle"
+    ],
+    "VC2": [
+        "pedley's wattle"
     ],
     "OLV": [
-        "weeping acacia"
+        "weeping myall",
+        "true myall",
+        "myall",
+        "silver-leaf boree",
+        "boree",
+        "nilyah"
+    ],
+    "oHx": [
+        "mountain hickory wattle",
+        "blackwood"
+    ],
+    "w3B": [
+        "karri wattle"
+    ],
+    "daO": [
+        "lancewood"
+    ],
+    "_Et": [
+        "birdsville wattle",
+        "waddy",
+        "waddi",
+        "waddy-wood"
+    ],
+    "hMH": [
+        "buffalo sallow wattle",
+        "mount Buffalo wattle"
+    ],
+    "gf1": [
+        "pickard's wattle",
+        "birds nest wattle"
+    ],
+    "0EK": [
+        "pindan wattle",
+        "ghost wattle"
+    ],
+    "kP7": [
+        "western silver wattle",
+        "hairy feather wattle"
+    ],
+    "0sc": [
+        "prain's wattle"
+    ],
+    "h5c": [
+        "ovens wattle",
+        "oven wattle",
+        "wedge-leaved wattle",
+        "tumut wattle"
+    ],
+    "RHd": [
+        "golden rain wattle",
+        "goldenrain wattle",
+        "gosford wattle",
+        "grey sally"
+    ],
+    "a0A": [
+        "black gidgee",
+        "gidgee",
+        "tawu"
+    ],
+    "3wS": [
+        "downy wattle"
+    ],
+    "uEQ": [
+        "prickly moses",
+        "western prickly moses"
     ],
     "0mk": [
         "golden wattle"
     ],
-    "QtB": [
-        "broad maple"
+    "Bwq": [
+        "bolivia wattle"
+    ],
+    "2iF": [
+        "ranji bush"
+    ],
+    "bIl": [
+        "granite wattle",
+        "spreading wattle"
+    ],
+    "dl8": [
+        "horse mulga",
+        "bowgada wattle"
+    ],
+    "PYh": [
+        "bank catclaw",
+        "prostrate acacia",
+        "desert carpet"
+    ],
+    "1tJ": [
+        "minni ritchi",
+        "western red mulga"
+    ],
+    "hEc": [
+        "rosewood",
+        "ringy rosewood",
+        "spear wattle"
+    ],
+    "HkB": [
+        "rice's wattle"
+    ],
+    "MLd": [
+        "nealie"
+    ],
+    "SHg": [
+        "silver wattle",
+        "creek wattle"
+    ],
+    "dEo": [
+        "summer-scented wattle",
+        "skunk tree"
+    ],
+    "hSz": [
+        "bacchus Marsh  wattle"
+    ],
+    "G0a": [
+        "tooroo",
+        "roth's wattle",
+        "lancewood",
+        "spoon tree"
+    ],
+    "QLq": [
+        "red stem wattle",
+        "red stemmed wattle",
+        "red leaved wattle"
+    ],
+    "HNB": [
+        "coojong",
+        "golden wreath wattle",
+        "orange wattle",
+        "blue-leafed wattle",
+        "western Australian golden wattle",
+        "port Jackson willow"
+    ],
+    "_2-": [
+        "limestone wattle",
+        "silver bark wattle"
+    ],
+    "LJO": [
+        "saw range wattle"
+    ],
+    "q_C": [
+        "stony ridge wattle"
+    ],
+    "HET": [
+        "lancewood"
+    ],
+    "BQR": [
+        "whispering myall"
+    ],
+    "IRD": [
+        "bastard mulga",
+        "false witchetty bush"
+    ],
+    "ULg": [
+        "bodalla silver wattle"
+    ],
+    "F_U": [
+        "heathlands wattle",
+        "sims’ wattle"
+    ],
+    "Jlz": [
+        "western rosewood"
+    ],
+    "kED": [
+        "currawong",
+        "currawang"
+    ],
+    "4pT": [
+        "mudgee wattle"
+    ],
+    "3S5": [
+        "kimberley ghost wattle"
+    ],
+    "Yxu": [
+        "shoestring acacia"
+    ],
+    "hdi": [
+        "story's wattle"
+    ],
+    "v1N": [
+        "round-leaf wattle"
+    ],
+    "sSf": [
+        "river wattle",
+        "bower wattle",
+        "narrow-leaf bower wattle",
+        "sticky bower wattle"
+    ],
+    "8Xw": [
+        "spreading gidgee"
+    ],
+    "Veg": [
+        "net-veined wattle"
+    ],
+    "Xan": [
+        "awl-leaf wattle"
+    ],
+    "i09": [
+        "symon's wattle"
+    ],
+    "BTU": [
+        "bardi bush"
+    ],
+    "TuW": [
+        "goodlands wattle"
+    ],
+    "CAf": [
+        "narrow-leaved wattle",
+        "broom wattle",
+        "minyana",
+        "slender mulga",
+        "slender wattle"
+    ],
+    "m6Z": [
+        "boree"
+    ],
+    "jJC": [
+        "sunshine wattle"
+    ],
+    "7yS": [
+        "curara",
+        "kurara",
+        "dead finish"
+    ],
+    "saQ": [
+        "thomson's wattle"
+    ],
+    "lw2": [
+        "tingoora wattle"
+    ],
+    "hku": [
+        "minni ritchi",
+        "curly-bark tree",
+        "sweet-scented minni ritchi",
+        "pilbara minni ritchi"
+    ],
+    "bTN": [
+        "three-veined wattle"
+    ],
+    "D6f": [
+        "three-nerve wattle",
+        "three nerved wattle",
+        "green wattle"
+    ],
+    "lwj": [
+        "spurwing wattle"
+    ],
+    "sH_": [
+        "pindan wattle",
+        "spear wattle",
+        "wongai"
+    ],
+    "PEZ": [
+        "tyson's wattle"
+    ],
+    "oRB": [
+        "coast wirilda"
+    ],
+    "Fbt": [
+        "undoolya wattle",
+        "sickle-leaf wattle"
+    ],
+    "I8G": [
+        "varnish wattle"
+    ],
+    "mXH": [
+        "veronica's wattle"
+    ],
+    "DRO": [
+        "acacia kalgoorliensis"
+    ],
+    "aiD": [
+        "prickly Moses",
+        "prickly-leaved wattle",
+        "star-leaved acacia",
+        "prickly mimosa",
+        "whorl-leaved acacia"
+    ],
+    "ThB": [
+        "weeping boree",
+        "weeping acacia",
+        "hairy wattle"
+    ],
+    "wFm": [
+        "gundabluie",
+        "bardi bush"
+    ],
+    "z6P": [
+        "sticky wattle"
+    ],
+    "fxs": [
+        "wanyu",
+        "silver-leaf mulga"
+    ],
+    "-jM": [
+        "white stemmed wattle"
+    ],
+    "D7e": [
+        "snakewood",
+        "snake-wood"
+    ],
+    "6nW": [
+        "prairie acacia",
+        "white ball acacia",
+        "ocpatl",
+        "palo de pulque"
+    ],
+    "vuU": [
+        "copperleaf",
+        "jacob’s coat"
+    ],
+    "a7e": [
+        "barbel palm",
+        "palm hearts"
     ],
     "RZT": [
-        "deep-veined maple"
+        "pointed-leaf maple",
+        "asanoha-kaede"
     ],
     "ezS": [
         "bearded maple"
@@ -77,330 +1224,742 @@
     "d40": [
         "trident maple"
     ],
-    "BNY": [
-        "Himalayan maple"
-    ],
-    "7PT": [
-        "Campbell's maple"
-    ],
     "UXi": [
         "field maple"
     ],
     "A6v": [
-        "Kyushu maple",
+        "kyushu maple",
         "red snakebark maple"
     ],
     "JC4": [
-        "Caucasian maple",
-        "coliseum maple",
-        "Cappadocian maple"
+        "cappadocian maple"
     ],
     "a7t": [
         "hornbeam maple"
     ],
     "hwM": [
-        "tail-leaf maple"
+        "candle-shape maple"
     ],
     "v98": [
         "vine maple"
     ],
     "7i2": [
-        "vine-leaved maple"
+        "vine-leafed maple",
+        "vineleaf maple"
     ],
     "WNt": [
-        "hawthorn maple",
-        "hawthorn-leaved maple"
+        "acer crataegifolium",
+        "hawthorn-leaf maple",
+        "uri maple"
     ],
     "knt": [
-        "David's maple"
+        "père David's maple"
     ],
     "cr1": [
-        "horned maple"
+        "horned maple",
+        "devil maple"
     ],
     "33F": [
-        "lime-leaved maple"
-    ],
-    "u2p": [
-        "elegant maple"
+        "lime-leaved maple",
+        "linden leaved maple"
     ],
     "Wt_": [
-        "Faber maple"
-    ],
-    "_uh": [
-        "Fenzl's maple"
-    ],
-    "42U": [
-        "Forrest's maple"
-    ],
-    "85C": [
-        "Douglas maple",
-        "Rocky Mountain maple"
+        "faber's maple"
     ],
     "-Df": [
-        "Spanish maple"
+        "spanish maple"
     ],
     "TGC": [
-        "bigtooth maple",
-        "canyon maple"
+        "bigtooth maple"
     ],
     "xQi": [
         "paperbark maple"
     ],
-    "zu0": [
-        "Heldreich's maple",
-        "Greek maple"
-    ],
-    "lW9": [
-        "Henry's maple"
-    ],
     "eWq": [
-        "Balkan maple"
+        "balkan maple"
     ],
     "HK6": [
-        "fullmoon maple",
-        "downy Japanese maple"
+        "amur maple",
+        "downy Japanese-maple",
+        "fullmoon maple"
+    ],
+    "8aL": [
+        "korean butterfly maple"
     ],
     "u89": [
-        "smoothbark maple"
+        "smooth maple",
+        "nepal maple"
     ],
     "BUC": [
-        "chalk maple"
+        "chalk maple",
+        "pale-bark maple",
+        "whitebark maple",
+        "sugar maple"
     ],
     "i7q": [
-        "Lobel's maple"
+        "lobel's maple",
+        "l'Obel's maple"
     ],
     "oof": [
-        "Oregon maple",
-        "bigleaf maple"
+        "bigleaf maple",
+        "oregon maple"
     ],
     "GP3": [
-        "Manchurian maple"
+        "manchurian maple"
     ],
     "wSZ": [
-        "Nikko maple"
+        "nikko maple"
     ],
-    "TID": [
-        "Maximowicz's maple"
+    "Jyv": [
+        "small-leaved maple"
     ],
     "uQU": [
-        "Miyabe's maple"
+        "miyabe's",
+        "miyabe maple"
     ],
     "xEi": [
-        "Montpelier maple"
+        "montpellier maple"
     ],
     "C6n": [
-        "boxelder",
-        "ash-leaf maple",
-        "Manitoba maple"
+        "box elder",
+        "boxelder maple",
+        "manitoba maple",
+        "ash-leaved maple"
     ],
     "JLe": [
         "black maple"
     ],
     "UfZ": [
-        "Nippon maple"
+        "nippon maple"
+    ],
+    "L51": [
+        "himalayan maple",
+        "evergreen maple",
+        "kashmir maple"
     ],
     "lKj": [
-        "Syrian maple"
+        "syrian maple"
     ],
     "O4C": [
-        "Oliver's maple"
+        "oliver's Maple",
+        "oliver Maple"
     ],
     "0G7": [
-        "Italian maple"
+        "italian maple"
     ],
     "IPw": [
-        "Japanese maple"
+        "japanese maple",
+        "palmate maple",
+        "smooth Japanese maple"
     ],
     "0A8": [
         "striped maple",
-        "moosewood"
+        "moosewood",
+        "moose maple",
+        "goosefoot maple"
+    ],
+    "yn7": [
+        "punjab maple"
+    ],
+    "R7d": [
+        "yellow-paint maple"
     ],
     "XuP": [
-        "Norway maple"
+        "norway maple"
     ],
     "sQY": [
+        "sycamore",
         "sycamore maple"
     ],
     "A89": [
-        "Korean maple"
+        "korean maple",
+        "purplebloom maple"
+    ],
+    "gx1": [
+        "japanese red maple"
     ],
     "Lip": [
-        "red maple"
+        "red maple",
+        "swamp",
+        "water",
+        "soft maple"
     ],
     "v9q": [
-        "redvein maple"
+        "grey-budded snake-bark-maple",
+        "redvein maple",
+        "honshū maple"
     ],
     "wJF": [
-        "silver maple"
+        "silver maple",
+        "creek maple",
+        "silverleaf maple",
+        "soft maple",
+        "large maple",
+        "water maple",
+        "swamp maple",
+        "white maple"
     ],
     "F-3": [
         "sugar maple"
     ],
     "jHI": [
-        "Cretan maple"
+        "cretan maple"
     ],
     "HgY": [
-        "Shirasawa's maple"
+        "shirasawa maple",
+        "fullmoon maple"
     ],
     "6Km": [
-        "Siebold's maple"
+        "siebold's maple"
     ],
-    "U8p": [
-        "Campbell's maple"
+    "WAW": [
+        "south China maple"
     ],
     "wCN": [
-        "Skutch's maple"
+        "cloud forest sugar maple",
+        "guatemalan maple",
+        "mexican sugar maple",
+        "skutch maple"
     ],
     "THg": [
         "mountain maple",
-        "moose maple"
+        "dwarf maple",
+        "moose maple",
+        "white maple"
     ],
-    "TbF": [
-        "birch-leaved maple"
+    "DLL": [
+        "franchet’s maple",
+        "himalayan maple"
     ],
     "JM5": [
-        "Tatar maple"
+        "tatar maple",
+        "tatarian maple"
+    ],
+    "f3A": [
+        "manchurian striped maple"
     ],
     "xRv": [
         "three-flowered maple"
     ],
     "1t1": [
-        "Shandong maple"
+        "shantung maple",
+        "shandong maple",
+        "purpleblow maple"
     ],
-    "yi-": [
-        "Ukurundu maple"
+    "84H": [
+        "butterfly maple",
+        "tschonoski's maple"
     ],
-    "wCZ": [
-        "velvet maple"
+    "-ty": [
+        "tutcher's maple"
     ],
-    "uVH": [
-        "Wilson's maple"
+    "T8r": [
+        "rusty carabeen"
+    ],
+    "66d": [
+        "chaff tree",
+        "soft-wood"
+    ],
+    "pjS": [
+        "caldcluvia paniculosa",
+        "soft corkwood"
+    ],
+    "-Ag": [
+        "african wintersweet",
+        "dune poison bush",
+        "hottentot's poison",
+        "poison arrow plant",
+        "wintersweet"
+    ],
+    "iLK": [
+        "round-leaved poison-bush"
+    ],
+    "RNb": [
+        "yellow satinheart",
+        "bonewood"
+    ],
+    "s67": [
+        "acradenia frankliniae",
+        "whitey wood",
+        "whity wood"
+    ],
+    "Gsq": [
+        "moth fruit"
+    ],
+    "JCl": [
+        "cuban belly palm",
+        "corojo"
+    ],
+    "rTi": [
+        "acid berry",
+        "lemon aspen",
+        "plasticine tree",
+        "plasticene aspen"
+    ],
+    "BG3": [
+        "lemon aspen",
+        "lemon wood"
+    ],
+    "SRM": [
+        "white aspen"
+    ],
+    "aj6": [
+        "thornton aspen"
+    ],
+    "wDr": [
+        "byron Bay acronychia"
+    ],
+    "vhM": [
+        "mountain aspen"
+    ],
+    "BDZ": [
+        "crater aspen"
+    ],
+    "Yaz": [
+        "eungella aspen"
+    ],
+    "CDp": [
+        "logan apple",
+        "fraser Island apple",
+        "green tree"
+    ],
+    "BDE": [
+        "hard aspen",
+        "glossy acronychia",
+        "northern white lilly pilly"
+    ],
+    "94j": [
+        "scented acronychia"
+    ],
+    "fxC": [
+        "white aspen",
+        "yellow wood"
+    ],
+    "jhU": [
+        "doughwood",
+        "silver birch",
+        "soapwood"
+    ],
+    "S2a": [
+        "few-flowered acronychia",
+        "soft acronychia"
+    ],
+    "X-R": [
+        "hairy acronychia",
+        "hairy aspen"
+    ],
+    "dam": [
+        "acronychia suberosa",
+        "corky acronychia"
+    ],
+    "cV8": [
+        "white aspen",
+        "lemon aspen",
+        "hairy aspen",
+        "fuzzy lemon aspen"
+    ],
+    "K_Y": [
+        "silver aspen",
+        "doughwood",
+        "snowwood",
+        "mushyberry"
+    ],
+    "cEx": [
+        "malavirinji",
+        "eeyoli",
+        "pisa."
+    ],
+    "NWu": [
+        "elephant ears"
     ],
     "a9A": [
-        "African baobab",
-        "monkeybread tree"
+        "african baobab"
     ],
     "hjF": [
-        "Grandidier's baobab"
+        "grandidier's baobab"
     ],
     "7MB": [
-        "boab",
-        "Australian baobab"
-    ],
-    "-an": [
-        "Madagascar baobab"
+        "boab"
     ],
     "SbL": [
-        "Perrier's baobab"
+        "perrier's baobab"
     ],
     "ACd": [
         "fony baobab"
     ],
     "qYS": [
-        "Suarez baobab"
+        "suarez baobab"
     ],
     "8Yx": [
-        "za baobab"
+        "baobab"
+    ],
+    "2zc": [
+        "teenek"
+    ],
+    "FR7": [
+        "woolly bush"
+    ],
+    "mgQ": [
+        "bushman poison"
+    ],
+    "C4o": [
+        "redshanks",
+        "ribbonwood",
+        "ribbon bush"
+    ],
+    "V2F": [
+        "manila palm"
+    ],
+    "0QP": [
+        "bael",
+        "bengal quince",
+        "golden apple",
+        "japanese bitter orange",
+        "stone apple",
+        "wood apple"
+    ],
+    "mr2": [
+        "ambatch",
+        "pith-tree",
+        "balsa wood tree",
+        "umburu"
+    ],
+    "KTZ": [
+        "california buckeye",
+        "california horse-chestnut"
+    ],
+    "rA2": [
+        "chinese horse chestnut"
     ],
     "qq6": [
-        "yellow buckeye"
+        "yellow buckeye",
+        "common buckeye",
+        "sweet buckeye"
     ],
     "I-M": [
-        "Ohio buckeye",
-        "fetid buckeye"
+        "ohio buckeye"
     ],
     "rZc": [
         "horse chestnut"
+    ],
+    "vbt": [
+        "indian horse-chestnut",
+        "himalayan horse chestnut"
+    ],
+    "wFs": [
+        "parry buckeye",
+        "baja California buckeye"
     ],
     "AQW": [
         "bottlebrush buckeye"
     ],
     "NXX": [
-        "red buckeye"
+        "red buckeye",
+        "firecracker plant"
     ],
     "gEX": [
         "painted buckeye"
     ],
-    "ntC": [
-        "musengera",
-        "zigba"
+    "cCH": [
+        "japanese horse-chestnut"
+    ],
+    "9rx": [
+        "african mahogany",
+        "afzelia",
+        "lenke",
+        "lengue",
+        "apa",
+        "doussi"
+    ],
+    "ULn": [
+        "apa"
+    ],
+    "DIC": [
+        "white afzelia",
+        "apa"
+    ],
+    "IWF": [
+        "pod mahogany"
+    ],
+    "zVb": [
+        "black kauri",
+        "blue kauri"
     ],
     "Wz8": [
-        "kauri pine",
-        "dammar"
+        "kauri"
     ],
-    "j_i": [
-        "red kauri"
+    "nwb": [
+        "borneo kauri"
     ],
-    "Js-": [
-        "Dundathu pine",
-        "Queensland kauri",
-        "smooth bark kauri"
+    "jU0": [
+        "amboyna pine",
+        "almaciga",
+        "almasiga"
     ],
-    "H5b": [
-        "Western Australian peppermint",
-        "Swan River peppermint",
-        "Australian willow myrtle"
+    "xqu": [
+        "pacific kauri"
+    ],
+    "WpH": [
+        "bull kauri"
+    ],
+    "7Oa": [
+        "mount Panié kauri"
+    ],
+    "6_b": [
+        "sarawak kauri"
+    ],
+    "pgJ": [
+        "mountain kauri"
+    ],
+    "d5L": [
+        "thorn-crested century plant",
+        "thorn-crested agave"
+    ],
+    "bo-": [
+        "havana snakeroot",
+        "white mistflower"
+    ],
+    "Ny-": [
+        "pacific maple"
+    ],
+    "Wh5": [
+        "droopy leaf",
+        "priyangu"
+    ],
+    "SLn": [
+        "mapunyao",
+        "fischil liyoos"
+    ],
+    "mPl": [
+        "leaf litter plant."
     ],
     "-H6": [
         "tree of heaven",
-        "ailanthus"
+        "ailanthus",
+        "varnish tree",
+        "chouchun"
+    ],
+    "CE_": [
+        "white siris"
+    ],
+    "zsb": [
+        "corozo"
+    ],
+    "IXM": [
+        "akania"
+    ],
+    "ED3": [
+        "bigleaf akrosida"
+    ],
+    "cAZ": [
+        "sage-leaved alangium"
+    ],
+    "gPw": [
+        "alberta"
+    ],
+    "pQE": [
+        "belmont siris"
+    ],
+    "8LJ": [
+        "musase"
     ],
     "0yT": [
-        "silk tree",
-        "mimosa",
-        "pea shame"
+        "persian silk tree",
+        "pink silk tree"
     ],
-    "x7f": [
-        "lebbeck",
-        "woman's tongue"
+    "hyC": [
+        "albizia lucidor"
+    ],
+    "l3D": [
+        "kali siris",
+        "black siris",
+        "ceylon rosewood"
+    ],
+    "2Af": [
+        "white siris",
+        "karoi tree"
+    ],
+    "M31": [
+        "zulu albizia"
+    ],
+    "R1o": [
+        "iporuru",
+        "iporoni",
+        "iporuro",
+        "ipururo",
+        "ipurosa",
+        "macochihua",
+        "niando",
+        "pajaro"
+    ],
+    "9kl": [
+        "native holly"
+    ],
+    "pf7": [
+        "hairy alectryon"
+    ],
+    "6TO": [
+        "beach bird's eye",
+        "beach alectryon"
+    ],
+    "YWL": [
+        "scrub boonaree",
+        "holly bush"
+    ],
+    "kRA": [
+        "titoki"
+    ],
+    "OO2": [
+        "boonaree",
+        "inland rosewood"
+    ],
+    "bQE": [
+        "native quince",
+        "wild quince",
+        "bird's eye"
+    ],
+    "8MR": [
+        "hairy birds eye",
+        "red jacket",
+        "woolly rambutan"
     ],
     "S8U": [
-        "candlenut"
+        "candlenut",
+        "candleberry",
+        "indian walnut",
+        "kemiri",
+        "varnish tree",
+        "nuez de la India",
+        "buah keras",
+        "godou",
+        "kukui nut tree",
+        "kekuna tree"
+    ],
+    "9JV": [
+        "borojó"
+    ],
+    "G4D": [
+        "buri palm"
+    ],
+    "whJ": [
+        "shrubby she-oak"
+    ],
+    "xtr": [
+        "desert oak"
+    ],
+    "_tW": [
+        "karri oak",
+        "karri she-oak"
+    ],
+    "6t5": [
+        "northern sheoak"
+    ],
+    "QQI": [
+        "broombush sheoak"
+    ],
+    "LzO": [
+        "duncan's sheoak"
+    ],
+    "yDg": [
+        "western sheoak",
+        "common sheoak",
+        "wA sheoak"
+    ],
+    "Ugm": [
+        "allocasuarina  grampiana",
+        "grampians sheoak"
+    ],
+    "57_": [
+        "mallee sheoak"
+    ],
+    "oa3": [
+        "rock sheoak",
+        "sighing sheoak"
+    ],
+    "Ijw": [
+        "woolly oak",
+        "stringybark she-oak"
+    ],
+    "qgN": [
+        "black sheoak",
+        "black she-oak",
+        "river black-oak"
+    ],
+    "lBG": [
+        "buloke",
+        "bull-oak"
+    ],
+    "yhe": [
+        "necklace sheoak"
+    ],
+    "kGa": [
+        "nielsen Park she-oak"
+    ],
+    "UMQ": [
+        "small bull oak",
+        "stalked oak-bush",
+        "tall oak-bush"
+    ],
+    "XXS": [
+        "rose she-oak",
+        "forest oak"
+    ],
+    "1Yn": [
+        "drooping she-oak",
+        "drooping sheoak"
+    ],
+    "8Gk": [
+        "titberry"
+    ],
+    "8Bj": [
+        "bastard taaibos"
+    ],
+    "P2O": [
+        "dune false crowberry",
+        "dune false currant"
     ],
     "Hvy": [
-        "satin oak"
+        "queensland tree waratah",
+        "red silky oak"
     ],
-    "ESB": [
-        "Andean alder"
+    "XF2": [
+        "dorrigo waratah"
+    ],
+    "rN2": [
+        "madagascar ocotillo"
     ],
     "IB0": [
-        "Italian alder"
-    ],
-    "CbJ": [
-        "long peduncled alder"
+        "italian alder"
     ],
     "2UB": [
-        "Formosan alder",
-        "Formosa alder"
+        "formosan alder"
     ],
     "srr": [
-        "European alder"
+        "common alder",
+        "black alder",
+        "european alder",
+        "european black alder",
+        "alder"
     ],
     "weu": [
-        "gray alder"
-    ],
-    "5BR": [
-        "Japanese alder"
+        "grey alder",
+        "speckled alder"
     ],
     "nDg": [
-        "Mexican alder"
+        "mexican alder"
     ],
     "8A4": [
-        "seaside alder"
-    ],
-    "FIK": [
-        "Nepalese alder"
+        "seaside alder",
+        "brook alder"
     ],
     "WYH": [
-        "Himalayan alder"
+        "west Himalayan alder"
     ],
     "UTS": [
-        "Arizona alder"
+        "arizona alder"
     ],
     "NPj": [
-        "Oriental alder",
-        "Syrian alder"
+        "oriental alder"
     ],
     "2Kc": [
         "white alder"
@@ -409,162 +1968,578 @@
         "red alder"
     ],
     "hA5": [
-        "common alder",
         "hazel alder",
-        "tag alder",
         "smooth alder"
     ],
     "OiN": [
-        "Caucasian alder"
+        "caucasian alder"
+    ],
+    "L44": [
+        "uitenhage Aloe"
+    ],
+    "NMD": [
+        "rat aloe"
+    ],
+    "WKx": [
+        "zimbabwe Aloe"
+    ],
+    "6Aq": [
+        "bitter aloe"
+    ],
+    "6R5": [
+        "mountain aloe",
+        "flat-flowered aloe"
+    ],
+    "9rN": [
+        "french Aloe"
+    ],
+    "q6i": [
+        "bottlebrush Aloe"
+    ],
+    "66k": [
+        "dune Aloe"
     ],
     "qk7": [
-        "giant tree aloe"
+        "aloe bainesii",
+        "aloe barberae",
+        "tree aloe"
     ],
     "12Y": [
-        "quiver tree"
+        "aloe dichotoma",
+        "quiver tree",
+        "kokerboom"
+    ],
+    "Ouq": [
+        "aloe eminens"
+    ],
+    "I0n": [
+        "aloe pillansii",
+        "giant quiver tree",
+        "bastard quiver tree"
+    ],
+    "ZJN": [
+        "aloe ramosissima"
+    ],
+    "OLh": [
+        "sweet almond verbena",
+        "sweet almond bush"
+    ],
+    "Umj": [
+        "red ash",
+        "soap tree"
+    ],
+    "8Zu": [
+        "white ash"
+    ],
+    "S7-": [
+        "quinine bush",
+        "bitterbark"
+    ],
+    "LQt": [
+        "hard alstonia",
+        "hard milkwood",
+        "big-leaved macrophyllum"
+    ],
+    "_-h": [
+        "blackboard tree",
+        "devil's tree"
+    ],
+    "ng1": [
+        "hard milkwood",
+        "siamese balsa"
     ],
     "1bY": [
-        "Mexican alvaradoa"
+        "mexican alvaradoa"
     ],
     "t8I": [
-        "saskatoon"
+        "saskatoon",
+        "pacific serviceberry",
+        "western serviceberry",
+        "alder-leaf shadbush",
+        "dwarf shadbush",
+        "chuckley pear",
+        "western juneberry"
     ],
     "bD6": [
-        "downy serviceberry"
+        "downy serviceberry",
+        "common serviceberry"
     ],
     "Y_0": [
-        "Asian serviceberry"
-    ],
-    "BZZ": [
-        "mountain serviceberry",
-        "alpine serviceberry"
+        "korean juneberry",
+        "asian serviceberry"
     ],
     "yEM": [
-        "eastern serviceberry",
-        "shadblow serviceberry"
+        "bilberry",
+        "canadian serviceberry",
+        "chuckle-berry",
+        "currant-tree",
+        "juneberry",
+        "shad-blow serviceberry",
+        "shad-blow",
+        "shadbush",
+        "shadbush serviceberry",
+        "sugarplum",
+        "thicket serviceberry"
     ],
     "uQO": [
-        "Wiegand's serviceberry"
+        "wiegand's shadbush"
     ],
     "5UN": [
+        "smooth shadbush",
         "smooth serviceberry",
-        "Allegheny serviceberry"
+        "allegheny serviceberry"
+    ],
+    "KWF": [
+        "pale serviceberry",
+        "western serviceberry"
     ],
     "8x6": [
-        "roundleaf serviceberry",
-        "red-twigged serviceberry"
+        "red-twigged shadbush",
+        "roundleaf serviceberry"
     ],
     "YJE": [
-        "Chinese serviceberry"
+        "chinese serviceberry"
     ],
     "dmv": [
-        "Utah serviceberry"
+        "utah serviceberry"
     ],
-    "IAZ": [
-        "black calabash"
+    "O0X": [
+        "catkin yew"
     ],
-    "Xet": [
-        "cashew"
+    "RjV": [
+        "taiwan catkin yew"
     ],
-    "bw_": [
-        "cherimoya"
+    "WHL": [
+        "yunnan catkin yew"
     ],
-    "8Qf": [
-        "pond apple"
+    "mS-": [
+        "luma"
     ],
-    "vzI": [
-        "custard apple",
-        "bullock's heart",
-        "bull's heart",
-        "cashiman",
-        "sitaphal",
-        "shareefah"
+    "MOE": [
+        "meli"
     ],
-    "PPl": [
-        "sweetsop",
-        "sugar-apple"
+    "ubf": [
+        "cuachalalate"
     ],
-    "uF_": [
-        "upas",
-        "ipoh",
-        "dart-poison tree"
+    "SYR": [
+        "black calabash",
+        "chaff-bush"
+    ],
+    "yMw": [
+        "wild cashew",
+        "espavé"
+    ],
+    "Ysl": [
+        "galo",
+        "galonut"
+    ],
+    "Okg": [
+        "vilca",
+        "huilco",
+        "huilca",
+        "wilco",
+        "willka",
+        "curupay",
+        "curupau",
+        "cebil",
+        "angico"
+    ],
+    "4Ep": [
+        "yopo",
+        "jopo",
+        "cohoba",
+        "parica",
+        "calcium tree"
+    ],
+    "xvm": [
+        "blackfellow's hemp",
+        "brush kurrajong"
+    ],
+    "fUa": [
+        "narrow-leaved apple"
+    ],
+    "VRR": [
+        "sydney red gum",
+        "rusty gum",
+        "smooth-barked apple"
+    ],
+    "Toh": [
+        "rough-barked apple"
+    ],
+    "wq_": [
+        "dwarf apple"
+    ],
+    "M4x": [
+        "charmhaven apple"
+    ],
+    "3PF": [
+        "rusty gum"
+    ],
+    "mnn": [
+        "coolabah apple"
+    ],
+    "2sH": [
+        "sandstone rough-barked apple",
+        "broad-leaved sandstone apple"
+    ],
+    "dw9": [
+        "broad-leaved apple"
+    ],
+    "dn5": [
+        "smudgee"
+    ],
+    "Vf2": [
+        "anisophyllea manausensis"
+    ],
+    "MXQ": [
+        "araticum-cagão",
+        "araticum de paca",
+        "araticum-pacarí"
+    ],
+    "bhq": [
+        "marolo",
+        "araticum cortiça",
+        "araticum do cerrado",
+        "bruto"
+    ],
+    "nNW": [
+        "annona foetida"
+    ],
+    "d9x": [
+        "mountain soursop"
+    ],
+    "v1R": [
+        "wild sour sop"
+    ],
+    "lSE": [
+        "beach sugar apple"
+    ],
+    "NOG": [
+        "african custard-apple",
+        "wild custard apple",
+        "wild soursop",
+        "sunkungo",
+        "dorgot"
+    ],
+    "Dr6": [
+        "annona tenuiflora"
+    ],
+    "bqF": [
+        "african birch"
+    ],
+    "Mp0": [
+        "junglesop"
+    ],
+    "2gE": [
+        "forest fever tree"
+    ],
+    "mUI": [
+        "mao luang"
+    ],
+    "5cG": [
+        "tassel-berry"
+    ],
+    "jLQ": [
+        "pithraj tree"
+    ],
+    "OLe": [
+        "scabrous aphananthe",
+        "muku tree"
+    ],
+    "uAj": [
+        "white pear",
+        "umDakane"
+    ],
+    "iDe": [
+        "apollonias barbujana",
+        "canary laurel",
+        "barbusano"
+    ],
+    "dnE": [
+        "chinese angelica-tree"
     ],
     "ca5": [
-        "Japanese angelica tree",
-        "Japanese aralia"
+        "japanese angelica tree",
+        "chinese angelica-tree",
+        "korean angelica-tree"
     ],
     "GG8": [
-        "Devil's walkingstick"
+        "devil's walking stick"
     ],
     "CL3": [
-        "Paraná pine"
+        "paraná pine",
+        "brazilian pine",
+        "candelabra tree"
     ],
     "2rY": [
-        "monkey-puzzle tree"
+        "monkey puzzle tree",
+        "monkey tail tree",
+        "piñonero",
+        "pewen",
+        "chilean pine"
+    ],
+    "6Hc": [
+        "bernier's columnar araucaria"
     ],
     "7Za": [
-        "bunya-bunya"
+        "bunya pine",
+        "false monkey puzzle tree"
+    ],
+    "beM": [
+        "biramule araucaria",
+        "piggyback araucaria"
     ],
     "e5S": [
-        "Cook pine"
+        "coral reef araucaria",
+        "cook pine",
+        "new Caledonia pine",
+        "cook araucaria",
+        "columnar araucaria"
     ],
     "va5": [
-        "Moreton Bay pine",
         "hoop pine"
     ],
     "QxZ": [
-        "Norfolk Island pine"
+        "a. excelsa"
+    ],
+    "oMl": [
+        "humboldt's araucaria"
     ],
     "Zea": [
-        "klinki"
+        "klinki",
+        "klinkii",
+        "klinky"
+    ],
+    "YdI": [
+        "de Laubenfels' Araucaria"
+    ],
+    "WYw": [
+        "mountain araucaria"
+    ],
+    "HEt": [
+        "boise araucaria"
+    ],
+    "Ujd": [
+        "rule araucaria",
+        "graceful pine"
+    ],
+    "CAs": [
+        "schmid araucaria"
+    ],
+    "Wcx": [
+        "rock araucaria"
+    ],
+    "6fj": [
+        "narrow-leaf araucaria"
+    ],
+    "DFd": [
+        "greek strawberry tree"
+    ],
+    "vdh": [
+        "arizona madrone"
     ],
     "EwE": [
-        "arbutus",
-        "madrone"
+        "pacific madrone",
+        "madrona"
     ],
     "Sz4": [
-        "strawberry tree",
-        "unedo strawberry tree"
+        "strawberry tree"
+    ],
+    "-jD": [
+        "texas madrone",
+        "naked Indian tree",
+        "texas madroño"
+    ],
+    "Qa0": [
+        "pink Laceflower"
+    ],
+    "qtn": [
+        "white Lace Flower",
+        "tulip Siris"
+    ],
+    "LI7": [
+        "bacon wood",
+        "tulip siris"
+    ],
+    "Ao-": [
+        "archidendron lucyi"
+    ],
+    "O2w": [
+        "veiny Lace Flower",
+        "small-flower Laceflower"
+    ],
+    "cqY": [
+        "jengkol",
+        "djenkol",
+        "jering"
     ],
     "J5K": [
-        "Alexandra palm"
+        "alexandra palm",
+        "king palm",
+        "northern bangalow palm",
+        "feather palm"
     ],
     "pqK": [
-        "king palm"
+        "bangalow palm",
+        "king palm",
+        "illawara palm"
     ],
-    "NVb": [
-        "marlberry",
+    "_FF": [
+        "walsh River palm"
+    ],
+    "lar": [
+        "myola palm"
+    ],
+    "Pr7": [
+        "mount Lewis king palm"
+    ],
+    "pgy": [
+        "rocky River palm",
+        "cape York palm"
+    ],
+    "Ux_": [
+        "santa Cruz manzanita"
+    ],
+    "vsE": [
+        "santa Catalina Island manzanita"
+    ],
+    "f9e": [
+        "hairy manzanita"
+    ],
+    "KxW": [
+        "bigberry manzanita"
+    ],
+    "dC6": [
+        "santa Lucia manzanita"
+    ],
+    "cAq": [
+        "del Norte manzanita"
+    ],
+    "_0n": [
+        "bishop manzanita",
+        "serpentine manzanita"
+    ],
+    "Ofz": [
+        "pajaro manzanita"
+    ],
+    "ayp": [
+        "pringle manzanita"
+    ],
+    "kio": [
+        "pointleaf manzanita"
+    ],
+    "aSG": [
+        "woollyleaf manzanita",
+        "woolley  manzanita"
+    ],
+    "S29": [
+        "whiteleaf manzanita",
+        "sticky manzanita"
+    ],
+    "8gW": [
+        "well's manzanita",
+        "pismo manzanita"
+    ],
+    "5ln": [
+        "shoebutton ardisia",
+        "duck's eye",
         "coralberry"
     ],
+    "NVb": [
+        "island marlberry"
+    ],
+    "S_j": [
+        "shoebutton ardisia"
+    ],
+    "K7T": [
+        "ipot palm"
+    ],
+    "-27": [
+        "wild areca palm"
+    ],
+    "s6_": [
+        "pinang yaki",
+        "pinang merah"
+    ],
     "i7c": [
-        "Formosa palm"
+        "formosa palm",
+        "taiwan sugar palm",
+        "dwarf sugar palm",
+        "taiwan arenga palm"
     ],
-    "WCV": [
-        "breadfruit"
+    "5QU": [
+        "lister's palm"
     ],
-    "3d2": [
-        "common jackfruit"
+    "oX5": [
+        "tibetan sugar palm"
+    ],
+    "tyG": [
+        "indian birthwort"
+    ],
+    "hp3": [
+        "maqui",
+        "chilean wineberry"
+    ],
+    "2wB": [
+        "wineberry",
+        "makomako",
+        "mako"
+    ],
+    "ea0": [
+        "big sagebrush",
+        "great Basin sagebrush",
+        "sagebrush"
+    ],
+    "oa0": [
+        "entawak",
+        "mentawa"
+    ],
+    "q_R": [
+        "breadnut"
+    ],
+    "Wsf": [
+        "wild jack"
     ],
     "eb2": [
-        "chempedak"
+        "chempedak",
+        "cempedak"
     ],
-    "F0f": [
-        "pudau"
+    "Uny": [
+        "monkey fruit",
+        "monkey Jack",
+        "baṛhal",
+        "badahar",
+        "dewa",
+        "bohot",
+        "heirikokthong"
     ],
-    "GFF": [
-        "butong"
+    "F3u": [
+        "dugdug",
+        "marianas breadfruit",
+        "seeded breadfruit"
     ],
-    "-h2": [
-        "marang"
-    ],
-    "UhD": [
-        "monkey jackfruit"
-    ],
-    "VcA": [
-        "pingan"
+    "1HL": [
+        "ceylon breadfruit"
     ],
     "Cix": [
-        "pedalai"
+        "artocarpus sericarpus",
+        "peluntan",
+        "pedalai",
+        "gumihan",
+        "terap bulu"
+    ],
+    "KG_": [
+        "two-leaved coogera",
+        "twin-leaved coogera"
+    ],
+    "aTF": [
+        "gap axe",
+        "coogara",
+        "coogera",
+        "rose tamarind"
+    ],
+    "6iO": [
+        "hutu"
     ],
     "_Bs": [
         "bigflower pawpaw"
@@ -573,257 +2548,1101 @@
         "smallflower pawpaw"
     ],
     "Yki": [
-        "fourpetal pawpaw"
+        "four-petal pawpaw"
     ],
     "ENM": [
-        "common pawpaw",
-        "prairie banana"
+        "american papaw",
+        "pawpaw",
+        "paw paw",
+        "paw-paw"
+    ],
+    "HIt": [
+        "aspidosperma macrocarpon"
+    ],
+    "XTG": [
+        "aspidosperma polyneuron"
+    ],
+    "AhJ": [
+        "quebracho blanco",
+        "kebrako",
+        "white quebracho"
+    ],
+    "gzn": [
+        "river-bank astartea"
+    ],
+    "7Hq": [
+        "asteranthe asterias"
+    ],
+    "4CM": [
+        "brass's asteromyrtus"
+    ],
+    "7FS": [
+        "liniment tree"
+    ],
+    "6N8": [
+        "tucumã",
+        "acaiúra",
+        "acuiuru",
+        "coco-tucumã",
+        "tucum",
+        "tucumã-açu",
+        "tucumã-macaw",
+        "tucum-açu",
+        "tucumaí-da-terra-firme",
+        "tucumãí-uaçu",
+        "tucumã-piririca",
+        "tucumã-purupuru",
+        "tucumã-do-mato"
+    ],
+    "MpZ": [
+        "coquillo",
+        "coquito"
+    ],
+    "NH5": [
+        "chambira palm",
+        "chambira"
+    ],
+    "9rw": [
+        "murumuru"
+    ],
+    "TCp": [
+        "chumba wumba",
+        "black palm",
+        "chonta",
+        "chontadura",
+        "coquillo",
+        "palma negra",
+        "pejibaye de montaña",
+        "güerre",
+        "güérregue",
+        "güinul",
+        "mocora",
+        "pucaishchi",
+        "chunga"
+    ],
+    "xtt": [
+        "tucum",
+        "tucumã-do-Pará",
+        "awara",
+        "wara",
+        "wara awara",
+        "awarra",
+        "chontilla"
+    ],
+    "XJH": [
+        "goncalo alves",
+        "muiracatiara"
+    ],
+    "yyn": [
+        "cape wing-nut"
+    ],
+    "NSk": [
+        "whitewood",
+        "cattle bush"
+    ],
+    "ejb": [
+        "broad leaved whitewood"
+    ],
+    "yQ3": [
+        "natal wing-nut"
     ],
     "G9c": [
         "pencil pine"
     ],
-    "LJJ": [
-        "King Billy pine"
+    "P3E": [
+        "narrow-leaved gardenia",
+        "thin-leaved gardenia"
+    ],
+    "XWt": [
+        "brown gardenia",
+        "yellow mangosteen"
+    ],
+    "GG2": [
+        "hairy gardenia",
+        "native loquat"
+    ],
+    "IIi": [
+        "green plum"
+    ],
+    "01m": [
+        "cohune palm",
+        "rain tree",
+        "american oil palm",
+        "corozo palm",
+        "manaca palm"
+    ],
+    "5HV": [
+        "maripa palm"
+    ],
+    "2qa": [
+        "urucuri palm",
+        "urucurizeiro",
+        "shapaja"
+    ],
+    "G_4": [
+        "angouma",
+        "gaboon",
+        "okoumé"
+    ],
+    "4ZK": [
+        "mueller's silky oak"
+    ],
+    "9zf": [
+        "bilimbi",
+        "cucumber tree",
+        "tree sorrel"
     ],
     "OKX": [
         "carambola",
-        "star fruit"
+        "star fruit",
+        "five-corner"
     ],
     "x4_": [
         "black mangrove"
     ],
-    "q_9": [
-        "eastern baccharis",
-        "groundsel bush",
-        "silverling"
+    "Ol_": [
+        "grey mangrove",
+        "white mangrove"
     ],
-    "NQH": [
-        "pejibaye palm"
+    "tjK": [
+        "indian mangrove"
+    ],
+    "d71": [
+        "sentang"
+    ],
+    "5OT": [
+        "neem",
+        "nimtree",
+        "indian lilac"
+    ],
+    "oSp": [
+        "boxleaf azara"
+    ],
+    "B_E": [
+        "saw-toothed azara"
+    ],
+    "Dbe": [
+        "tampoi"
+    ],
+    "D1Z": [
+        "kapundung",
+        "menteng"
+    ],
+    "kFD": [
+        "burmese grape"
+    ],
+    "Hfn": [
+        "broombush falsewillow."
+    ],
+    "X1I": [
+        "lemon myrtle",
+        "lemon scented myrtle",
+        "lemon scented ironwood"
+    ],
+    "nKE": [
+        "african teak",
+        "mukusi",
+        "rhodesian teak",
+        "zambian teak",
+        "zambesi redwood"
+    ],
+    "7ZC": [
+        "egyptian balsam"
+    ],
+    "0iC": [
+        "angolan green-thorn"
+    ],
+    "Jez": [
+        "manduro",
+        "torchwood"
+    ],
+    "CO2": [
+        "small green-thorn",
+        "small torchwood"
+    ],
+    "TC_": [
+        "mbamba ngoma"
+    ],
+    "HxE": [
+        "marfim"
+    ],
+    "msO": [
+        "palo de ramon"
+    ],
+    "0ky": [
+        "wallum banksia"
+    ],
+    "jdY": [
+        "cactus dryandra"
+    ],
+    "m4j": [
+        "northern banksia",
+        "jingana"
+    ],
+    "DeS": [
+        "yilgarn dryandra"
     ],
     "FBG": [
         "ashby's banksia"
     ],
+    "ipF": [
+        "feather-leaved banksia",
+        "brown's banksia"
+    ],
+    "Nz8": [
+        "matchstick banksia",
+        "quairading banksia"
+    ],
+    "8yC": [
+        "tropical banksia"
+    ],
+    "vOV": [
+        "bull banksia",
+        "giant banksia"
+    ],
+    "FXz": [
+        "holly-leaved banksia"
+    ],
     "6U-": [
         "coast banksia"
     ],
+    "WXY": [
+        "swamp banksia",
+        "swamp oak",
+        "river banksia",
+        "seaside banksia",
+        "western swamp banksia"
+    ],
+    "Zh0": [
+        "silver banksia"
+    ],
+    "AIN": [
+        "firewood banksia"
+    ],
+    "pjd": [
+        "new England banksia"
+    ],
+    "i1q": [
+        "red swamp banksia"
+    ],
+    "hib": [
+        "acorn banksia",
+        "orange banksia"
+    ],
     "o0T": [
+        "banksia&#160;seminuda",
         "river banksia"
     ],
-    "F5M": [
-        "Brazil nut tree"
+    "Hut": [
+        "saw banksia",
+        "old man banksia",
+        "saw-tooth banksia",
+        "red honeysuckle",
+        "wiriyagan"
+    ],
+    "H6U": [
+        "hairpin banksia"
+    ],
+    "wTn": [
+        "lesueur banksia",
+        "pine banksia"
+    ],
+    "6oK": [
+        "camwood",
+        "barwood",
+        "african sandalwood"
+    ],
+    "dbm": [
+        "fish poison tree",
+        "putat",
+        "sea poison tree"
+    ],
+    "4PS": [
+        "powder-puff tree"
+    ],
+    "9fA": [
+        "brazilian orchid tree",
+        "pata-de-vaca",
+        "pezuña de vaca"
+    ],
+    "Jnu": [
+        "kalahari white bauhinia"
+    ],
+    "8RD": [
+        "algodoncillo",
+        "casco de vaca",
+        "palo de orquídeas",
+        "pata de vaca"
+    ],
+    "76q": [
+        "bidi leaf tree"
+    ],
+    "Aje": [
+        "yellow bauhinia",
+        "yellow bell orchid tree"
+    ],
+    "6yp": [
+        "elephant's foot",
+        "ponytail palm"
+    ],
+    "Cdb": [
+        "high plateau coconut palm"
+    ],
+    "pKr": [
+        "coastal beccariophoenix"
+    ],
+    "jS-": [
+        "northern acorn tree",
+        "belloto del norte"
+    ],
+    "iBa": [
+        "taraire"
+    ],
+    "6pz": [
+        "tawa"
+    ],
+    "wmY": [
+        "hill areca nut"
+    ],
+    "2g0": [
+        "indian barberry",
+        "tree turmeric"
+    ],
+    "h0O": [
+        "wintergreen barberry",
+        "chinese barberry"
+    ],
+    "-H4": [
+        "bird plum",
+        "brown ivory"
+    ],
+    "Otg": [
+        "trincomalee wood"
     ],
     "Dz9": [
-        "yellow birch"
-    ],
-    "q9P": [
-        "alder-leaf birch"
+        "yellow birch",
+        "golden birch",
+        "swamp birch"
     ],
     "U2K": [
-        "Chinese dwarf birch"
+        "dwarf small-leaf birch"
     ],
     "yEj": [
         "mountain paper birch",
-        "heartleaf birch"
+        "mountain white birch",
+        "eastern paper birch"
     ],
     "qoj": [
-        "Erman's birch"
+        "erman's birch"
     ],
     "uTX": [
-        "Japanese cherry birch"
+        "japanese cherry birch"
     ],
     "8wc": [
         "sweet birch",
+        "black birch",
         "cherry birch",
-        "black birch"
+        "mahogany birch",
+        "spice birch"
+    ],
+    "A5u": [
+        "monarch birch"
     ],
     "B9R": [
-        "Caucasian birch"
+        "transcaucasian birch",
+        "caucasian birch",
+        "medwediew's birch"
     ],
     "Prd": [
-        "river birch"
+        "black birch",
+        "river birch",
+        "water birch"
     ],
     "bvu": [
         "water birch",
-        "western birch",
         "red birch"
     ],
     "jNs": [
         "paper birch",
-        "canoe birch",
-        "American white birch"
+        "american white birch",
+        "canoe birch"
     ],
     "6BT": [
         "silver birch",
-        "weeping birch"
+        "warty birch",
+        "european white birch",
+        "east Asian white birch"
     ],
     "3g0": [
-        "gray birch"
-    ],
-    "7Y5": [
-        "white birch",
-        "European white birch",
-        "hairy birch",
-        "downy birch"
+        "gray",
+        "grey birch"
     ],
     "z4P": [
-        "Himalayan birch"
+        "himalayan birch",
+        "bhojpatra"
     ],
     "YR1": [
-        "bishopwood",
-        "toog tree"
+        "bishop wood"
     ],
-    "ETp": [
-        "Bismarck palm"
+    "Ivo": [
+        "achiote"
+    ],
+    "Lzj": [
+        "sumac family"
+    ],
+    "ppb": [
+        "ackee",
+        "ankye",
+        "achee",
+        "akee",
+        "ackee apple",
+        "ayee"
+    ],
+    "7IF": [
+        "ʻAhakea",
+        "hawaiʻi dogweed"
+    ],
+    "llp": [
+        "ʻAhakea"
+    ],
+    "PAY": [
+        "snake bean"
+    ],
+    "cqB": [
+        "bocagea viridis"
     ],
     "MEA": [
-        "tree poppy"
+        "plume poppy",
+        "tree poppy",
+        "tree celandine",
+        "parrotweed",
+        "sea oxeye daisy",
+        "john Crow bush",
+        "gordolobo",
+        "llorasangre",
+        "tabaquillo",
+        "palo amarillo",
+        "palo de toro",
+        "pan cimarrón",
+        "bois codine"
     ],
     "Zzc": [
-        "Gold Coast bombax",
+        "gold Coast bombax",
         "red-flowered silk cotton tree"
     ],
     "oFg": [
-        "cotton tree",
-        "tree cotton"
+        "cotton tree"
     ],
-    "3Sm": [
-        "rough strongbark"
+    "0zn": [
+        "sinoradlkofera minus"
+    ],
+    "U93": [
+        "bonnetia jauensis"
+    ],
+    "IhQ": [
+        "doub palm",
+        "palmyra palm",
+        "tala",
+        "tal palm",
+        "toddy palm",
+        "wine palm",
+        "ice apple"
+    ],
+    "J2d": [
+        "forest boronia",
+        "pink boroina"
+    ],
+    "MvV": [
+        "tree seaside tansy"
+    ],
+    "Kdh": [
+        "shepherd tree",
+        "shepherd's tree"
+    ],
+    "eMF": [
+        "stink shepherd's tree",
+        "smelly shepherd's bush"
+    ],
+    "t7a": [
+        "hanza"
+    ],
+    "SN7": [
+        "five-leaf bosistoa",
+        "five-leaved bonewood"
+    ],
+    "RRe": [
+        "northern towra",
+        "eumundi bosistoa"
+    ],
+    "i2i": [
+        "ferny-leaf bosistoa",
+        "native almond",
+        "union nut"
+    ],
+    "oci": [
+        "yellow satinheart",
+        "three-leaved bosistoa"
+    ],
+    "Wfj": [
+        "bossiaea aquifolium",
+        "water bush",
+        "nedik"
+    ],
+    "ctG": [
+        "boswellia dioscorides"
+    ],
+    "R_w": [
+        "dhidin",
+        "maydi"
+    ],
+    "cw-": [
+        "sudanese frankincense"
+    ],
+    "TMj": [
+        "frankincense",
+        "olibanum-tree"
+    ],
+    "KaO": [
+        "union nut"
+    ],
+    "dH8": [
+        "gandaria",
+        "plum mango",
+        "mango plum"
+    ],
+    "XHH": [
+        "lesser bougainvillea",
+        "paperflower"
+    ],
+    "Hig": [
+        "transvaal shellflower bush"
+    ],
+    "25R": [
+        "broad-leaved bottle tree"
+    ],
+    "N0o": [
+        "dwarf kurrajong",
+        "little kurrajong"
+    ],
+    "5BI": [
+        "outcrop kurrajong"
+    ],
+    "01T": [
+        "northern kurrajong"
+    ],
+    "WJH": [
+        "desert kurrajong"
+    ],
+    "gqD": [
+        "red-flowering kurrajong"
+    ],
+    "Vq0": [
+        "red-flowered kurrajong"
+    ],
+    "mJc": [
+        "kurrajong"
     ],
     "ybW": [
-        "Queensland bottle tree"
+        "narrow-leaved bottle tree",
+        "queensland bottle tree"
     ],
-    "yTg": [
-        "muhuhu"
+    "wCY": [
+        "three Kings rangiora"
+    ],
+    "wcC": [
+        "rautini",
+        "chatham Island Christmas tree"
+    ],
+    "2zm": [
+        "rangiora",
+        "bushman's friend"
+    ],
+    "a9D": [
+        "cape silver oak",
+        "water white alder",
+        "waterwitels"
+    ],
+    "gyc": [
+        "zebrawood",
+        "msasa"
+    ],
+    "-QX": [
+        "mu'unze",
+        "mountain acacia"
+    ],
+    "5_k": [
+        "yellow peeling plane"
     ],
     "Itb": [
-        "Mexican blue palm"
-    ],
-    "QNf": [
-        "San Jose hesper palm"
+        "mexican blue palm",
+        "blue hesper palm"
     ],
     "RXm": [
-        "Guadalupe palm"
+        "guadalupe palm",
+        "palma de Guadalupe"
+    ],
+    "bxB": [
+        "coffee bush"
+    ],
+    "yZW": [
+        "officinal breynia"
+    ],
+    "tHX": [
+        "brush ironbark",
+        "scrub ironbark"
+    ],
+    "9M8": [
+        "mitzeeri",
+        "coastal golden-leaf"
     ],
     "Lu1": [
-        "breadnut"
+        "breadnut",
+        "ramon"
     ],
-    "G4A": [
-        "mama-cadela"
+    "kBB": [
+        "snakewood",
+        "letterwood",
+        "leopardwood",
+        "amourette"
     ],
-    "8xe": [
-        "paper mulberry"
+    "2IW": [
+        "leite de amapá"
+    ],
+    "dRB": [
+        "galactodendron"
+    ],
+    "rM0": [
+        "roso blanco"
+    ],
+    "svP": [
+        "macassar kernels"
+    ],
+    "jMW": [
+        "angel's trumpet"
+    ],
+    "dYT": [
+        "golden angel's trumpet"
+    ],
+    "hJP": [
+        "red angel's trumpet"
+    ],
+    "BLT": [
+        "brazil's white angel trumpet",
+        "angel's tears",
+        "snowy angel’s trumpet"
+    ],
+    "OMn": [
+        "rib-fruited mangrove",
+        "rib-fruited orange mangrove"
+    ],
+    "3fO": [
+        "upriver orange mangrove"
+    ],
+    "cGA": [
+        "west Indian sumac"
+    ],
+    "SDs": [
+        "serpentine Hill raintree"
+    ],
+    "TTO": [
+        "puerto Rico raintree"
+    ],
+    "pve": [
+        "espino de sabana",
+        "granadillo",
+        "cocus wood",
+        "cocuswood",
+        "coccuswood"
+    ],
+    "dZc": [
+        "little gooseberry tree",
+        "sparrow's mango"
+    ],
+    "YP8": [
+        "ivory curl"
+    ],
+    "EUH": [
+        "noah's oak",
+        "spotted oak"
+    ],
+    "CSF": [
+        "alternate-leaved butterfly-bush"
+    ],
+    "Dg6": [
+        "smokebush",
+        "madagascan butterfly bush"
+    ],
+    "hK_": [
+        "false olive",
+        "bastard olive"
+    ],
+    "Fzc": [
+        "sage bush",
+        "sagewood"
+    ],
+    "7q5": [
+        "rio Grande butterfly-bush",
+        "tepozán"
+    ],
+    "MhJ": [
+        "silver peanut butter fruit"
+    ],
+    "jTY": [
+        "peanut butter fruit"
+    ],
+    "kbU": [
+        "wild syringa"
+    ],
+    "9HC": [
+        "copal"
+    ],
+    "tlS": [
+        "torchwood copal",
+        "fragrant bursera"
+    ],
+    "vv9": [
+        "copal"
+    ],
+    "TQD": [
+        "palo santo"
+    ],
+    "BKp": [
+        "elephant tree",
+        "torote'"
     ],
     "0nc": [
         "gumbo-limbo",
-        "West Indian birch",
-        "tourist tree"
+        "copperwood",
+        "chaca",
+        "west Indian birch",
+        "naked Indian",
+        "turpentine tree"
     ],
     "wT4": [
-        "jelly pindo palm"
+        "jelly palm"
+    ],
+    "npK": [
+        "south American jelly palm",
+        "jelly palm",
+        "pindo palm"
     ],
     "JSt": [
-        "yatay pindo palm"
-    ],
-    "woF": [
-        "Humbert's box"
+        "jelly palm",
+        "yatay palm"
     ],
     "fR1": [
-        "Cape box"
-    ],
-    "z9y": [
-        "Madagascan box"
+        "cape box"
     ],
     "fJX": [
-        "Japanese box"
-    ],
-    "Vgb": [
-        "Natal box"
+        "japanese box",
+        "littleleaf box"
     ],
     "qTp": [
         "common box",
-        "European box"
-    ],
-    "Fhi": [
-        "Chinese box"
+        "european box",
+        "boxwood"
     ],
     "1ZN": [
-        "Vahl's box",
-        "smooth box"
+        "vahl's boxwood"
     ],
-    "Nuj": [
-        "Long Key locustberry",
-        "shiny locustberry"
+    "3n6": [
+        "byrsonima  basiloba"
     ],
-    "-Rz": [
-        "red bird-of-paradise tree",
-        "flowerfence poinciana"
+    "57z": [
+        "byrsonima  coccolobifolia"
     ],
-    "_ZS": [
-        "white cypress-pine",
-        "Murray River cypress-pine",
-        "northern cypress-pine"
+    "fKl": [
+        "byrsonima  crassa"
     ],
-    "5Ov": [
-        "Rottnest Island pine"
+    "GyY": [
+        "swartstorm"
     ],
-    "SGV": [
-        "mallee pine",
-        "sandhill pine",
-        "scrub cypress pine"
+    "L_7": [
+        "viagra palm",
+        "tynriew",
+        "tara",
+        "zhi li sheng teng"
+    ],
+    "sD9": [
+        "common rattan"
+    ],
+    "FUn": [
+        "soldierwood"
+    ],
+    "myk": [
+        "capa rose"
+    ],
+    "tjq": [
+        "callicarpa tomentosa"
+    ],
+    "i8W": [
+        "wonnich",
+        "native Willow"
+    ],
+    "7rw": [
+        "drummond's cypress"
+    ],
+    "pOv": [
+        "black cypress pine"
+    ],
+    "Xlh": [
+        "dwarf cypress"
+    ],
+    "qrH": [
+        "south Esk pine",
+        "pigmy cypress pine",
+        "river pine",
+        "tasmanian cypress pine"
+    ],
+    "JIr": [
+        "oyster Bay pine"
+    ],
+    "ATB": [
+        "roe's cypress-pine"
     ],
     "fFg": [
-        "California incense cedar"
+        "incense cedar",
+        "california incense-cedar"
+    ],
+    "lnp": [
+        "chinese incense-cedar"
     ],
     "dkL": [
-        "Cape chestnut"
+        "cape chestnut"
+    ],
+    "FKp": [
+        "cheru pinnai",
+        "kattupunna"
+    ],
+    "4Jy": [
+        "guanandi"
     ],
     "LDw": [
-        "Maria tree",
-        "Santa Maria tree"
+        "calophyllum bracteatum"
+    ],
+    "iu5": [
+        "tamanu",
+        "mastwood",
+        "beach calophyllum",
+        "beautyleaf"
+    ],
+    "UyA": [
+        "kattupunna",
+        "punnappine",
+        "pinnapai",
+        "punnapine",
+        "sirpoon tree",
+        "poonspar tree",
+        "malampunna"
+    ],
+    "lWE": [
+        "bintangur"
+    ],
+    "72n": [
+        "mouse ears",
+        "granite net-bush"
+    ],
+    "VkA": [
+        "misise",
+        "misizé",
+        "mississé"
+    ],
+    "JH_": [
+        "capirona"
+    ],
+    "awm": [
+        "bashy guava"
+    ],
+    "gpH": [
+        "maricao lidflower",
+        "serpentine lidflower"
+    ],
+    "R1R": [
+        "white-flowered turkey bush",
+        "kerosene wood",
+        "fringe-myrtle"
+    ],
+    "rlJ": [
+        "kimberley heather"
+    ],
+    "U3l": [
+        "crapnell's camellia"
+    ],
+    "6Lh": [
+        "cuspidate camellia"
+    ],
+    "XUQ": [
+        "grantham's camellia"
+    ],
+    "HOk": [
+        "hong Kong camellia"
     ],
     "k3-": [
-        "Japanese camellia",
-        "camellian rose"
+        "common camellia",
+        "japanese camellia",
+        "tsubaki"
     ],
-    "cqE": [
-        "tea camellia",
-        "tea plant"
+    "Wgb": [
+        "cocoa tea"
     ],
-    "5_N": [
-        "pepper cinnamon",
-        "cinnamonbark",
-        "winter cinnamon"
+    "dwr": [
+        "sasanqua camellia"
+    ],
+    "9FN": [
+        "yunnan large leaf varietal tea",
+        "wild tea"
+    ],
+    "WB3": [
+        "rio de Janeiro myrtle"
+    ],
+    "F47": [
+        "campylospermum oliveri"
+    ],
+    "NX2": [
+        "cananga tree"
+    ],
+    "0QA": [
+        "橄榄",
+        "橄欖",
+        "gǎn lǎn"
+    ],
+    "YOx": [
+        "mango bark",
+        "brown cudgerie",
+        "parsnip wood"
+    ],
+    "ca-": [
+        "elemi"
+    ],
+    "Yzn": [
+        "scrub turpentine",
+        "mangobark"
+    ],
+    "eju": [
+        "pili"
+    ],
+    "fVq": [
+        "chinese black olive"
+    ],
+    "oS8": [
+        "bush candle",
+        "african olive",
+        "african elemi",
+        "canarium"
+    ],
+    "SFw": [
+        "black dhup",
+        "raal",
+        "raal dhup",
+        "black dammar"
+    ],
+    "HNO": [
+        "turkey-berry"
+    ],
+    "bWV": [
+        "qantu",
+        "qantus",
+        "qantuta"
+    ],
+    "wLS": [
+        "karira",
+        "kerda"
+    ],
+    "q3Z": [
+        "cappparis micracantha"
+    ],
+    "hLm": [
+        "wild orange"
     ],
     "TqI": [
-        "Siberian pea tree"
+        "siberian peashrub",
+        "siberian pea-tree",
+        "caragana"
     ],
-    "U9I": [
-        "papaya"
+    "qr3": [
+        "korshinsk pea shrub"
+    ],
+    "PgF": [
+        "andiroba",
+        "crabwood"
+    ],
+    "XX5": [
+        "african crabwood"
+    ],
+    "2FI": [
+        "colombian mahogany",
+        "abarco"
+    ],
+    "Kok": [
+        "conkerberry",
+        "bush plum"
+    ],
+    "UKQ": [
+        "common broom"
+    ],
+    "wyA": [
+        "carmichaelia muritai",
+        "coastal tree broom"
+    ],
+    "5YR": [
+        "cord broom",
+        "weeping broom"
+    ],
+    "kw4": [
+        "william's broom",
+        "giant-flowered broom"
     ],
     "F0d": [
-        "European hornbeam"
+        "european",
+        "common hornbeam"
     ],
     "EF1": [
-        "American hornbeam"
+        "american hornbeam"
+    ],
+    "N9F": [
+        "japanese hornbeam"
+    ],
+    "sNP": [
+        "oriental hornbeam"
+    ],
+    "OsY": [
+        "putuo hornbeam"
+    ],
+    "Syf": [
+        "carpolobia goetzii"
+    ],
+    "-fk": [
+        "american olive",
+        "wild olive",
+        "devilwood"
     ],
     "yyV": [
+        "bitter pecan",
         "water hickory"
+    ],
+    "3T1": [
+        "chinese hickory"
     ],
     "a4g": [
         "bitternut hickory"
-    ],
-    "9pa": [
-        "scrub hickory",
-        "Florida hickory"
     ],
     "lty": [
         "pignut hickory"
     ],
     "pio": [
-        "shellbark hickory"
+        "shellbark hickory",
+        "shagbark hickory",
+        "bigleaf shagbark hickory",
+        "kingnut",
+        "big",
+        "bottom",
+        "thick",
+        "western shellbark"
     ],
     "x1N": [
-        "nutmeg hickory"
+        "nutmeg hickory",
+        "swamp hickory",
+        "bitter water hickory"
     ],
     "e00": [
         "shagbark hickory"
@@ -832,269 +3651,1154 @@
         "sand hickory",
         "pale hickory"
     ],
+    "APm": [
+        "mexican hickory"
+    ],
     "SaJ": [
         "black hickory"
     ],
     "FMe": [
-        "mockernut hickory"
+        "mockernut hickory",
+        "mockernut",
+        "white hickory",
+        "whiteheart hickory",
+        "hognut",
+        "bullnut"
+    ],
+    "bd4": [
+        "vietnam hickory"
+    ],
+    "lgR": [
+        "pequi",
+        "souari nut"
+    ],
+    "k5v": [
+        "butter-nut of Guiana",
+        "pekea-nut"
+    ],
+    "6bo": [
+        "cacay",
+        "inchi",
+        "orinoconut"
+    ],
+    "YcT": [
+        "clustering fishtail palm",
+        "fishtail palm"
+    ],
+    "wPh": [
+        "fishtail",
+        "albert palm"
     ],
     "wbN": [
-        "seven-year apple"
+        "sevenyear apple"
     ],
-    "1WF": [
-        "Peruvian oleander",
-        "lucky nut",
-        "yellow oleander"
+    "5Zl": [
+        "sword-leaf"
     ],
-    "acn": [
-        "giant thevetia",
-        "be-still tree"
+    "HFt": [
+        "sjambok pod",
+        "long-tail cassia"
     ],
-    "gWF": [
-        "gold medallion tree"
+    "wEo": [
+        "brewster's Cassia",
+        "leichhardt Bean",
+        "cassia pea",
+        "bean Tree"
     ],
-    "f1x": [
-        "American chestnut"
+    "Su9": [
+        "golden shower",
+        "purging cassia",
+        "indian laburnum",
+        "pudding-pipe tree"
+    ],
+    "24u": [
+        "pink shower tree",
+        "carao"
+    ],
+    "Bjp": [
+        "java cassia",
+        "pink shower",
+        "apple blossom tree",
+        "rainbow shower tree",
+        "balayong"
+    ],
+    "KKR": [
+        "marks cassia"
+    ],
+    "Or2": [
+        "red Cassia",
+        "roxburgh's cassia",
+        "ceylon senna"
+    ],
+    "83G": [
+        "drumstick tree"
+    ],
+    "rUQ": [
+        "නෙරලු"
+    ],
+    "Wyi": [
+        "bermuda olivewood"
+    ],
+    "s02": [
+        "bois d'olive"
+    ],
+    "10H": [
+        "cape saffron",
+        "bastard saffron",
+        "forest spoonwood"
+    ],
+    "yIJ": [
+        "swazi onionwood"
+    ],
+    "tp8": [
+        "korean chestnut",
+        "korean castanea",
+        "japanese chestnut"
+    ],
+    "aHo": [
+        "henry chestnut",
+        "henry's chestnut",
+        "chinese chinquapin",
+        "pearl chestnut"
     ],
     "kti": [
-        "Chinese chestnut"
+        "chinese chestnut"
     ],
     "Jff": [
-        "Ozark chinkapin"
+        "ozark chinkapin"
     ],
     "5b0": [
-        "Allegheny chinkapin",
-        "chinquapin"
+        "allegheny chinquapin",
+        "american chinquapin",
+        "dwarf chestnut"
     ],
     "aP4": [
-        "sweet chestnut"
+        "sweet chestnut",
+        "spanish chestnut",
+        "chestnut"
+    ],
+    "KrX": [
+        "seguin chestnut",
+        "seguin's chestnut",
+        "chinese chinquapin"
+    ],
+    "AIz": [
+        "sarangan"
     ],
     "Plr": [
-        "Japanese chinkapin"
+        "japanese chinquapin",
+        "tsuburajii"
+    ],
+    "E8H": [
+        "javan chestnut-oak"
     ],
     "9fE": [
-        "itajii chinkapin"
+        "itajii chinkapin",
+        "itajii"
+    ],
+    "s5t": [
+        "crucifixion thorn",
+        "emory's crucifixion-thorn"
+    ],
+    "R6J": [
+        "panama rubber tree"
+    ],
+    "cnf": [
+        "belah"
     ],
     "iWn": [
-        "Cunningham beefwood"
+        "river oak",
+        "river she-oak"
     ],
     "oz4": [
-        "Australian pine",
-        "horsetail casuarina",
-        "horsetail tree"
+        "australian pine tree",
+        "whistling pine tree"
     ],
     "pg6": [
-        "Brazilian beefwood"
+        "swamp she-oak",
+        "swamp oak",
+        "grey oak",
+        "river oak"
     ],
-    "ZgU": [
-        "southern catalpa"
+    "bQy": [
+        "mountain ru",
+        "red-tipped ru"
+    ],
+    "Ucj": [
+        "swamp she-oak",
+        "swamp oak"
+    ],
+    "F_O": [
+        "manchurian catalpa"
+    ],
+    "yRa": [
+        "chinese bean tree"
+    ],
+    "cXZ": [
+        "yellow catalpa",
+        "chinese catalpa"
     ],
     "iVQ": [
-        "northern catalpa"
+        "northern catalpa",
+        "hardy catalpa",
+        "western catalpa",
+        "cigar tree",
+        "catawba-tree",
+        "bois chavanon"
     ],
-    "WxP": [
-        "trumpet tree",
-        "yagrumo hembra"
+    "rSp": [
+        "mountain pomegranate"
+    ],
+    "bAu": [
+        "cavanillesia hylogeiton",
+        "ceiba Barrigona"
+    ],
+    "a_W": [
+        "pijio",
+        "bongo",
+        "pretino",
+        "petrino",
+        "cuipo",
+        "hameli",
+        "hamelí",
+        "macondo"
+    ],
+    "lcu": [
+        "feltleaf ceanothus",
+        "island ceanothus",
+        "island mountain lilac"
+    ],
+    "emS": [
+        "santa Barbara ceanothus"
+    ],
+    "jQo": [
+        "littleleaf ceanothus"
+    ],
+    "FCh": [
+        "greenbark",
+        "redheart"
+    ],
+    "nVm": [
+        "blueblossom",
+        "blue blossom ceanothus"
+    ],
+    "KP0": [
+        "snowbrush ceanothus",
+        "red root",
+        "tobacco brush"
+    ],
+    "yy3": [
+        "ambay pumpwood"
     ],
     "hFZ": [
-        "Spanish cedar",
-        "cedro hembra"
+        "spanish cedar",
+        "cuban cedar",
+        "cedro"
+    ],
+    "plz": [
+        "edar",
+        "cedrillo",
+        "cedro",
+        "cedro cebolla",
+        "cedro colorado",
+        "cedro dulce",
+        "cedro granadino",
+        "cedro macho",
+        "cedro pochote",
+        "west Indian cedar"
     ],
     "EVT": [
-        "Atlas cedar"
+        "atlas cedar"
     ],
     "cW5": [
-        "deodar cedar"
+        "deodar cedar",
+        "himalayan cedar",
+        "deodar"
     ],
     "fp-": [
-        "cedar of Lebanon"
+        "cedar of Lebanon",
+        "lebanese cedar"
     ],
-    "48h": [
-        "kapok tree",
-        "ceiba"
+    "CrW": [
+        "floss silk tree"
     ],
     "0fP": [
-        "floss silk tree"
+        "silk floss tree"
     ],
     "XDF": [
         "white stinkwood"
     ],
     "SiM": [
-        "European hackberry",
-        "European nettle tree",
-        "lote tree"
+        "european nettle tree",
+        "mediterranean hackberry",
+        "lote tree",
+        "honeyberry"
     ],
     "sjs": [
-        "Bunge's hackberry"
+        "bunge's hackberry"
     ],
-    "-tX": [
-        "Caucasian hackberry"
+    "czg": [
+        "desert hackberry",
+        "spiny hackberry"
+    ],
+    "r0j": [
+        "iguana hackberry"
     ],
     "aAx": [
-        "Japanese hackberry"
+        "japanese hackberry",
+        "jesso hackberry"
     ],
     "oQj": [
-        "Korean hackberry"
-    ],
-    "fTy": [
-        "southern hackberry",
-        "sugar hackberry",
-        "sugarberry"
+        "korean hackberry"
     ],
     "y6j": [
-        "Lindheimer hackberry"
+        "lindheimer's hackberry"
     ],
     "JXz": [
-        "common hackberry",
-        "northern hackberry",
-        "false elm"
-    ],
-    "H8v": [
-        "spiny hackberry",
-        "granjeno"
+        "common hackberry"
     ],
     "HLZ": [
-        "Chinese hackberry"
+        "chinese hackberry"
     ],
     "BRO": [
         "tala"
     ],
     "TjC": [
         "dwarf hackberry",
-        "Georgia hackberry"
+        "georgia hackberry"
+    ],
+    "FSQ": [
+        "stinkwood",
+        "stinking wood"
     ],
     "rUy": [
-        "Oriental hackberry"
+        "oriental hackberry"
     ],
-    "69f": [
-        "canary wood"
+    "cLE": [
+        "amarillo guayaquil",
+        "amarillo puyú"
     ],
-    "dKj": [
-        "button bush"
+    "XD8": [
+        "old man cactus"
     ],
-    "rvL": [
-        "carob tree"
+    "xJc": [
+        "cephalosphaera"
+    ],
+    "z6T": [
+        "chinese plum-yew",
+        "plum yew",
+        "chinese cowtail pine",
+        "san jian shan"
+    ],
+    "h8-": [
+        "hainan plum-yew"
+    ],
+    "TZK": [
+        "japanese plum-yew",
+        "harrington's cephalotaxus",
+        "cowtail pine"
+    ],
+    "Nkq": [
+        "coachwood",
+        "scented satinwood",
+        "tarwood"
+    ],
+    "NmC": [
+        "new South Wales Christmas bush"
+    ],
+    "sQ5": [
+        "cassowary plum",
+        "grey milkwood",
+        "rubber tree"
+    ],
+    "Xhm": [
+        "cassowary plum",
+        "grey milkwood",
+        "joojooga",
+        "rubber tree"
+    ],
+    "BHx": [
+        "sea mango"
+    ],
+    "MVk": [
+        "katsura"
+    ],
+    "xDp": [
+        "large-leaf katsura",
+        "magnificent katsura tree"
     ],
     "ReE": [
         "eastern redbud"
     ],
-    "DWo": [
-        "Judas tree"
+    "Dmy": [
+        "chinese redbud"
     ],
-    "6ki": [
-        "Chinese flowering quince"
+    "DWo": [
+        "judas tree",
+        "judas-tree"
+    ],
+    "qJL": [
+        "curl-leaf mountain mahogany"
+    ],
+    "WTL": [
+        "santa Catalina Island mountain-mahogany",
+        "catalina mahogany"
+    ],
+    "ICx": [
+        "mandacaru",
+        "cardeiro"
+    ],
+    "PKO": [
+        "narrow-angled cereus"
+    ],
+    "XxY": [
+        "yellow mangrove",
+        "smooth-fruited yellow mangrove"
+    ],
+    "5U3": [
+        "spurred mangrove",
+        "indian mangrove"
+    ],
+    "37C": [
+        "andean wax palm"
+    ],
+    "CYC": [
+        "pumbo wax palm"
+    ],
+    "otk": [
+        "quindío wax palm"
+    ],
+    "n-d": [
+        "sasaima wax palm"
+    ],
+    "v1j": [
+        "vogels wax palm"
+    ],
+    "EsD": [
+        "orange cestrum",
+        "orange jessamine",
+        "orange-flowering jessamine",
+        "yellow cestrum"
+    ],
+    "6Ma": [
+        "lady of the night",
+        "night-blooming jessamine",
+        "night-scented jessamine",
+        "night-scented cestrum",
+        "poisonberry"
+    ],
+    "DHc": [
+        "palqui",
+        "green cestrum",
+        "willow-leaved jessamine"
+    ],
+    "Vjx": [
+        "formosan cypress",
+        "taiwan cypress",
+        "taiwan red cypress"
     ],
     "P-k": [
-        "Lawson false cypress",
-        "Port Orford cedar"
+        "port Orford cedar",
+        "lawson cypress"
     ],
     "SRo": [
-        "hinoki false cypress"
+        "japanese cypress",
+        "hinoki cypress",
+        "hinoki"
     ],
     "CwT": [
-        "sawara false cypress"
+        "sawara cypress",
+        "sawara"
     ],
     "xu_": [
-        "white false cypress",
-        "Atlantic white cedar"
+        "atlantic white cedar",
+        "atlantic white cypress",
+        "southern white cedar",
+        "whitecedar",
+        "false-cypress"
     ],
-    "BgI": [
-        "Mediterranean fan palm"
+    "w0_": [
+        "pacaya palm"
+    ],
+    "0KQ": [
+        "red leaf palm"
+    ],
+    "A8O": [
+        "dense-flowered pāpala",
+        "nā Pali Coast pāpala"
+    ],
+    "d4o": [
+        "ellipticleaf pāpala"
+    ],
+    "ZA7": [
+        "broadleaf pāpala"
+    ],
+    "Lc_": [
+        "lapalapa"
+    ],
+    "cx4": [
+        "ʻŌlapa",
+        "common cheirodendron"
+    ],
+    "2h8": [
+        "aweoweo",
+        "alaweo",
+        "alaweo huna",
+        "aheahea",
+        "ahea",
+        "ahewahewa",
+        "kahaihai"
+    ],
+    "r7Y": [
+        "wintersweets"
+    ],
+    "RDE": [
+        "wintersweet",
+        "japanese allspice"
+    ],
+    "7D-": [
+        "pygmy fringetree"
+    ],
+    "NAC": [
+        "blue plum"
+    ],
+    "yMl": [
+        "chinese fringetree"
     ],
     "pxD": [
-        "fringe tree"
+        "white fringetree"
+    ],
+    "PYb": [
+        "chione"
+    ],
+    "WmW": [
+        "greenheart"
+    ],
+    "7S8": [
+        "palo barroso",
+        "palo overo"
+    ],
+    "Zq1": [
+        "ceylon satinwood",
+        "east Indian satinwood",
+        "chloroxylon"
+    ],
+    "iKD": [
+        "nepali hog plum"
+    ],
+    "t9P": [
+        "osteospermum moniliferum",
+        "chrysanthemoides monilifera"
     ],
     "tN4": [
-        "coco plum"
+        "cocoplum",
+        "paradise plum",
+        "abajeru",
+        "icaco"
     ],
     "PaB": [
         "golden chinquapin",
-        "giant chinquapin"
-    ],
-    "gn6": [
-        "star apple"
+        "giant chinquapin",
+        "western chinquapin"
     ],
     "ADC": [
         "satinleaf"
     ],
-    "G8C": [
-        "quinine tree"
+    "gQP": [
+        "hainan fan palm"
     ],
-    "Abl": [
-        "Chinese cinnamon"
+    "G8C": [
+        "red cinchona",
+        "quina"
+    ],
+    "MXE": [
+        "tep porou",
+        "tep pirou",
+        "tepirou"
     ],
     "lPz": [
         "camphor tree",
+        "camphorwood",
         "camphor laurel"
     ],
+    "9Hc": [
+        "chinese cassia",
+        "chinese cinnamon"
+    ],
+    "iR-": [
+        "cebu cinnamon",
+        "kaningag"
+    ],
+    "tpf": [
+        "wild cinnamon",
+        "wal kurundu"
+    ],
+    "Eh8": [
+        "false camphor tree",
+        "nepal camphor tree"
+    ],
+    "jbf": [
+        "wild cinnamon",
+        "country cinnamon",
+        "malabathrum"
+    ],
+    "BHv": [
+        "kalingag"
+    ],
+    "uOc": [
+        "pseudocinnamomum",
+        "indigenous cinnamon"
+    ],
+    "KEi": [
+        "cinnamomum ovalifoilium",
+        "wild cinnamon",
+        "wal kurundu"
+    ],
+    "Snr": [
+        "indian bay leaf",
+        "tejpat",
+        "tezapatta",
+        "malabar leaf",
+        "indian bark",
+        "indian cassia",
+        "malabathrum"
+    ],
     "EKU": [
-        "cinnamon tree"
+        "true cinnamon tree",
+        "ceylon cinnamon tree"
     ],
-    "Gjl": [
-        "juniper berry"
+    "MSp": [
+        "huillipatagua",
+        "chilean citronella tree"
     ],
-    "5al": [
-        "spiny fiddlewood"
+    "zFm": [
+        "african cherry orange",
+        "west African cherry orange",
+        "uganda cherry orange"
     ],
-    "Ene": [
-        "citron"
+    "fj2": [
+        "australian finger lime",
+        "caviar lime"
+    ],
+    "3Xs": [
+        "dooja",
+        "round lime",
+        "australian lime",
+        "australian round lime"
+    ],
+    "lVU": [
+        "ichang papeda"
+    ],
+    "zpc": [
+        "mount White lime"
+    ],
+    "2L_": [
+        "desert lime"
+    ],
+    "6Gn": [
+        "humpty Doo lime",
+        "kakadu lime"
+    ],
+    "YTQ": [
+        "mountain citron"
+    ],
+    "IE_": [
+        "indian wild orange"
+    ],
+    "p-9": [
+        "russell River lime",
+        "large leaf Australian wild lime"
+    ],
+    "4fS": [
+        "khasi papeda"
     ],
     "p5T": [
-        "Kentucky yellowwood"
+        "kentucky yellowwood",
+        "american yellowwood"
     ],
-    "Hrt": [
-        "buckwheat tree",
-        "cliftonia"
+    "gC1": [
+        "brittlewood"
+    ],
+    "uYb": [
+        "wampee",
+        "wampi"
+    ],
+    "gBf": [
+        "smyrell's clausena",
+        "gregs wampi"
+    ],
+    "iOl": [
+        "kohala Mountain clermontia"
+    ],
+    "XnN": [
+        "hillside clermontia"
+    ],
+    "3mY": [
+        "oahu clermontia"
+    ],
+    "vat": [
+        "pele clermontia"
+    ],
+    "z2c": [
+        "hamakua clermontia",
+        "pear clermontia"
+    ],
+    "T1f": [
+        "rose glory bower",
+        "glory flower",
+        "mexican hydrangea"
+    ],
+    "Lm1": [
+        "glory bower"
+    ],
+    "0Kn": [
+        "lolly bush",
+        "smooth clerodendrum"
+    ],
+    "7bw": [
+        "bronze-leaved clerodendrum",
+        "fireworks plant",
+        "philippine glorybower",
+        "shooting star",
+        "starburst bush"
+    ],
+    "BHT": [
+        "downy chance",
+        "hairy lolly bush",
+        "hairy clairy",
+        "hairy clerodendrum"
+    ],
+    "LEZ": [
+        "harlequin glorybower",
+        "glorytree",
+        "peanut butter tree"
+    ],
+    "4vg": [
+        "clethra acuminata",
+        "mountain pepper bush"
+    ],
+    "zpp": [
+        "coastal sweetpepperbush",
+        "summersweet"
+    ],
+    "4lR": [
+        "lily-of-the-valley-tree"
+    ],
+    "xW-": [
+        "japanese clethra"
+    ],
+    "URC": [
+        "sakaki"
+    ],
+    "dDU": [
+        "pacific beauty palm",
+        "arrack tree",
+        "noyashi",
+        "ノヤシ"
     ],
     "9Fh": [
-        "Florida clusia",
-        "rose clusia"
+        "autograph tree",
+        "copey",
+        "cupey",
+        "balsam apple",
+        "pitch-apple",
+        "scotch attorney"
+    ],
+    "lTz": [
+        "chaya",
+        "tree spinach",
+        "spinach tree"
     ],
     "DAi": [
-        "pigeon plum"
+        "pigeonplum",
+        "tietongue"
     ],
-    "Hy-": [
-        "seagrape"
+    "F26": [
+        "grandleaf seagrape",
+        "largeleaf",
+        "mountain-grape",
+        "eve's umbrella"
     ],
-    "2fu": [
-        "coconut palm"
+    "XTw": [
+        "sierra palm"
+    ],
+    "oIr": [
+        "palma plateada",
+        "palma de abanico",
+        "tyre palm"
+    ],
+    "pNx": [
+        "florida silver palm"
+    ],
+    "MKv": [
+        "latanier",
+        "latanier balai"
+    ],
+    "ywp": [
+        "guano",
+        "borhidi's guano palm"
+    ],
+    "ohJ": [
+        "guano de Barreras"
+    ],
+    "Dc6": [
+        "guano barbudo",
+        "guano petate",
+        "old man palm",
+        "palma petate"
+    ],
+    "Sn5": [
+        "gwenn"
+    ],
+    "N40": [
+        "yuraguana"
+    ],
+    "h8k": [
+        "thatch palm",
+        "inagua silver palm"
+    ],
+    "qKJ": [
+        "silver thatch",
+        "jamaican silver thatch"
+    ],
+    "CVP": [
+        "yuraguana",
+        "yuraguana vestida"
+    ],
+    "nWn": [
+        "cayman thatch palm",
+        "proctor's silver palm"
+    ],
+    "eQS": [
+        "guano",
+        "swollen silver thatch palm"
+    ],
+    "q_q": [
+        "yuruguana del Yunque"
+    ],
+    "_15": [
+        "laurel-leaved snail tree"
+    ],
+    "VSo": [
+        "yellow cotton tree"
+    ],
+    "g_S": [
+        "fire croton",
+        "garden croton",
+        "variegated croton"
     ],
     "khK": [
-        "coffee",
-        "Ethiopian coffee"
+        "arabian coffee"
     ],
-    "0A-": [
-        "cola nut tree",
-        "kola tree"
+    "8Mp": [
+        "kapakata"
     ],
-    "F4e": [
-        "greenheart",
-        "coffee colubrina"
+    "Pss": [
+        "liberian coffee"
     ],
-    "Pi7": [
-        "Cuban nakedwood"
+    "rq-": [
+        "racemosa coffee",
+        "inhambane coffee"
+    ],
+    "N30": [
+        "highland coffee",
+        "sierra Leone coffee"
+    ],
+    "czh": [
+        "hairy cola",
+        "zulu coshwood"
+    ],
+    "cOK": [
+        "mozambique cola"
+    ],
+    "e7e": [
+        "bemange",
+        "bokosa",
+        "eboli",
+        "egwasa",
+        "ikaie",
+        "lekukumu",
+        "lungandu",
+        "lusakani",
+        "matadohohu",
+        "nesunguna",
+        "ngbilimo",
+        "ngono",
+        "zimonziele"
+    ],
+    "XY9": [
+        "palma barrigona"
     ],
     "iXs": [
+        "mabi",
         "soldierwood"
     ],
-    "Pea": [
-        "button mangrove",
-        "false mangrove",
-        "Florida buttonwood",
-        "grey mangrove",
-        "Zaragoza mangrove"
+    "7lH": [
+        "sierra nakedwood",
+        "gregg's colubrina"
     ],
-    "r04": [
-        "capa prieto"
+    "RZU": [
+        "pondo weeping thorn"
+    ],
+    "loS": [
+        "kauila"
+    ],
+    "SV5": [
+        "summer holly",
+        "california comarostaphylos"
+    ],
+    "TF9": [
+        "red bushwillow"
+    ],
+    "GvP": [
+        "natal combretum",
+        "forest climbing bushwillow"
+    ],
+    "sB-": [
+        "river bushwillow"
+    ],
+    "UYi": [
+        "russet bushwillow",
+        "mouse-eared combretum"
+    ],
+    "0e_": [
+        "leadwood"
+    ],
+    "0L8": [
+        "forest bushwillow"
+    ],
+    "GFD": [
+        "mofumbo",
+        "asucaró"
+    ],
+    "WKq": [
+        "maputaland bushwillow"
+    ],
+    "r7W": [
+        "velvet bushwillow"
+    ],
+    "YwE": [
+        "thicket bushwillow"
+    ],
+    "2i9": [
+        "brown kurrajong"
+    ],
+    "6kN": [
+        "brittle leaved rulingia"
+    ],
+    "9td": [
+        "saint Helena gumwood"
+    ],
+    "fIj": [
+        "bastard gumwood"
+    ],
+    "9pq": [
+        "false gumwood"
+    ],
+    "T53": [
+        "african myrrh"
+    ],
+    "U_I": [
+        "sand commiphora",
+        "sand corkwood"
+    ],
+    "0qC": [
+        "hill mango",
+        "green commiphora"
+    ],
+    "6C2": [
+        "arabian balsam tree"
+    ],
+    "KAK": [
+        "myrrh",
+        "african myrrh",
+        "herabol myrrh",
+        "somali myrrhor",
+        "common myrrh",
+        "gum myrrh"
+    ],
+    "euV": [
+        "rock corkwood"
+    ],
+    "AY9": [
+        "indian bdellium-tree",
+        "gugal",
+        "guggul",
+        "gugul",
+        "mukul myrrh tree"
+    ],
+    "QUP": [
+        "poison ash",
+        "christmas bush"
+    ],
+    "zUf": [
+        "bitter condalia",
+        "bitter snakewood"
+    ],
+    "Zjo": [
+        "indian zebrawood"
+    ],
+    "Pea": [
+        "buttonwood",
+        "button mangrove"
+    ],
+    "Udw": [
+        "tree smokebush",
+        "elk smokebush"
+    ],
+    "KLy": [
+        "florida semaphore cactus",
+        "semaphore pricklypear"
+    ],
+    "uIE": [
+        "diesel tree"
+    ],
+    "xom": [
+        "copaiba balsam"
+    ],
+    "n4D": [
+        "cabimo"
+    ],
+    "w8j": [
+        "yarey"
+    ],
+    "mK-": [
+        "dyaré",
+        "yarey"
+    ],
+    "nry": [
+        "petticoat palm",
+        "jata palm",
+        "jata de Guanabacoa"
+    ],
+    "Sqc": [
+        "carnaúba palm",
+        "carnaubeira palm"
+    ],
+    "f9_": [
+        "thin-leaved coprosma"
+    ],
+    "1ca": [
+        "pilo"
+    ],
+    "bEG": [
+        "stinkwood",
+        "hūpiro"
+    ],
+    "xg8": [
+        "mikimiki",
+        "yellow wood"
+    ],
+    "rI4": [
+        "karamū",
+        "shiny karamu"
+    ],
+    "h1b": [
+        "large-seeded coprosma",
+        "coastal karamu"
+    ],
+    "eML": [
+        "maui mirrorplant"
+    ],
+    "dJI": [
+        "leafy coprosma"
+    ],
+    "mt4": [
+        "goatwood"
+    ],
+    "npO": [
+        "stinkwood"
+    ],
+    "KiD": [
+        "karamu"
+    ],
+    "YkW": [
+        "wavy-leaved coprosma"
+    ],
+    "XYf": [
+        "white manjack"
+    ],
+    "Quf": [
+        "fragrant manjack",
+        "snotty gobbles",
+        "cummingcordia",
+        "glue berry",
+        "anonang",
+        "pink pearl",
+        "bird lime tree",
+        "indian cherry",
+        "booch",
+        "लसोड़ा",
+        "टेंटी",
+        "डेला",
+        "gunda",
+        "lasura",
+        "गुंदा",
+        "भोकर",
+        "破布子",
+        "樹子仔",
+        "樹子"
+    ],
+    "1np": [
+        "ziricote"
+    ],
+    "hQJ": [
+        "yellow cordia"
+    ],
+    "fz2": [
+        "cordia sinensis"
+    ],
+    "XfV": [
+        "moral",
+        "white manjack",
+        "mucilage manjack"
     ],
     "ElJ": [
-        "cabbage tree"
+        "cabbage tree",
+        "tī kōuka",
+        "cabbage-palm"
     ],
-    "tHi": [
-        "alternate-leaf dogwood"
+    "yjr": [
+        "forest cabbage tree",
+        "tī ngahere"
+    ],
+    "Srl": [
+        "narrow-leaved palm lily"
+    ],
+    "_qf": [
+        "mountain cabbage tree",
+        "bush flax"
+    ],
+    "7M4": [
+        "broad-leafed palm lily",
+        "swamp palm lily"
+    ],
+    "4wo": [
+        "ti",
+        "norfolk Island cabbage tree",
+        "three Kings cabbage tree"
+    ],
+    "KbG": [
+        "broad leaved palm lily"
+    ],
+    "4uv": [
+        "palm lily"
+    ],
+    "tXH": [
+        "slender Palm Lily",
+        "narrow-leaved Palm Lily"
     ],
     "IB3": [
-        "stiff cornel dogwood"
+        "toughleaf dogwood"
+    ],
+    "81_": [
+        "bentham's cornel",
+        "evergreen dogwood",
+        "himalayan flowering dogwood",
+        "himalayan strawberry-tree"
+    ],
+    "8up": [
+        "wedding cake tree"
     ],
     "iZW": [
         "roughleaf dogwood"
@@ -1102,138 +4806,874 @@
     "2Pd": [
         "flowering dogwood"
     ],
-    "Nea": [
-        "Kousa dogwood"
+    "GkV": [
+        "stiff dogwood",
+        "swamp dogwood"
+    ],
+    "zMy": [
+        "brown dogwood",
+        "smooth dogwood",
+        "western cornel"
     ],
     "85Y": [
-        "cornelian dogwood"
+        "cornelian cherry",
+        "european cornel",
+        "cornelian cherry dogwood"
     ],
     "ybw": [
-        "western flowering dogwood",
-        "Pacific flowering dogwood"
+        "pacific dogwood",
+        "western dogwood",
+        "mountain dogwood"
+    ],
+    "N50": [
+        "blue-fruited dogwood",
+        "silky dogwood",
+        "pale dogwood"
+    ],
+    "Pbw": [
+        "japanese cornel",
+        "japanese cornelian cherry"
     ],
     "C7V": [
-        "gray dogwood"
+        "northern swamp dogwood",
+        "gray dogwood",
+        "panicle dogwood"
+    ],
+    "cZX": [
+        "roundleaf dogwood"
+    ],
+    "D_H": [
+        "blackfruit cornel",
+        "blackfruit dogwood",
+        "miner's dogwood"
+    ],
+    "Pgc": [
+        "walter's dogwood"
+    ],
+    "vOy": [
+        "ghost dogwood",
+        "wilson's dogwood"
+    ],
+    "BJW": [
+        "corokia carpodetoides",
+        "corokia"
+    ],
+    "JTp": [
+        "mountain correa"
+    ],
+    "28J": [
+        "buttercup witch hazel",
+        "winter hazel"
+    ],
+    "zK9": [
+        "chinese winter hazel"
     ],
     "EAC": [
-        "common hazelnut"
+        "common hazel"
+    ],
+    "CZC": [
+        "chinese filbert",
+        "chinese hazel"
     ],
     "Sx1": [
-        "Turkish hazel"
+        "turkish hazel",
+        "turkish filbert"
     ],
     "L18": [
-        "beaked hazel",
         "beaked hazelnut"
     ],
+    "Ic5": [
+        "himalayan hazelnut",
+        "tibetan hazelnut"
+    ],
+    "1RH": [
+        "asian hazel"
+    ],
     "a3D": [
-        "European filbert"
+        "filbert"
+    ],
+    "qu3": [
+        "yunnan hazel"
+    ],
+    "31p": [
+        "scraggy bloodwood"
+    ],
+    "lDp": [
+        "range bloodwood",
+        "rockingham Bay bloodwood"
+    ],
+    "aqX": [
+        "ghost gum"
+    ],
+    "vKa": [
+        "bundah bundah",
+        "black bloodwood"
+    ],
+    "jfx": [
+        "katherine Gorge bloodwood"
+    ],
+    "bEO": [
+        "rough-leaved ghost gum",
+        "rough leaf range gum",
+        "desert bloodwood",
+        "brittle Range gum",
+        "snappy gum"
+    ],
+    "j5V": [
+        "yellowjacket",
+        "yellow bloodwood"
+    ],
+    "zvr": [
+        "ghost gum",
+        "weeping ghost gum",
+        "paper-fruited bloodwood"
+    ],
+    "ijW": [
+        "ghost gum"
+    ],
+    "YSB": [
+        "glossy-leaved bloodwood",
+        "smooth-stemmed bloodwood"
+    ],
+    "aum": [
+        "yellowjack",
+        "yellow jacket",
+        "yellow bloodwood"
+    ],
+    "YLE": [
+        "blackdown yellowjacket"
+    ],
+    "-GD": [
+        "twinleaf bloodwood"
+    ],
+    "K5W": [
+        "desert ghost gum",
+        "ghost gum"
+    ],
+    "ID7": [
+        "sand-dune bloodwood",
+        "sandhill bloodwood"
+    ],
+    "JSO": [
+        "lemon-scented gum",
+        "spotted gum"
+    ],
+    "A8Y": [
+        "drummond Range bloodwood"
+    ],
+    "TI3": [
+        "clarkson's bloodwood",
+        "grey bloodwood"
+    ],
+    "5Q3": [
+        "apple gum",
+        "cabbage gum"
+    ],
+    "mCH": [
+        "silver-leaved bloodwood"
+    ],
+    "HpM": [
+        "broad-leaved carbeen",
+        "rough leaf cabbage gum"
+    ],
+    "QDw": [
+        "dallachy's ghost gum",
+        "dallachy's gum"
+    ],
+    "0Y9": [
+        "ghost gum"
+    ],
+    "Bos": [
+        "small-fruited bloodwood",
+        "variably-barked bloodwood",
+        "gum-topped bloodwood"
+    ],
+    "s4W": [
+        "dunlop's bloodwood",
+        "bongonyin",
+        "oenpelli bloodwood"
+    ],
+    "rqu": [
+        "mallee bloodwood",
+        "hill bloodwood",
+        "centre range bloodwood"
+    ],
+    "GfL": [
+        "red bloodwood",
+        "variable-barked bloodwood",
+        "red-barked bloodwood",
+        "gum-topped bloodwood"
+    ],
+    "GAK": [
+        "yellow bloodwood"
+    ],
+    "Sc-": [
+        "pilbara ghost gum"
+    ],
+    "YOr": [
+        "rusty bloodwood"
     ],
     "_n0": [
-        "red-flowering gum"
+        "red flowering gum"
     ],
-    "_Aq": [
-        "common smoke tree"
+    "RQm": [
+        "cabbage ghost gum",
+        "bastard ghost gum",
+        "scraggy cabbage gum",
+        "wrinkle-leaf ghost gum"
     ],
-    "gdH": [
-        "American smoke tree"
+    "thc": [
+        "broad-leaved bloodwood",
+        "fan-leaved bloodwood",
+        "smooth-barked bloodwood"
+    ],
+    "dyh": [
+        "gilbert River ghost gum",
+        "gilbert River box"
+    ],
+    "Vwu": [
+        "cabbage gum",
+        "large-leaved cabbage gum",
+        "paper-fruited bloodwood"
+    ],
+    "Ffm": [
+        "red bloodwood"
+    ],
+    "b5g": [
+        "mountain marri"
+    ],
+    "qR1": [
+        "henderson's bloodwood"
+    ],
+    "4px": [
+        "large-leaved spotted gum"
+    ],
+    "sWm": [
+        "hyland's bloodwood"
+    ],
+    "w3v": [
+        "pink bloodwood"
+    ],
+    "WGl": [
+        "jacob's bloodwood",
+        "stringybark bloodwood"
+    ],
+    "cfc": [
+        "scarp gum",
+        "paper-fruited bloodwood"
+    ],
+    "F2_": [
+        "shiny-leaved bloodwood"
+    ],
+    "j9M": [
+        "round-leaved bloodwood",
+        "round leaf bloodwood",
+        "wubam"
+    ],
+    "JEz": [
+        "rustyjacket",
+        "leichhardt's rustyjacket",
+        "yellow jacket"
+    ],
+    "m3l": [
+        "narrow-leaved bloodwood"
+    ],
+    "vjZ": [
+        "spotted gum"
+    ],
+    "Ad_": [
+        "melville Island bloodwood"
+    ],
+    "_ci": [
+        "desert bloodwood"
+    ],
+    "oFX": [
+        "urn-fruited bloodwood",
+        "mawurru",
+        "yilanggi",
+        "warlamarn"
+    ],
+    "QDN": [
+        "maningrida bloodwood"
+    ],
+    "cSZ": [
+        "ghost gum"
+    ],
+    "SRP": [
+        "cable Beach ghost gum"
+    ],
+    "LAh": [
+        "yellowjacket",
+        "rustyjacket"
+    ],
+    "ika": [
+        "long-fruited bloodwood",
+        "small-flowered bloodwood"
+    ],
+    "UBN": [
+        "apple gum",
+        "paper-fruited bloodwood",
+        "bolomin"
+    ],
+    "Sss": [
+        "grey bloodwood"
+    ],
+    "YPW": [
+        "swamp bloodwood",
+        "spring bloodwood"
+    ],
+    "BGO": [
+        "red-throated bloodwood"
+    ],
+    "krV": [
+        "rough-leaved yellowjacket"
+    ],
+    "ctY": [
+        "rough leaved bloodwood",
+        "desert bloodwood"
+    ],
+    "gf7": [
+        "big-fruited bloodwood"
+    ],
+    "lpT": [
+        "blotchy bloodwood"
+    ],
+    "1o0": [
+        "tjuta",
+        "joolta",
+        "bloodwood",
+        "desert bloodwood",
+        "plains bloodwood",
+        "northern bloodwood",
+        "western bloodwood",
+        "inland bloodwood"
+    ],
+    "70n": [
+        "carbeen",
+        "moreton Bay ash"
+    ],
+    "rC2": [
+        "cadaghi",
+        "cadaga"
+    ],
+    "xpm": [
+        "brown bloodwood"
+    ],
+    "TAi": [
+        "rusty bloodwood"
+    ],
+    "Jf6": [
+        "large-fruited yellowjacket"
+    ],
+    "X8h": [
+        "glen Geddes bloodwood"
+    ],
+    "Imy": [
+        "broome bloodwood"
+    ],
+    "boy": [
+        "glenugie karaka"
+    ],
+    "55M": [
+        "talipot palm"
+    ],
+    "sIS": [
+        "cabbage palm",
+        "buri palm",
+        "gebang palm"
     ],
     "_nf": [
         "tree cotoneaster"
     ],
+    "Jwu": [
+        "olosapo",
+        "zapote amarillo",
+        "baboon cap"
+    ],
+    "Zzu": [
+        "leche caspi",
+        "leche huayo",
+        "sorva",
+        "cow tree"
+    ],
+    "du_": [
+        "milk tree",
+        "sorvinha",
+        "sorveira",
+        "sorva",
+        "sorva-pequena"
+    ],
+    "XTX": [
+        "fine-leaf wadara",
+        "cachimbo caspi",
+        "cachimbo",
+        "capa de tabaco",
+        "coco cabuyo",
+        "tauari"
+    ],
     "d8O": [
         "cannonball tree"
     ],
+    "aHR": [
+        "bala de cañón",
+        "coco de mono",
+        "paraíso",
+        "zapote de mico",
+        "zapote de mono"
+    ],
     "o2s": [
-        "may haw",
-        "may hawthorn"
+        "eastern mayhaw"
     ],
-    "wj9": [
-        "pear hawthorn"
+    "hgE": [
+        "mississippi hawthorn"
     ],
-    "P_j": [
-        "fireberry hawthorn"
+    "2Vh": [
+        "montgomery hawthorn"
+    ],
+    "yDh": [
+        "carolina Hawthorn"
+    ],
+    "6ok": [
+        "valley Head hawthorn"
+    ],
+    "sTs": [
+        "azarole",
+        "azerole",
+        "mediterranean medlar"
+    ],
+    "ktY": [
+        "barberry hawthorn"
+    ],
+    "MJx": [
+        "brainerd's hawthorn"
     ],
     "ont": [
         "scarlet hawthorn"
     ],
+    "URs": [
+        "kansas hawthorn",
+        "large-flowered cockspurthorn"
+    ],
     "WA1": [
-        "cockspur hawthorn"
+        "cockspur hawthorn",
+        "cockspur thorn"
+    ],
+    "046": [
+        "broadleaf hawthorn",
+        "apple-leaf hawthorn"
     ],
     "mL2": [
         "black hawthorn",
-        "Douglas hawthorn"
+        "douglas' thornapple"
     ],
     "BCx": [
         "fanleaf hawthorn"
     ],
     "y3T": [
-        "southern hawthorn",
-        "yellow hawthorn"
+        "summer haw",
+        "yellow-fruited thorn"
+    ],
+    "Zsk": [
+        "copenhagen hawthorn",
+        "lange's thorn",
+        "thicket hawthorn"
+    ],
+    "qSu": [
+        "passionate hawthorn",
+        "stolon-bearing hawthorn"
+    ],
+    "DRr": [
+        "gansu hawthorn"
     ],
     "PFy": [
-        "English hawthorn",
-        "midland hawthorn"
+        "midland hawthorn",
+        "english hawthorn",
+        "woodland hawthorn",
+        "mayflower"
+    ],
+    "DDT": [
+        "sandhill hawthorn"
+    ],
+    "QuU": [
+        "large-thorn hawthorn",
+        "aubépine á épines longues"
+    ],
+    "h3z": [
+        "bigfruit hawthorn"
     ],
     "Ejx": [
         "parsley hawthorn"
     ],
+    "lZ2": [
+        "tejocote",
+        "manzanita",
+        "tejocotera",
+        "mexican hawthorn"
+    ],
     "_jy": [
-        "downy hawthorn"
+        "downy hawthorn",
+        "red hawthorn"
     ],
     "lPX": [
-        "English hawthorn",
-        "one-seeded hawthorn"
+        "common hawthorn",
+        "oneseed hawthorn",
+        "single-seeded hawthorn"
+    ],
+    "Elc": [
+        "hungarian thorn",
+        "hungarian hawthorn",
+        "black hawthorn"
+    ],
+    "wPs": [
+        "western mayhaw"
+    ],
+    "Y5A": [
+        "oriental hawthorn"
+    ],
+    "IdZ": [
+        "pennsylvania thorn"
+    ],
+    "rKz": [
+        "small-flowered black hawthorn"
+    ],
+    "mBp": [
+        "plumleaf hawthorn",
+        "broad-leaved cockspur thorn"
     ],
     "s7w": [
-        "Washington hawthorn"
+        "washington hawthorn",
+        "washington thorn"
+    ],
+    "-x3": [
+        "mountain hawthorn",
+        "chinese haw",
+        "chinese hawthorn",
+        "chinese hawberry"
+    ],
+    "mE6": [
+        "frosted hawthorn"
     ],
     "Eq5": [
         "dotted hawthorn",
-        "whitehaw"
+        "white haw"
+    ],
+    "ZzT": [
+        "loch Lomond hawthorn"
+    ],
+    "Uvy": [
+        "river hawthorn"
+    ],
+    "2HH": [
+        "crataegus",
+        "rusty hawthorn",
+        "rufous mayhaw"
+    ],
+    "Y5v": [
+        "willow hawthorn"
+    ],
+    "vr8": [
+        "redhaw hawthorn",
+        "siberian hawthorn"
+    ],
+    "COP": [
+        "sargent's hawthorn"
+    ],
+    "VF6": [
+        "royal hawthorn",
+        "schuette's hawthorn"
     ],
     "H8U": [
-        "spatulate hawthorn"
+        "littlehip hawthorn"
+    ],
+    "jf7": [
+        "northern downy hawthorn",
+        "northern red haw",
+        "quebec hawthorn",
+        "hairy cockspurthorn"
     ],
     "McK": [
+        "fleshy hawthorn",
         "succulent hawthorn",
-        "fleshy hawthorn"
+        "round-fruited cockspurthorn"
+    ],
+    "s-H": [
+        "tansy-leaved thorn"
+    ],
+    "fZR": [
+        "texas hawthorn"
+    ],
+    "Tdd": [
+        "three-flowered hawthorn"
     ],
     "pjQ": [
-        "single-flower hawthorn",
+        "one-flowered hawthorn",
         "dwarf hawthorn"
     ],
-    "wMf": [
-        "Florida crossopetalum",
-        "maidenberry"
+    "2Ua": [
+        "green hawthorn",
+        "southern thorn"
     ],
-    "nJX": [
-        "Japanese cedar"
+    "0bE": [
+        "altai hawthorn"
     ],
-    "_Go": [
-        "China fir"
+    "oyk": [
+        "sacred garlic pear",
+        "temple plant"
     ],
-    "4Lg": [
-        "Florida toadwood"
+    "D4u": [
+        "cratoxylon cochinsinensis"
+    ],
+    "zQF": [
+        "mexican calabash",
+        "jícaro",
+        "morro",
+        "morrito",
+        "winged calabash"
+    ],
+    "7Sp": [
+        "calabash tree"
+    ],
+    "iLr": [
+        "higuero de sierra"
+    ],
+    "AJm": [
+        "patagua",
+        "lily of the valley tree"
+    ],
+    "Cdp": [
+        "crioceras"
+    ],
+    "QE6": [
+        "california rockflower"
+    ],
+    "2vV": [
+        "chipilín"
+    ],
+    "U2R": [
+        "cascarilla"
+    ],
+    "i8N": [
+        "lavender croton",
+        "lavender fever berry"
+    ],
+    "6y5": [
+        "copalchi"
+    ],
+    "pYl": [
+        "hong Kong croton"
+    ],
+    "rl1": [
+        "silver croton"
+    ],
+    "aIq": [
+        "purging croton"
+    ],
+    "-pB": [
+        "green native cascarilla"
+    ],
+    "f3h": [
+        "sri Lanka legume"
+    ],
+    "cl9": [
+        "lago Yojoa palm",
+        "root-spine palm"
+    ],
+    "aJK": [
+        "peumo",
+        "chilean acorn"
+    ],
+    "66x": [
+        "yellow laurel"
+    ],
+    "FXb": [
+        "mountain walnut"
+    ],
+    "prI": [
+        "jackwood"
+    ],
+    "Vam": [
+        "native blackbutt",
+        "black plum",
+        "laurel"
+    ],
+    "EUC": [
+        "glossy laurel",
+        "red-fruited laurel"
+    ],
+    "JBC": [
+        "mountain laurel"
+    ],
+    "YxZ": [
+        "rose maple"
+    ],
+    "9vP": [
+        "small leaved laurel"
+    ],
+    "iQQ": [
+        "cape quince"
+    ],
+    "Mrx": [
+        "campanita"
+    ],
+    "oYm": [
+        "butterspoon tree",
+        "butterknife tree",
+        "african red alder",
+        "red alder",
+        "rooiels"
     ],
     "LJ-": [
-        "carrotwood"
+        "tuckeroo",
+        "carrotwood",
+        "beach tamarind",
+        "green-leaved tamarind"
+    ],
+    "IZV": [
+        "duckfoot",
+        "scrub tuckeroo"
+    ],
+    "zcr": [
+        "arizona cypress"
+    ],
+    "YS7": [
+        "hesperocyparis bakeri",
+        "baker cypress",
+        "modoc cypress",
+        "siskiyou cypress"
+    ],
+    "i48": [
+        "bhutan cypress",
+        "kashmir cypress"
+    ],
+    "COO": [
+        "chinese cypress",
+        "yunnan cypress"
+    ],
+    "xU2": [
+        "saharan cypress",
+        "tarout"
+    ],
+    "S3_": [
+        "chinese weeping cypress"
+    ],
+    "oTn": [
+        "tibetan cypress"
+    ],
+    "eA0": [
+        "hesperocyparis goveniana",
+        "californian cypress",
+        "gowen cypress"
+    ],
+    "RhG": [
+        "guadalupe cypress"
+    ],
+    "SeD": [
+        "cedro blanco",
+        "teotlate",
+        "mexican white cedar",
+        "cedar-of-Goa"
+    ],
+    "vdp": [
+        "macNab cypress",
+        "shasta cypress"
     ],
     "RFv": [
-        "Monterey cypress"
+        "hesperocyparis macrocarpa"
+    ],
+    "ZmJ": [
+        "sargent's cypress"
     ],
     "JkE": [
-        "Mediterranean cypress",
-        "Italian cypress"
+        "mediterranean cypress",
+        "italian cypress",
+        "tuscan cypress",
+        "persian cypress",
+        "pencil pine"
+    ],
+    "7ui": [
+        "himalayan cypress",
+        "bhutan cypress"
+    ],
+    "Zrf": [
+        "curitiba"
     ],
     "C1g": [
-        "spiked cabbage tree"
+        "spiked cabbage tree",
+        "lowveld cabbage tree",
+        "common cabbage tree"
     ],
-    "m-y": [
-        "quince"
+    "jNn": [
+        "cape coast cabbage tree",
+        "kaapse kuskiepersol"
     ],
-    "QYc": [
-        "titi",
-        "swamp cyrilla"
+    "27z": [
+        "wetforest cyanea"
+    ],
+    "qJj": [
+        "hāhā"
+    ],
+    "Vng": [
+        "limahuli Valley cyanea"
+    ],
+    "hFc": [
+        "molokai cyanea"
+    ],
+    "baf": [
+        "oakleaf cyanea"
+    ],
+    "h5C": [
+        "kaiholena cyanea"
+    ],
+    "7lE": [
+        "mt."
+    ],
+    "qVX": [
+        "cyclophyllum coprosmoides",
+        "coast Canthium",
+        "supple Jack",
+        "sweet Susie"
+    ],
+    "JYN": [
+        "cyclophyllum  longipetalum",
+        "coast Canthium"
+    ],
+    "itc": [
+        "jumping cholla",
+        "hanging chain cholla"
+    ],
+    "lLL": [
+        "cane cholla",
+        "walking stick cholla",
+        "tree cholla",
+        "chainlink cactus"
+    ],
+    "tZf": [
+        "coastal cholla"
+    ],
+    "ccN": [
+        "cane cholla",
+        "spiny cholla",
+        "walkingstick cactus"
+    ],
+    "5A1": [
+        "uganda ironwood",
+        "muhimbi"
+    ],
+    "iwa": [
+        "mapou tree",
+        "bois mapou"
+    ],
+    "jzw": [
+        "forest cyrtandra",
+        "giffard's cyrtandra"
+    ],
+    "Kct": [
+        "red sealing wax palm",
+        "lipstick palm"
+    ],
+    "_lH": [
+        "tagasaste",
+        "tree lucerne"
     ],
     "yvE": [
         "kahikatea"
@@ -1241,144 +5681,903 @@
     "ZSS": [
         "rimu"
     ],
-    "KwY": [
-        "tabonuco"
+    "aoC": [
+        "safou",
+        "atanga",
+        "ube",
+        "african pear",
+        "bush pear",
+        "african plum",
+        "nsafu",
+        "bush butter tree",
+        "butterfruit"
     ],
-    "QTZ": [
-        "Madagascar rosewood",
-        "madaga"
+    "_TY": [
+        "pompom tree"
     ],
-    "YrO": [
-        "tulipwood"
+    "K4P": [
+        "dalbergia assamica"
     ],
-    "z22": [
-        "pau rosa"
+    "8SM": [
+        "brazilian kingwood",
+        "kingwood",
+        "tulipwood",
+        "violetwood"
+    ],
+    "Vv6": [
+        "thailand rosewood",
+        "siamese rosewood",
+        "tracwood"
     ],
     "efr": [
-        "Indian rosewood"
+        "dalbergia emarginata",
+        "indian rosewood"
     ],
     "mAS": [
-        "African blackwood",
+        "african blackwood",
+        "grenadilla",
         "mpingo"
     ],
-    "NNK": [
-        "cocobolo"
+    "gl9": [
+        "bahia rosewood",
+        "jacarandá-da-Bahia",
+        "brazilian rosewood",
+        "rio rosewood",
+        "jacarandá-do-brasil",
+        "pianowood",
+        "caviúna",
+        "graúna",
+        "jacarandá-una",
+        "obuina"
+    ],
+    "g18": [
+        "climbing flat bean"
+    ],
+    "TTe": [
+        "fragrant rosewood",
+        "chinese rosewood"
+    ],
+    "L1t": [
+        "north Indian rosewood"
     ],
     "6QP": [
-        "Honduran rosewood"
+        "honduras rosewood"
+    ],
+    "BPl": [
+        "sua"
+    ],
+    "s3B": [
+        "nectandra bicolor"
+    ],
+    "9ZD": [
+        "nectandra cufodontisii"
+    ],
+    "1Xe": [
+        "nectandra leucocome"
+    ],
+    "Xfc": [
+        "nectandra longipetiolata"
+    ],
+    "c3a": [
+        "nectandra matudai"
+    ],
+    "U31": [
+        "nectandra mirafloris"
+    ],
+    "X9f": [
+        "nectandra rudis"
+    ],
+    "rkg": [
+        "nectandra salicina"
+    ],
+    "PPg": [
+        "nectandra smithii"
+    ],
+    "mr-": [
+        "socketwood",
+        "light yellowwood",
+        "canary socketwood"
+    ],
+    "85a": [
+        "illawarra socketwood"
+    ],
+    "6dL": [
+        "socketwood",
+        "black-leaved socketwood"
+    ],
+    "N8E": [
+        "socketwood",
+        "manning River socketwood"
+    ],
+    "GpN": [
+        "socket sassafrass",
+        "red-flowered socketwood"
+    ],
+    "oHL": [
+        "brown silky oak"
+    ],
+    "raT": [
+        "desert spoon",
+        "spoon flower",
+        "sotol",
+        "common sotol"
+    ],
+    "CE7": [
+        "dove-tree",
+        "handkerchief tree",
+        "pocket handkerchief tree",
+        "ghost tree"
     ],
     "fUS": [
-        "Davidson's plum",
-        "Mullumbimby plum"
+        "davidson's plum",
+        "mullumbimby plum"
     ],
     "NIA": [
-        "North Queensland Davidson's plum"
+        "ooray",
+        "davidson's plum",
+        "queensland Davidson's plum"
     ],
-    "A7H": [
-        "royal poinciana",
-        "flamboyant"
+    "H3H": [
+        "marno"
+    ],
+    "N3g": [
+        "orange Wild Rhea"
+    ],
+    "IxR": [
+        "debregieasia saenab",
+        "ajilai"
+    ],
+    "6qK": [
+        "silky myrtle"
+    ],
+    "8rj": [
+        "cabbage palm",
+        "millionaire's salad"
+    ],
+    "LKR": [
+        "stinging brush",
+        "mulberry-leaved stinger",
+        "gympie",
+        "gympie stinger",
+        "stinger",
+        "the suicide plant",
+        "moonlighter",
+        "urticaceae"
+    ],
+    "gal": [
+        "stinging tree",
+        "jelaton"
+    ],
+    "UmO": [
+        "pulus",
+        "stinging tree",
+        "fever nettle",
+        "elephant nettle"
     ],
     "f4U": [
-        "Channel Islands tree poppy"
+        "channel Islands tree poppy",
+        "harford's tree poppy"
     ],
     "HhM": [
-        "bush poppy"
+        "bush poppy",
+        "tree poppy"
     ],
-    "QCe": [
-        "Texas mountain laurel"
+    "twi": [
+        "senecio johnstonii"
+    ],
+    "3bB": [
+        "cabbage tree"
+    ],
+    "82p": [
+        "golden bouquet tree",
+        "wallaby wireless tree",
+        "yellow pagoda flower tree"
+    ],
+    "gLF": [
+        "jacitara palm"
+    ],
+    "OOR": [
+        "slender deutzia"
+    ],
+    "rJu": [
+        "velvet tamarind"
+    ],
+    "Nju": [
+        "velvet tamarind"
+    ],
+    "qzR": [
+        "tamarind-plum"
+    ],
+    "-YZ": [
+        "sicklebush",
+        "bell mimosa",
+        "chinese lantern tree",
+        "kalahari Christmas tree",
+        "omubambanjobe",
+        "acacia Saint Domingue",
+        "el marabú",
+        "kalahari-Weihnachtsbaum",
+        "kéké",
+        "mimosa clochette"
+    ],
+    "dlR": [
+        "didelta spinosa"
+    ],
+    "lxZ": [
+        "octopus tree"
+    ],
+    "Zkr": [
+        "red beech",
+        "golden guinea flower",
+        "golden guinea tree"
+    ],
+    "Yyu": [
+        "elephant apple"
+    ],
+    "KKw": [
+        "katmon"
+    ],
+    "Q2E": [
+        "simpoh ayer"
+    ],
+    "t5V": [
+        "australian native lychee"
+    ],
+    "Q36": [
+        "dimocarpus fumatus"
+    ],
+    "s7W": [
+        "diospyros australis"
+    ],
+    "WEj": [
+        "black ebony",
+        "makassar ebony"
+    ],
+    "Doe": [
+        "sand apple"
+    ],
+    "JRt": [
+        "gabon ebony",
+        "african ebony",
+        "west African ebony",
+        "benin ebony"
+    ],
+    "F8M": [
+        "poison star-apple",
+        "bostolbos"
+    ],
+    "jVg": [
+        "velvet apple",
+        "velvet persimmon",
+        "kamagong",
+        "mabolo tree"
     ],
     "U1T": [
-        "ebony",
-        "Indian ebony"
+        "ceylon ebony"
+    ],
+    "M-0": [
+        "black ebony"
+    ],
+    "yA5": [
+        "queensland ebony"
     ],
     "b92": [
-        "Japanese persimmon"
+        "oriental persimmon",
+        "chinese persimmon",
+        "japanese persimmon",
+        "kaki persimmon"
     ],
-    "tRC": [
-        "Texas persimmon"
+    "e3G": [
+        "marble ebony",
+        "bois d'ebene marbre",
+        "bois d'ebene a veines"
+    ],
+    "2Uv": [
+        "bushveld bluebush"
+    ],
+    "1sP": [
+        "red-fruited ebony"
+    ],
+    "j7Q": [
+        "fiji persimmon"
+    ],
+    "WFY": [
+        "gaub tree",
+        "malabar ebony",
+        "black-and-white ebony",
+        "pale moon ebony"
+    ],
+    "bk6": [
+        "malaysian persimmon",
+        "broadleaf ebony",
+        "sea ebony"
+    ],
+    "77q": [
+        "coromandel ebony",
+        "east Indian ebony"
+    ],
+    "V03": [
+        "jackalberry",
+        "african ebony",
+        "jakkalsbessie"
+    ],
+    "YXB": [
+        "black sapote"
+    ],
+    "fBk": [
+        "bastard ebony"
+    ],
+    "1WN": [
+        "calamander"
+    ],
+    "ixp": [
+        "rigid star-berry"
+    ],
+    "TL7": [
+        "black ebony",
+        "bois d'ebene noir",
+        "mauritian ebony"
     ],
     "Cxe": [
-        "American persimmon",
-        "eastern persimmon"
+        "american persimmon",
+        "common persimmon",
+        "eastern persimmon",
+        "simmon",
+        "possumwood",
+        "possum apples",
+        "sugar plum"
     ],
-    "RVd": [
-        "varnish leaf"
+    "F2y": [
+        "bladdernut",
+        "swartbas",
+        "wild coffee",
+        "umTenatane"
+    ],
+    "nDo": [
+        "native tamarind"
+    ],
+    "RFn": [
+        "indian butter tree"
+    ],
+    "V4O": [
+        "resin tree"
+    ],
+    "Iy9": [
+        "hollong"
+    ],
+    "CjM": [
+        "sarawak keruing"
+    ],
+    "zGr": [
+        "හොර - Hora",
+        "සරල - Sarala",
+        "කිරිපලු - Kiripalu"
+    ],
+    "svo": [
+        "cumaru",
+        "kumaru",
+        "brazilian teak"
+    ],
+    "C7g": [
+        "matagouri"
+    ],
+    "ZDR": [
+        "thread-leaved hop-bush"
+    ],
+    "3vv": [
+        "indani",
+        "tsanie"
+    ],
+    "8be": [
+        "pambukaimaram"
+    ],
+    "pe6": [
+        "wavy trumpet flower"
+    ],
+    "y1E": [
+        "tui",
+        "mangrove trumpet tree"
+    ],
+    "e0F": [
+        "bois bete",
+        "mahot tantan"
     ],
     "bqw": [
-        "South African wild pear"
+        "dikbas",
+        "south African wild pear"
     ],
-    "05x": [
-        "milkbark"
+    "e2V": [
+        "sassafras",
+        "yellow-",
+        "canary-",
+        "golden sassafras",
+        "golden deal"
     ],
-    "SJ5": [
-        "Guiana plum"
+    "_6E": [
+        "aberia caffra"
     ],
-    "3qX": [
-        "golden dewdrop",
-        "pigeon berry",
-        "skyflower"
+    "SyM": [
+        "ceylon gooseberry",
+        "ketembilla",
+        "kitambilla"
+    ],
+    "9Jy": [
+        "large-leaved dragon tree"
+    ],
+    "aLQ": [
+        "socotra dragon tree",
+        "dragon blood tree"
+    ],
+    "AUQ": [
+        "canary Islands dragon tree",
+        "drago"
+    ],
+    "shk": [
+        "cornstalk dracaena"
+    ],
+    "9O1": [
+        "kaweesak's dragon tree",
+        "chan nuu",
+        "chan pha krai"
+    ],
+    "mo8": [
+        "small-leaved dragon tree"
+    ],
+    "ZeL": [
+        "song of India",
+        "song of Jamaica"
+    ],
+    "z8T": [
+        "new Guinea walnut",
+        "pacific walnut",
+        "paldao"
+    ],
+    "5ZK": [
+        "sấu"
+    ],
+    "Lzn": [
+        "chatham Island grass tree",
+        "tarahinau"
+    ],
+    "j_d": [
+        "grass tree",
+        "slender dragon tree"
+    ],
+    "o2d": [
+        "fitzgeraldii tree",
+        "fitzgerald tree"
+    ],
+    "KW2": [
+        "inaka"
+    ],
+    "5dB": [
+        "mountain neinei",
+        "grass tree",
+        "pineapple tree"
+    ],
+    "xNS": [
+        "winter's bark",
+        "canelo"
+    ],
+    "qSB": [
+        "borneo camphor",
+        "camphor tree",
+        "malay camphor",
+        "sumatran camphor"
+    ],
+    "Zo4": [
+        "kapur Keladan"
+    ],
+    "gjc": [
+        "water ironplum"
+    ],
+    "V29": [
+        "tree dubautia",
+        "mauna Kea dubautia"
+    ],
+    "UfL": [
+        "small-head dubautia"
+    ],
+    "zf8": [
+        "plantainleaf dubautia"
+    ],
+    "pFX": [
+        "net-veined dubautia"
+    ],
+    "SmY": [
+        "wahiawa dubautia"
+    ],
+    "KRk": [
+        "corkwood"
+    ],
+    "Lsg": [
+        "espino"
+    ],
+    "urf": [
+        "ceylon durian"
+    ],
+    "qZ_": [
+        "durian marangang",
+        "merangang",
+        "red durian",
+        "tutong",
+        "lahong"
+    ],
+    "0Qg": [
+        "durian munjit"
     ],
     "IWf": [
-        "durian merah",
-        "durian burong"
+        "red-fleshed durian",
+        "orange-fleshed durian",
+        "yellow durian"
+    ],
+    "czG": [
+        "mountain durian"
     ],
     "Ie-": [
         "durian pulu",
         "durian merah",
         "nyekak",
+        "pakan",
+        "kuluk",
         "lai"
     ],
-    "wW_": [
-        "durian",
-        "civet fruit"
+    "pB1": [
+        "durian kura kura"
     ],
-    "F8f": [
-        "triangle palm"
+    "wW_": [
+        "durian"
+    ],
+    "Z02": [
+        "jelutong"
+    ],
+    "rDS": [
+        "chrysalidocarpus canescens"
+    ],
+    "JTI": [
+        "manambe palm"
     ],
     "P3g": [
-        "cane palm",
-        "yellow palm"
+        "golden cane palm",
+        "areca palm",
+        "yellow palm",
+        "butterfly palm"
+    ],
+    "n0T": [
+        "lucuba palm"
+    ],
+    "LP2": [
+        "rosewood",
+        "rose mahogany"
+    ],
+    "qiU": [
+        "ivory mahogany"
+    ],
+    "2zw": [
+        "red bean"
+    ],
+    "4pN": [
+        "yellow mahogany"
+    ],
+    "2Hi": [
+        "spurwood"
+    ],
+    "ABn": [
+        "cardón"
+    ],
+    "tOq": [
+        "cardon grande cactus",
+        "argentine saguaro"
+    ],
+    "cYQ": [
+        "puzzle bush",
+        "deurmekaarbos"
+    ],
+    "1Jd": [
+        "peach bush",
+        "native willow",
+        "peachwood"
+    ],
+    "vlq": [
+        "nightcap oak"
     ],
     "-zW": [
+        "russian olive",
+        "silver berry",
         "oleaster",
-        "Russian olive"
+        "wild olive"
+    ],
+    "toD": [
+        "bastard oleaster",
+        "soh-sang"
+    ],
+    "1lz": [
+        "cherry elaeagnus",
+        "cherry silverberry",
+        "goumi",
+        "gumi",
+        "natsugumi"
     ],
     "Hjp": [
         "thorny olive",
-        "spotted elaeagnus",
+        "spiny oleaster",
         "silverthorn"
     ],
+    "Vsw": [
+        "oil palm",
+        "african oil palm",
+        "macaw-fat"
+    ],
+    "ZkL": [
+        "american oil palm"
+    ],
+    "Mkt": [
+        "blue plum",
+        "bony quandony",
+        "arnhem Land quandong"
+    ],
+    "_t-": [
+        "bois dentelle"
+    ],
+    "Xle": [
+        "brown quandong",
+        "coorangooloo quandong"
+    ],
+    "-Cg": [
+        "elaeocarpus costatus"
+    ],
+    "K0k": [
+        "michael's quandong"
+    ],
+    "GWb": [
+        "hinau",
+        "hīnau"
+    ],
+    "m2M": [
+        "mountain quandong"
+    ],
+    "Log": [
+        "eumundi quandong",
+        "smooth-leaved quandong"
+    ],
+    "67z": [
+        "white quandong",
+        "northern quandong"
+    ],
+    "CXt": [
+        "black olive berry",
+        "mountain blueberry",
+        "mountain quandong"
+    ],
+    "uvk": [
+        "pokaka"
+    ],
+    "RNW": [
+        "yoga"
+    ],
+    "32P": [
+        "kuranda quandong",
+        "johnson's quandong"
+    ],
+    "mks": [
+        "silver quandong",
+        "white quandong",
+        "brown hearted quandong",
+        "brownheart",
+        "mountain beech",
+        "mowbullan whitewood",
+        "pigeonberry ash",
+        "white beech",
+        "whitewood"
+    ],
+    "BlX": [
+        "tropical quandong"
+    ],
+    "f9H": [
+        "elaeocarpus montanus"
+    ],
+    "6i5": [
+        "hard quandong",
+        "blueberry ash",
+        "whitewood",
+        "grey carabeen",
+        "freckled oliveberry",
+        "gray carrobeen"
+    ],
+    "eAt": [
+        "blueberry ash",
+        "ash quandong",
+        "blue olive berry",
+        "fairy petticoats",
+        "fringe tree",
+        "koda",
+        "lily of the valley tree",
+        "scrub ash"
+    ],
+    "n2W": [
+        "brown quandong",
+        "caloon",
+        "grey quandong"
+    ],
+    "-Do": [
+        "hard quandong",
+        "blueberry ash",
+        "hard duandong",
+        "northern quandong"
+    ],
+    "RGn": [
+        "woodland elaeocarpus"
+    ],
+    "qTq": [
+        "hairy quandong"
+    ],
+    "96J": [
+        "scrub tamarind"
+    ],
+    "Axx": [
+        "green tamarind",
+        "beetroot tree"
+    ],
+    "vv0": [
+        "white tamarind",
+        "short-leaf beetroot"
+    ],
+    "cXg": [
+        "elephant root",
+        "sumach bean"
+    ],
+    "T6I": [
+        "skew-leaved elephant-root"
+    ],
     "Tz_": [
-        "elliottia",
-        "southern plum"
+        "georgia plume",
+        "summer plume"
     ],
     "X6R": [
-        "Chilean firebush"
+        "chilean firetree",
+        "chilean firebush",
+        "notro",
+        "ciruelillo"
+    ],
+    "bHb": [
+        "yellow ash",
+        "bonewood"
+    ],
+    "EKL": [
+        "false Buchu"
+    ],
+    "u1J": [
+        "white bark"
+    ],
+    "E-W": [
+        "blue walnut",
+        "northern rose walnut"
+    ],
+    "-hL": [
+        "corkwood"
+    ],
+    "Q2h": [
+        "whitewood"
+    ],
+    "cHN": [
+        "stamvrug"
+    ],
+    "rSc": [
+        "silver-leaf milkplum"
+    ],
+    "jST": [
+        "e. campanulatus",
+        "furin-tsutsuji",
+        "redvein enkianthus"
+    ],
+    "krp": [
+        "mountain mahogany"
+    ],
+    "xM7": [
+        "sipo",
+        "utile"
+    ],
+    "G6x": [
+        "caro blanco",
+        "oreja de negro"
+    ],
+    "-f5": [
+        "pacara earpod tree"
     ],
     "1td": [
+        "guanacaste",
+        "caro caro",
+        "monkey-ear tree",
         "elephant-ear tree"
     ],
+    "ZRE": [
+        "bignonia emu bush",
+        "creek wilga",
+        "dogwood",
+        "eurah",
+        "gooramurra",
+        "kurumbimi",
+        "river argee"
+    ],
+    "Mwl": [
+        "gidgee fuchsia bush",
+        "desert fuchsia",
+        "ilpengk"
+    ],
+    "_Hk": [
+        "harlequin fuchsia bush"
+    ],
+    "Jqj": [
+        "berrigan"
+    ],
+    "3nh": [
+        "small-flowered poverty bush"
+    ],
+    "2nU": [
+        "kopi poverty bush",
+        "plumridge"
+    ],
+    "RFc": [
+        "false sandalwood"
+    ],
+    "D6n": [
+        "round-leaved eremophila"
+    ],
+    "52W": [
+        "pixie bush"
+    ],
+    "Lox": [
+        "weeooka",
+        "twin-leaf emu bush",
+        "mountain sandalwood"
+    ],
+    "99b": [
+        "silver poverty bush",
+        "winged-fruited eremophila"
+    ],
+    "p6a": [
+        "green-flowered eremophila",
+        "campion eremophila"
+    ],
     "qL1": [
-        "tree heath"
+        "tree heath",
+        "tree heather"
     ],
-    "GeF": [
-        "bronze loquat"
+    "7po": [
+        "beech creeper",
+        "coughbush"
     ],
-    "24S": [
-        "Japanese loquat",
-        "Japanese medlar"
+    "Peq": [
+        "erythrina America",
+        "coral tree",
+        "colorines",
+        "pemoches"
     ],
     "diK": [
-        "coastal coral tree"
+        "coast coral tree",
+        "african coral tree"
     ],
     "CE4": [
+        "flame coral tree",
         "naked coral tree"
     ],
-    "HaC": [
-        "Brazilian coral tree"
+    "T2y": [
+        "cockspur coral tree"
+    ],
+    "GE6": [
+        "basul"
+    ],
+    "li2": [
+        "cock's-spur",
+        "espuelo de gallo",
+        "pinon espinoso"
+    ],
+    "cHh": [
+        "chilicote",
+        "western coral bean"
     ],
     "4Xr": [
-        "Natal coral tree"
+        "natal coral tree"
     ],
     "2wM": [
         "silver princess mallee"
@@ -1393,7 +6592,7 @@
         "sugar gum"
     ],
     "Urv": [
-        "Mindanao gum"
+        "mindanao gum"
     ],
     "m7h": [
         "bluegum eucalyptus"
@@ -1461,19 +6660,19 @@
         "arazá"
     ],
     "v2q": [
-        "Surinam cherry",
-        "Brazilian cherry",
-        "Cayenne cherry",
+        "surinam cherry",
+        "brazilian cherry",
+        "cayenne cherry",
         "pitanga"
     ],
     "il4": [
         "burning bush"
     ],
     "XoV": [
-        "European euonymus"
+        "european euonymus"
     ],
     "zac": [
-        "Japanese spindle bush"
+        "japanese spindle bush"
     ],
     "X4t": [
         "western spindle bush"
@@ -1482,7 +6681,7 @@
         "candelabra tree"
     ],
     "N7O": [
-        "Caribbean copper plant"
+        "caribbean copper plant"
     ],
     "WeM": [
         "candelabra tree"
@@ -1495,17 +6694,18 @@
     ],
     "Ot3": [
         "princewood",
-        "Caribbean princewood"
+        "caribbean princewood"
     ],
     "jKS": [
         "butterbough",
         "inkwood"
     ],
     "6k9": [
-        "American beech"
+        "american beech"
     ],
     "Z6w": [
-        "European beech, copper beech"
+        "copper beech",
+        "european beech"
     ],
     "xIc": [
         "council tree"
@@ -1515,21 +6715,21 @@
         "clown fig"
     ],
     "8T6": [
-        "Florida strangler fig"
+        "florida strangler fig"
     ],
     "CtH": [
-        "Roxburgh fig"
+        "roxburgh fig"
     ],
     "40v": [
         "banyan fig",
-        "Bengal fig",
-        "Indian fig",
-        "East Indian fig",
-        "Indian banyan"
+        "bengal fig",
+        "indian fig",
+        "east Indian fig",
+        "indian banyan"
     ],
     "14p": [
         "weeping fig",
-        "Benjamin's fig"
+        "benjamin's fig"
     ],
     "COL": [
         "kalukoi"
@@ -1538,7 +6738,7 @@
         "common fig"
     ],
     "P5Z": [
-        "Celebese fig"
+        "celebese fig"
     ],
     "Ryq": [
         "creek sandpaper fig"
@@ -1552,7 +6752,7 @@
     ],
     "CSa": [
         "inu-biwa",
-        "Japanese fig"
+        "japanese fig"
     ],
     "Eqy": [
         "yellow-stem fig"
@@ -1573,14 +6773,14 @@
         "banana-leaf fig"
     ],
     "p3L": [
-        "Moreton Bay fig"
+        "moreton Bay fig"
     ],
     "_E5": [
-        "Mauritian fig",
-        "Maldive fig"
+        "mauritian fig",
+        "maldive fig"
     ],
     "WUR": [
-        "Chinese banyan tree",
+        "chinese banyan tree",
         "laurel fig",
         "fig laurel"
     ],
@@ -1601,10 +6801,10 @@
     ],
     "xtL": [
         "desert fig",
-        "Australian fig"
+        "australian fig"
     ],
     "KJk": [
-        "Philippine fig"
+        "philippine fig"
     ],
     "fWX": [
         "sacred fig",
@@ -1615,7 +6815,7 @@
         "gooseberry fig"
     ],
     "npX": [
-        "Port Jackson fig",
+        "port Jackson fig",
         "little-leaf fig",
         "rusty fig"
     ],
@@ -1633,16 +6833,16 @@
         "white fig"
     ],
     "vUb": [
-        "Australian strangler fig"
+        "australian strangler fig"
     ],
     "8-7": [
-        "Chinese parasol tree"
+        "chinese parasol tree"
     ],
     "IK1": [
         "swamp privet"
     ],
     "-8X": [
-        "Florida privet"
+        "florida privet"
     ],
     "S-w": [
         "white ash"
@@ -1652,13 +6852,13 @@
         "raywood ash"
     ],
     "TM5": [
-        "Carolina ash"
+        "carolina ash"
     ],
     "8mO": [
-        "European ash"
+        "european ash"
     ],
     "AxV": [
-        "Oregon ash"
+        "oregon ash"
     ],
     "gaG": [
         "black ash"
@@ -1680,11 +6880,11 @@
         "evergreen ash"
     ],
     "Y8d": [
-        "Arizona ash"
+        "arizona ash"
     ],
     "fp2": [
         "ginkgo",
-        "Japanese maidenhair"
+        "japanese maidenhair"
     ],
     "J1h": [
         "water locust"
@@ -1693,7 +6893,7 @@
         "honey locust"
     ],
     "JvK": [
-        "Chinese swamp cypress"
+        "chinese swamp cypress"
     ],
     "bH9": [
         "loblolly bay",
@@ -1701,7 +6901,7 @@
     ],
     "Z3c": [
         "silk oak",
-        "Australian silver oak"
+        "australian silver oak"
     ],
     "ntS": [
         "longleaf blolly",
@@ -1725,7 +6925,7 @@
         "shedua"
     ],
     "jgK": [
-        "West Indian false boxwood"
+        "west Indian false boxwood"
     ],
     "6wD": [
         "crabwood"
@@ -1735,7 +6935,7 @@
         "pincushion tree"
     ],
     "Isw": [
-        "Carolina silverbell"
+        "carolina silverbell"
     ],
     "MIB": [
         "two-winged silverbell",
@@ -1759,14 +6959,14 @@
     "VYu": [
         "kaffir date",
         "kaffir plum",
-        "South African wild plum"
+        "south African wild plum"
     ],
     "z3a": [
-        "Pará rubber tree",
+        "pará rubber tree",
         "rubber tree"
     ],
     "exf": [
-        "Confederate rose",
+        "confederate rose",
         "cotton rose"
     ],
     "ps3": [
@@ -1781,7 +6981,7 @@
     ],
     "nCZ": [
         "jatoba",
-        "Brazilian cherry"
+        "brazilian cherry"
     ],
     "ZCl": [
         "spindle palm"
@@ -1790,14 +6990,14 @@
         "white ironwood"
     ],
     "_aR": [
-        "Carolina holly"
+        "carolina holly"
     ],
     "SPP": [
         "serviceberry holly",
         "sarvis holly"
     ],
     "A63": [
-        "English holly"
+        "english holly"
     ],
     "PrF": [
         "dahoon"
@@ -1807,7 +7007,7 @@
         "large gallberry holly"
     ],
     "44V": [
-        "Chinese holly"
+        "chinese holly"
     ],
     "ccG": [
         "possumhaw",
@@ -1820,7 +7020,7 @@
         "smooth winterberry"
     ],
     "0nS": [
-        "Georgia holly"
+        "georgia holly"
     ],
     "tg6": [
         "mountain winterberry"
@@ -1829,7 +7029,7 @@
         "myrtle-leaved holly"
     ],
     "edk": [
-        "American holly"
+        "american holly"
     ],
     "vCN": [
         "common winterberry"
@@ -1839,7 +7039,7 @@
         "yaupon holly"
     ],
     "9Zn": [
-        "Florida anise-tree"
+        "florida anise-tree"
     ],
     "_wx": [
         "yellow anise-tree"
@@ -1855,7 +7055,7 @@
         "joewood"
     ],
     "-uw": [
-        "Chilean wine palm"
+        "chilean wine palm"
     ],
     "LUG": [
         "butternut",
@@ -1865,23 +7065,23 @@
         "black walnut"
     ],
     "7zL": [
-        "English walnut",
-        "Persian walnut"
+        "english walnut",
+        "persian walnut"
     ],
     "0ku": [
         "ashe juniper"
     ],
     "ZO-": [
-        "Chinese juniper"
+        "chinese juniper"
     ],
     "bmJ": [
         "common juniper"
     ],
     "a1d": [
-        "Syrian juniper"
+        "syrian juniper"
     ],
     "O6G": [
-        "Greek juniper"
+        "greek juniper"
     ],
     "LZ0": [
         "fetid juniper",
@@ -1896,7 +7096,7 @@
         "prickly cedar"
     ],
     "VIo": [
-        "Rocky Mountain juniper"
+        "rocky Mountain juniper"
     ],
     "ONV": [
         "eastern red cedar"
@@ -1905,10 +7105,10 @@
         "mountain laurel"
     ],
     "EmT": [
-        "African sausage tree"
+        "african sausage tree"
     ],
     "wgG": [
-        "Chinese flame tree"
+        "chinese flame tree"
     ],
     "1wt": [
         "goldenrain tree"
@@ -1926,20 +7126,20 @@
     "Dq7": [
         "cow itch tree",
         "primrose tree",
-        "Norfolk Island hibiscus",
+        "norfolk Island hibiscus",
         "pyramid tree"
     ],
     "djR": [
         "white mangrove"
     ],
     "YuA": [
-        "European larch"
+        "european larch"
     ],
     "Fj_": [
-        "Dahurian larch"
+        "dahurian larch"
     ],
     "x5T": [
-        "Japanese larch"
+        "japanese larch"
     ],
     "sg9": [
         "tamarack"
@@ -1951,14 +7151,14 @@
         "western larch"
     ],
     "FNe": [
-        "Siberian larch"
+        "siberian larch"
     ],
     "G0C": [
         "poet's laurel",
         "sweet bay laurel"
     ],
     "gpc": [
-        "Australian tea tree"
+        "australian tea tree"
     ],
     "2OX": [
         "silverleaf",
@@ -1972,60 +7172,60 @@
         "pincushion"
     ],
     "0Bw": [
-        "Florida licaria"
+        "florida licaria"
     ],
     "uEL": [
-        "Japanese privet"
+        "japanese privet"
     ],
     "YG5": [
         "glossy privet"
     ],
     "lvv": [
-        "Chinese privet"
+        "chinese privet"
     ],
     "NtJ": [
-        "Chinese sweetgum"
+        "chinese sweetgum"
     ],
     "Yqv": [
-        "Oriental sweetgum"
+        "oriental sweetgum"
     ],
     "FFz": [
         "sweetgum"
     ],
     "g0x": [
-        "Chinese tulip tree"
+        "chinese tulip tree"
     ],
     "tg-": [
         "yellow poplar",
-        "American tulip tree"
+        "american tulip tree"
     ],
     "Hbr": [
         "litchi"
     ],
     "Kjm": [
-        "Chinese fan palm"
+        "chinese fan palm"
     ],
     "Sq5": [
         "coco de mer palm",
-        "Maldive coconut",
+        "maldive coconut",
         "double coconut"
     ],
     "E6j": [
-        "Brisbane box"
+        "brisbane box"
     ],
     "OM7": [
-        "Chinese fringe flower",
-        "Chinese witch hazel"
+        "chinese fringe flower",
+        "chinese witch hazel"
     ],
     "JrN": [
         "tree lyonia"
     ],
     "X60": [
-        "Catalina ironwood"
+        "catalina ironwood"
     ],
     "zY5": [
         "false tamarind",
-        "Bahamian wild tamarind"
+        "bahamian wild tamarind"
     ],
     "WP-": [
         "smooth-shelled macadamia"
@@ -2037,27 +7237,27 @@
         "rough-shelled macadamia"
     ],
     "VE6": [
-        "Bolivian rosewood",
+        "bolivian rosewood",
         "morado"
     ],
     "YTC": [
-        "Osage orange",
+        "osage orange",
         "mock orange",
         "hedge apple"
     ],
     "XS1": [
         "cudrang",
-        "Mandarin melonberry",
+        "mandarin melonberry",
         "silkworm thorn",
-        "zhe (che)",
-        "Chinese mulberry"
+        "zhe che",
+        "chinese mulberry"
     ],
     "TXI": [
         "cucumber tree",
         "cucumber magnolia"
     ],
     "-6M": [
-        "Fraser magnolia"
+        "fraser magnolia"
     ],
     "DiQ": [
         "southern magnolia"
@@ -2077,59 +7277,59 @@
     ],
     "j_Y": [
         "acerola",
-        "Barbados cherry",
+        "barbados cherry",
         "wild crape myrtle"
     ],
     "bgP": [
         "southern crabapple"
     ],
     "K8K": [
-        "Siberian crabapple"
+        "siberian crabapple"
     ],
     "fb1": [
         "sweet crabapple"
     ],
     "ZoB": [
-        "Japanese flowering crabapple"
+        "japanese flowering crabapple"
     ],
     "42P": [
-        "Oregon crabapple",
-        "Pacific crabapple"
+        "oregon crabapple",
+        "pacific crabapple"
     ],
     "k_O": [
         "prairie crabapple"
     ],
     "WhQ": [
-        "Asian wild apple"
+        "asian wild apple"
     ],
     "HrR": [
-        "European wild apple"
+        "european wild apple"
     ],
     "Pwi": [
         "jack",
         "binjai",
-        "Malaysian mango"
+        "malaysian mango"
     ],
     "W2N": [
         "horse mango"
     ],
     "LBs": [
         "common mango",
-        "Indian mango"
+        "indian mango"
     ],
     "gFw": [
         "kuweni mango",
         "kuwini",
-        "Saipan mango",
+        "saipan mango",
         "fragrant mango"
     ],
     "Fvo": [
-        "Thai mango"
+        "thai mango"
     ],
     "zUz": [
-        "Himalayan mango",
+        "himalayan mango",
         "pickling mango",
-        "Nepal mango"
+        "nepal mango"
     ],
     "-pN": [
         "cassava",
@@ -2138,7 +7338,7 @@
     ],
     "pwv": [
         "wild cassava",
-        "Graham's cassava"
+        "graham's cassava"
     ],
     "2eU": [
         "ausubo",
@@ -2157,15 +7357,15 @@
     ],
     "Luj": [
         "pera morada",
-        "Mayan pear"
+        "mayan pear"
     ],
     "G_f": [
         "markhamia",
-        "Nile tulip tree",
+        "nile tulip tree",
         "siala"
     ],
     "FzQ": [
-        "Florida mayten",
+        "florida mayten",
         "guttapercha mayten",
         "leatherleaf"
     ],
@@ -2183,7 +7383,7 @@
         "pukanui"
     ],
     "_t9": [
-        "Stern's medlar"
+        "stern's medlar"
     ],
     "I2A": [
         "common medlar"
@@ -2195,14 +7395,14 @@
         "black poisonwood"
     ],
     "H-U": [
-        "Florida poisonwood"
+        "florida poisonwood"
     ],
     "60X": [
         "pohutukawa",
-        "New Zealand Christmas tree"
+        "new Zealand Christmas tree"
     ],
     "xaR": [
-        "Hawaiian bottlebrush",
+        "hawaiian bottlebrush",
         "ʻōhiʻa lehua",
         "lehua"
     ],
@@ -2216,9 +7416,9 @@
         "wenge"
     ],
     "ztf": [
-        "Tahitian noni",
+        "tahitian noni",
         "great morinda",
-        "Indian mulberry",
+        "indian mulberry",
         "beach mulberry"
     ],
     "ohZ": [
@@ -2230,19 +7430,19 @@
         "white mulberry"
     ],
     "jD7": [
-        "Chinese mulberry"
+        "chinese mulberry"
     ],
     "jQE": [
-        "Mexican mulberry"
+        "mexican mulberry"
     ],
     "zoQ": [
-        "Argentine mulberry"
+        "argentine mulberry"
     ],
     "Aq5": [
-        "African mulberry"
+        "african mulberry"
     ],
     "u3p": [
-        "Texas mulberry"
+        "texas mulberry"
     ],
     "Uhp": [
         "black mulberry"
@@ -2260,10 +7460,10 @@
     ],
     "9IH": [
         "twinberry",
-        "Simpson's stopper"
+        "simpson's stopper"
     ],
     "pQ0": [
-        "Florida myrsine"
+        "florida myrsine"
     ],
     "F6B": [
         "common myrtle"
@@ -2272,14 +7472,14 @@
         "tree tobacco"
     ],
     "ybE": [
-        "Madagascar olive"
+        "madagascar olive"
     ],
     "ta_": [
-        "Antarctic beech",
+        "antarctic beech",
         "ñire"
     ],
     "tQ4": [
-        "Magellan's beech",
+        "magellan's beech",
         "birch-leaf beech",
         "guindo"
     ],
@@ -2298,11 +7498,11 @@
         "silver beech"
     ],
     "vIi": [
-        "Moore's Antarctic beech"
+        "moore's Antarctic beech"
     ],
     "kGQ": [
         "coigüe de Chiloé",
-        "Chiloé's coigue"
+        "chiloé's coigue"
     ],
     "P7i": [
         "roble",
@@ -2324,8 +7524,8 @@
         "swamp blackgum"
     ],
     "9-6": [
-        "Ogeechee lime",
-        "Ogeechee tupelo"
+        "ogeechee lime",
+        "ogeechee tupelo"
     ],
     "Dkf": [
         "blackgum",
@@ -2335,7 +7535,7 @@
         "balsa"
     ],
     "vIc": [
-        "Mediterranean olive",
+        "mediterranean olive",
         "common olive"
     ],
     "bD7": [
@@ -2355,8 +7555,8 @@
         "screwpine"
     ],
     "IbP": [
-        "Jerusalem-thorn",
-        "Mexican palo verde"
+        "jerusalem-thorn",
+        "mexican palo verde"
     ],
     "45t": [
         "empress tree",
@@ -2384,31 +7584,31 @@
         "geebung pine"
     ],
     "V1d": [
-        "Canary Island palm"
+        "canary Island palm"
     ],
     "nP3": [
         "date palm"
     ],
     "_oY": [
-        "Senegal date palm"
+        "senegal date palm"
     ],
     "HRP": [
         "cliff date palm"
     ],
     "IZs": [
         "stranvaesia photinia",
-        "David's photinia"
+        "david's photinia"
     ],
     "m-u": [
-        "Japanese photinia"
+        "japanese photinia"
     ],
     "nCd": [
         "star gooseberry",
-        "Tahitian gooseberry tree",
-        "Malay gooseberry"
+        "tahitian gooseberry tree",
+        "malay gooseberry"
     ],
     "hqF": [
-        "Indian gooseberry tree"
+        "indian gooseberry tree"
     ],
     "I2k": [
         "ivory nut palm"
@@ -2417,13 +7617,13 @@
         "tagua palm"
     ],
     "JM2": [
-        "Norway spruce"
+        "norway spruce"
     ],
     "CR2": [
-        "Brewer spruce"
+        "brewer spruce"
     ],
     "vUd": [
-        "Engelmann spruce"
+        "engelmann spruce"
     ],
     "7bq": [
         "white spruce"
@@ -2432,7 +7632,7 @@
         "black spruce"
     ],
     "RBb": [
-        "Serbian spruce"
+        "serbian spruce"
     ],
     "0wn": [
         "blue spruce"
@@ -2441,11 +7641,11 @@
         "red spruce"
     ],
     "8dL": [
-        "Sitka spruce"
+        "sitka spruce"
     ],
     "eh0": [
-        "Morinda spruce",
-        "West Himalayan spruce"
+        "morinda spruce",
+        "west Himalayan spruce"
     ],
     "Etb": [
         "bitterbush"
@@ -2460,19 +7660,19 @@
         "jack pine"
     ],
     "Up7": [
-        "Calabrian pine"
+        "calabrian pine"
     ],
     "4Xf": [
-        "Canary Island pine"
+        "canary Island pine"
     ],
     "phf": [
-        "Swiss stone pine"
+        "swiss stone pine"
     ],
     "eZ0": [
-        "Mexican pinyon"
+        "mexican pinyon"
     ],
     "RFi": [
-        "Coulter pine",
+        "coulter pine",
         "bigcone pine"
     ],
     "z13": [
@@ -2480,7 +7680,7 @@
     ],
     "BOC": [
         "pinyon",
-        "Colorado pinyon"
+        "colorado pinyon"
     ],
     "lSu": [
         "slash pine"
@@ -2492,17 +7692,17 @@
         "spruce pine"
     ],
     "DN3": [
-        "Aleppo pine"
+        "aleppo pine"
     ],
     "CRO": [
-        "Jeffrey pine"
+        "jeffrey pine"
     ],
     "jRB": [
         "sugar pine"
     ],
     "Tf1": [
         "ancient bristlecone pine",
-        "Methuselah pine",
+        "methuselah pine",
         "long-lived pine"
     ],
     "B8d": [
@@ -2513,7 +7713,7 @@
     ],
     "K0N": [
         "mugho pine",
-        "Swiss mountain pine"
+        "swiss mountain pine"
     ],
     "caM": [
         "bishop pine"
@@ -2528,7 +7728,7 @@
         "maritime pine"
     ],
     "HLs": [
-        "European stone pine"
+        "european stone pine"
     ],
     "a3Z": [
         "ponderosa pine"
@@ -2537,10 +7737,10 @@
         "table mountain pine"
     ],
     "qCt": [
-        "Parry pinyon"
+        "parry pinyon"
     ],
     "WjS": [
-        "Monterey pine"
+        "monterey pine"
     ],
     "khX": [
         "red pine"
@@ -2562,26 +7762,26 @@
         "eastern white pine"
     ],
     "InB": [
-        "Scots pine",
-        "Scotch pine"
+        "scots pine",
+        "scotch pine"
     ],
     "BGE": [
         "loblolly pine"
     ],
     "zdP": [
-        "Torrey pine"
+        "torrey pine"
     ],
     "iNi": [
-        "Virginia pine"
+        "virginia pine"
     ],
     "reY": [
         "blue pine",
-        "Bhutan pine",
-        "Himalayan pine"
+        "bhutan pine",
+        "himalayan pine"
     ],
     "Ab8": [
-        "Jamaican dogwood",
-        "Florida fishpoison tree"
+        "jamaican dogwood",
+        "florida fishpoison tree"
     ],
     "-zO": [
         "parapara",
@@ -2589,20 +7789,20 @@
         "pāpala kēpau"
     ],
     "H6R": [
-        "Indian pisonia",
+        "indian pisonia",
         "catchbird tree",
         "birdcatcher tree"
     ],
     "hNP": [
         "smooth devil's claws",
-        "Florida pisonia"
+        "florida pisonia"
     ],
     "GOr": [
-        "Chinese pistachio"
+        "chinese pistachio"
     ],
     "2QP": [
         "terebinth",
-        "Old World turpentine tree"
+        "old World turpentine tree"
     ],
     "Y2b": [
         "pistachio"
@@ -2615,16 +7815,16 @@
         "planertree"
     ],
     "t9B": [
-        "American sycamore"
+        "american sycamore"
     ],
     "7p_": [
-        "Oriental plane"
+        "oriental plane"
     ],
     "GFs": [
-        "California sycamore"
+        "california sycamore"
     ],
     "6zP": [
-        "Arizona sycamore"
+        "arizona sycamore"
     ],
     "unX": [
         "white frangipani"
@@ -2633,7 +7833,7 @@
         "odorless frangipani"
     ],
     "iX8": [
-        "Singapore frangipani"
+        "singapore frangipani"
     ],
     "8ea": [
         "red frangipani",
@@ -2665,14 +7865,14 @@
         "swamp cottonwood"
     ],
     "0CG": [
-        "Lombardy poplar",
+        "lombardy poplar",
         "black poplar"
     ],
     "2rf": [
-        "Simon poplar"
+        "simon poplar"
     ],
     "dyA": [
-        "European aspen"
+        "european aspen"
     ],
     "hK-": [
         "quaking aspen"
@@ -2702,10 +7902,10 @@
         "sugarbush protea"
     ],
     "EAG": [
-        "American plum"
+        "american plum"
     ],
     "Rge": [
-        "Chickasaw plum"
+        "chickasaw plum"
     ],
     "6mE": [
         "apricot"
@@ -2714,7 +7914,7 @@
         "sweet cherry"
     ],
     "DtC": [
-        "Carolina cherry laurel"
+        "carolina cherry laurel"
     ],
     "FSR": [
         "cherry plum"
@@ -2742,23 +7942,23 @@
         "common cherry laurel"
     ],
     "Ovs": [
-        "Portuguese cherry laurel"
+        "portuguese cherry laurel"
     ],
     "nuo": [
-        "Catalina cherry"
+        "catalina cherry"
     ],
     "50s": [
-        "Amur chokecherry"
+        "amur chokecherry"
     ],
     "7Xa": [
         "mahaleb"
     ],
     "MPF": [
-        "Mexican plum"
+        "mexican plum"
     ],
     "2mj": [
-        "Chinese plum",
-        "Japanese apricot"
+        "chinese plum",
+        "japanese apricot"
     ],
     "phn": [
         "wild goose plum"
@@ -2767,7 +7967,7 @@
         "myrtle-leaved cherry laurel"
     ],
     "GUE": [
-        "Canada plum"
+        "canada plum"
     ],
     "S_5": [
         "bird cherry"
@@ -2783,10 +7983,10 @@
         "black cherry"
     ],
     "Dun": [
-        "Japanese cherry"
+        "japanese cherry"
     ],
     "Lc8": [
-        "European sloe"
+        "european sloe"
     ],
     "bQd": [
         "sierra plum"
@@ -2799,16 +7999,16 @@
         "chokecherry"
     ],
     "IVi": [
-        "Chinese quince"
+        "chinese quince"
     ],
     "LNC": [
         "bigcone Douglas fir"
     ],
     "B8L": [
-        "Douglas fir"
+        "douglas fir"
     ],
     "Rsv": [
-        "Costa Rica guava",
+        "costa Rica guava",
         "cas guava"
     ],
     "eQi": [
@@ -2816,13 +8016,13 @@
         "common guava"
     ],
     "Eir": [
-        "Guinea guava"
+        "guinea guava"
     ],
     "2DX": [
         "mountain guava"
     ],
     "f0N": [
-        "Sartre guava"
+        "sartre guava"
     ],
     "_Rw": [
         "hop tree"
@@ -2832,21 +8032,21 @@
         "red sandalwood"
     ],
     "DmL": [
-        "African Padauk",
-        "African coralwood"
+        "african Padauk",
+        "african coralwood"
     ],
     "a8Z": [
         "pomegranate"
     ],
     "arj": [
-        "Callery pear",
-        "Bradford pear"
+        "callery pear",
+        "bradford pear"
     ],
     "Ctv": [
         "common pear"
     ],
     "Wfz": [
-        "Plymouth pear"
+        "plymouth pear"
     ],
     "c68": [
         "oleaster-leaf pear"
@@ -2855,11 +8055,11 @@
         "snow pear"
     ],
     "SXc": [
-        "Afghan pear"
+        "afghan pear"
     ],
     "ghm": [
         "sand pear",
-        "Asian pear",
+        "asian pear",
         "nashi pear"
     ],
     "zoa": [
@@ -2867,21 +8067,21 @@
         "weeping pear"
     ],
     "Cnu": [
-        "Siberian pear",
-        "Chinese fragrant pear"
+        "siberian pear",
+        "chinese fragrant pear"
     ],
     "kPH": [
         "sawtooth oak"
     ],
     "Q7t": [
-        "California live oak",
+        "california live oak",
         "coastal live oak"
     ],
     "EkX": [
         "white oak"
     ],
     "S8x": [
-        "Arkansas oak"
+        "arkansas oak"
     ],
     "muL": [
         "bastard white oak"
@@ -2890,13 +8090,13 @@
         "swamp white oak"
     ],
     "yA_": [
-        "Brant's oak"
+        "brant's oak"
     ],
     "eOZ": [
-        "Turkey oak"
+        "turkey oak"
     ],
     "P5y": [
-        "Chapman oak"
+        "chapman oak"
     ],
     "A6m": [
         "canyon live oak"
@@ -2912,17 +8112,17 @@
         "southern red oak"
     ],
     "5Fl": [
-        "Hungarian oak"
+        "hungarian oak"
     ],
     "AdX": [
-        "Oregon white oak",
-        "Garry oak"
+        "oregon white oak",
+        "garry oak"
     ],
     "mnI": [
         "sand live oak"
     ],
     "0jk": [
-        "Georgia oak"
+        "georgia oak"
     ],
     "yg5": [
         "laurel oak"
@@ -2939,7 +8139,7 @@
         "upland willow oak"
     ],
     "Z3Q": [
-        "Cyprus oak"
+        "cyprus oak"
     ],
     "Hdj": [
         "turkey oak"
@@ -2951,8 +8151,8 @@
         "overcup oak"
     ],
     "q6B": [
-        "Caucasian oak",
-        "Persian oak"
+        "caucasian oak",
+        "persian oak"
     ],
     "aox": [
         "bur oak"
@@ -2973,7 +8173,7 @@
         "water oak"
     ],
     "Kbg": [
-        "Oglethorpe oak"
+        "oglethorpe oak"
     ],
     "hj4": [
         "cherrybark oak"
@@ -2988,7 +8188,7 @@
         "pubescent oak"
     ],
     "3K1": [
-        "English oak",
+        "english oak",
         "pedunculate oak"
     ],
     "Vtg": [
@@ -2996,7 +8196,7 @@
         "northern red oak"
     ],
     "XHN": [
-        "Shumard oak"
+        "shumard oak"
     ],
     "Nxq": [
         "delta post oak"
@@ -3017,7 +8217,7 @@
         "southern live oak"
     ],
     "1ke": [
-        "China doll tree",
+        "china doll tree",
         "serpent tree"
     ],
     "FdQ": [
@@ -3036,10 +8236,10 @@
     ],
     "5x6": [
         "common buckthorn",
-        "European buckthorn"
+        "european buckthorn"
     ],
     "7UW": [
-        "Indian hawthorn"
+        "indian hawthorn"
     ],
     "nxR": [
         "lady palm"
@@ -3055,10 +8255,10 @@
     ],
     "UfR": [
         "purple laurel",
-        "Catawba rhododendron"
+        "catawba rhododendron"
     ],
     "k96": [
-        "Pacific rhododendron"
+        "pacific rhododendron"
     ],
     "pKJ": [
         "rosebay rhododendron",
@@ -3071,7 +8271,7 @@
         "downy rose myrtle"
     ],
     "Lvs": [
-        "Norfolk Island palm"
+        "norfolk Island palm"
     ],
     "pPn": [
         "nikau palm"
@@ -3087,7 +8287,7 @@
         "rose acacia"
     ],
     "UJT": [
-        "New Mexican locust"
+        "new Mexican locust"
     ],
     "88Y": [
         "black locust"
@@ -3096,19 +8296,19 @@
         "clammy locust"
     ],
     "o7w": [
-        "Cuban royal palm"
+        "cuban royal palm"
     ],
     "FKE": [
-        "Puerto Rican hat palm"
+        "puerto Rican hat palm"
     ],
     "2GV": [
         "cabbage palmetto"
     ],
     "bWk": [
-        "Llanos palmetto"
+        "llanos palmetto"
     ],
     "Tji": [
-        "Sonoran palmetto"
+        "sonoran palmetto"
     ],
     "Yjc": [
         "feltleaf willow"
@@ -3125,23 +8325,23 @@
     ],
     "Egj": [
         "weeping willow",
-        "Chinese weeping willow"
+        "chinese weeping willow"
     ],
     "oBb": [
-        "Bebb willow"
+        "bebb willow"
     ],
     "k7d": [
         "goat willow"
     ],
     "r3j": [
         "coastal plain willow",
-        "Carolina willow"
+        "carolina willow"
     ],
     "avX": [
         "grey willow"
     ],
     "1RP": [
-        "Daphne willow",
+        "daphne willow",
         "violet willow"
     ],
     "B71": [
@@ -3154,14 +8354,14 @@
         "sandbar willow"
     ],
     "z0j": [
-        "Florida willow"
+        "florida willow"
     ],
     "_aV": [
-        "Hooker willow",
+        "hooker willow",
         "coast willow"
     ],
     "uKE": [
-        "Pacific willow",
+        "pacific willow",
         "western black willow",
         "yellow willow",
         "whiplash willow"
@@ -3190,7 +8390,7 @@
         "meadow willow"
     ],
     "73n": [
-        "Mackenzie willow"
+        "mackenzie willow"
     ],
     "oqk": [
         "purple osier willow",
@@ -3200,7 +8400,7 @@
         "balsam willow"
     ],
     "k2k": [
-        "Scouler willow",
+        "scouler willow",
         "fire willow",
         "mountain willow"
     ],
@@ -3209,14 +8409,14 @@
         "satin willow"
     ],
     "t72": [
-        "Sitka willow"
+        "sitka willow"
     ],
     "-Ry": [
         "osier willow",
         "basket willow"
     ],
     "wdt": [
-        "American elder",
+        "american elder",
         "common elderberry"
     ],
     "Oag": [
@@ -3232,24 +8432,24 @@
         "sassafras"
     ],
     "p77": [
-        "Florida boxwood"
+        "florida boxwood"
     ],
     "4f2": [
         "octopus tree",
         "umbrella tree"
     ],
     "wwz": [
-        "Peruvian pepper tree"
+        "peruvian pepper tree"
     ],
     "71-": [
-        "Brazilian fire tree"
+        "brazilian fire tree"
     ],
     "dMR": [
         "umbrella pine"
     ],
     "W2z": [
         "coast redwood",
-        "California redwood",
+        "california redwood",
         "giant redwood"
     ],
     "VzU": [
@@ -3274,10 +8474,10 @@
         "yellow necklacepod"
     ],
     "WRa": [
-        "American mountain ash"
+        "american mountain ash"
     ],
     "FwS": [
-        "European mountain ash",
+        "european mountain ash",
         "common rowan"
     ],
     "-P-": [
@@ -3287,45 +8487,45 @@
         "true service tree"
     ],
     "kLK": [
-        "Swedish whitebeam"
+        "swedish whitebeam"
     ],
     "EHG": [
-        "Sitka mountain ash",
-        "Pacific mountain ash"
+        "sitka mountain ash",
+        "pacific mountain ash"
     ],
     "N5c": [
         "wild service tree"
     ],
     "6_q": [
-        "African tulip tree"
+        "african tulip tree"
     ],
     "I9Q": [
-        "Tahitian apple",
-        "Otaheite apple",
+        "tahitian apple",
+        "otaheite apple",
         "golden apple",
         "ambarella"
     ],
     "ZRR": [
         "yellow mombin",
-        "Javanese hog plum"
+        "javanese hog plum"
     ],
     "yaN": [
         "red mombin",
-        "Spanish hog plum"
+        "spanish hog plum"
     ],
     "18-": [
         "umbú",
         "imbu",
-        "Brazilian hog plum"
+        "brazilian hog plum"
     ],
     "naE": [
-        "American bladdernut"
+        "american bladdernut"
     ],
     "xgQ": [
         "firewheel tree"
     ],
     "dB4": [
-        "Virginia stewartia",
+        "virginia stewartia",
         "silky stewartia",
         "silky camellia"
     ],
@@ -3333,15 +8533,15 @@
         "mountain stewartia"
     ],
     "zyM": [
-        "Japanese stewartia",
+        "japanese stewartia",
         "deciduous camellia"
     ],
     "Uzz": [
-        "Japanese pagoda tree"
+        "japanese pagoda tree"
     ],
     "Xcd": [
         "storax",
-        "American snowbell"
+        "american snowbell"
     ],
     "BFw": [
         "bigleaf snowbell"
@@ -3350,7 +8550,7 @@
         "bay cedar"
     ],
     "vjs": [
-        "American baywood"
+        "american baywood"
     ],
     "fR3": [
         "mahogany"
@@ -3363,7 +8563,7 @@
         "horse sugar"
     ],
     "OrK": [
-        "Japanese tree lilac"
+        "japanese tree lilac"
     ],
     "mBv": [
         "common lilac"
@@ -3384,7 +8584,7 @@
         "clove lillypilly"
     ],
     "vVh": [
-        "Malay apple",
+        "malay apple",
         "mountain apple",
         "jambu bol",
         "plum rose",
@@ -3401,7 +8601,7 @@
     "T8z": [
         "wax apple",
         "love apple",
-        "Java apple",
+        "java apple",
         "bellfruit"
     ],
     "t2z": [
@@ -3411,52 +8611,52 @@
         "rosy trumpet tree"
     ],
     "ghY": [
-        "Taiwania"
+        "taiwania"
     ],
     "REk": [
         "tamarind"
     ],
     "eSE": [
-        "Gallic tamarisk",
+        "gallic tamarisk",
         "salt cedar"
     ],
     "nKO": [
-        "American tamarisk",
+        "american tamarisk",
         "tamarisk"
     ],
     "79Z": [
         "bald cypress"
     ],
     "RWI": [
-        "English yew"
+        "english yew"
     ],
     "hmX": [
-        "Pacific yew"
+        "pacific yew"
     ],
     "1eP": [
-        "Chinese yew"
+        "chinese yew"
     ],
     "KhR": [
-        "Japanese yew"
+        "japanese yew"
     ],
     "znE": [
-        "Florida yew"
+        "florida yew"
     ],
     "gHI": [
-        "Mexican yew"
+        "mexican yew"
     ],
     "MDD": [
-        "Himalayan yew"
+        "himalayan yew"
     ],
     "EIk": [
         "yellow elder",
         "yellow bells"
     ],
     "b3y": [
-        "Indian almond"
+        "indian almond"
     ],
     "ODd": [
-        "Florida tetrazygia"
+        "florida tetrazygia"
     ],
     "aHd": [
         "cacao",
@@ -3474,10 +8674,10 @@
         "giant arborvitae"
     ],
     "Sl_": [
-        "American basswood"
+        "american basswood"
     ],
     "znl": [
-        "Carolina basswood"
+        "carolina basswood"
     ],
     "3Ql": [
         "small-leaved basswood"
@@ -3493,10 +8693,10 @@
         "rosewood"
     ],
     "OF2": [
-        "California nutmeg"
+        "california nutmeg"
     ],
     "uYx": [
-        "Florida torreya",
+        "florida torreya",
         "fetid cedar",
         "stinking cedar"
     ],
@@ -3504,26 +8704,26 @@
         "manzanillo"
     ],
     "mbr": [
-        "Japanese Hazenoki tree"
+        "japanese Hazenoki tree"
     ],
     "iYk": [
-        "Chinese lacquer tree"
+        "chinese lacquer tree"
     ],
     "r4n": [
         "poison sumac"
     ],
     "2oW": [
-        "Chinese windmill palm"
+        "chinese windmill palm"
     ],
     "BUF": [
-        "Australian water gum"
+        "australian water gum"
     ],
     "Gx1": [
         "eastern hemlock",
-        "Canadian hemlock"
+        "canadian hemlock"
     ],
     "f8N": [
-        "Carolina hemlock"
+        "carolina hemlock"
     ],
     "uPh": [
         "western hemlock"
@@ -3536,11 +8736,11 @@
         "wahoo"
     ],
     "QLr": [
-        "American elm",
+        "american elm",
         "white elm"
     ],
     "aqp": [
-        "Bergmann's elm"
+        "bergmann's elm"
     ],
     "PNi": [
         "chestnut-leafed elm"
@@ -3552,75 +8752,75 @@
         "cedar elm"
     ],
     "qVo": [
-        "David elm",
-        "Father David's elm"
+        "david elm",
+        "father David's elm"
     ],
     "Jd4": [
-        "Anhui elm"
+        "anhui elm"
     ],
     "SVH": [
         "wych elm",
-        "Scots elm"
+        "scots elm"
     ],
     "DQK": [
-        "Gansu elm"
+        "gansu elm"
     ],
     "gJ1": [
-        "Harbin elm",
-        "Harbinese elm"
+        "harbin elm",
+        "harbinese elm"
     ],
     "QyU": [
-        "Manchurian elm",
+        "manchurian elm",
         "cut-leaf elm"
     ],
     "mXE": [
-        "European white elm",
+        "european white elm",
         "fluttering elm",
         "spreading elm",
-        "Russian elm"
+        "russian elm"
     ],
     "-od": [
-        "Hebei elm"
+        "hebei elm"
     ],
     "n8S": [
         "large-fruited elm"
     ],
     "3sH": [
-        "Mexican elm"
+        "mexican elm"
     ],
     "vd9": [
-        "Chinese elm",
+        "chinese elm",
         "lacebark elm"
     ],
     "E5e": [
-        "Siberian elm"
+        "siberian elm"
     ],
     "8j7": [
         "slippery elm",
         "red elm"
     ],
     "3Of": [
-        "September elm"
+        "september elm"
     ],
     "6FO": [
-        "Szechuan elm"
+        "szechuan elm"
     ],
     "8RV": [
         "rock elm",
         "cork elm"
     ],
     "5Sf": [
-        "Arishan elm"
+        "arishan elm"
     ],
     "wu7": [
         "cherry bark elm"
     ],
     "7kF": [
-        "Himalayan elm",
-        "Kashmir elm"
+        "himalayan elm",
+        "kashmir elm"
     ],
     "VGl": [
-        "California laurel"
+        "california laurel"
     ],
     "htP": [
         "sparkleberry",
@@ -3647,31 +8847,31 @@
         "chaste tree"
     ],
     "xN2": [
-        "California fan palm"
+        "california fan palm"
     ],
     "u9G": [
-        "Mexican fan palm"
+        "mexican fan palm"
     ],
     "vZK": [
         "foxtail palm"
     ],
     "xMH": [
-        "Spanish bayonet"
+        "spanish bayonet"
     ],
     "NIW": [
-        "Joshua tree"
+        "joshua tree"
     ],
     "9ry": [
         "moundlily yucca"
     ],
     "qEg": [
-        "American prickly ash"
+        "american prickly ash"
     ],
     "LXk": [
-        "Hercules’ club"
+        "hercules’ club"
     ],
     "oJR": [
-        "Biscayne prickly ash"
+        "biscayne prickly ash"
     ],
     "EHS": [
         "wild-lime prickly ash"
@@ -3685,7 +8885,7 @@
         "pino macho"
     ],
     "HBS": [
-        "Japanese zelkova"
+        "japanese zelkova"
     ],
     "z_m": [
         "jujube"
