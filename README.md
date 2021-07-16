@@ -1,7 +1,39 @@
 # Tree Species
 This repository includes lists of tree species with corresponding translation. It is intended to support forest-specific software to get ready for internationalization.
 
-## Structure
+## Install
+
+Using npm:
+```bash
+npm i tree-species-i18n
+```
+
+
+Using CDN
+```
+https://cdn.jsdelivr.net/npm/tree-species-i18n@1.0.0/dist/index.esm.js
+```
+## Usage
+
+```js
+import * as TreeSpecies from 'tree-species-i18n';
+
+// Search for id by species name and language code (en, es or de)
+var treeNameToSearch = 'silver fir';
+var treeSpeciesId = TreeSpecies.encode(treeNameToSearch, 'en');
+
+// Search for species name by id and language code 
+var treeName = TreeSpecies.decode(treeSpeciesId, 'es');
+
+// Get tree list by language code
+var speciesArrayDe = TreeSpecies.getList('de');
+console.info('List of species (de): ', speciesArrayDe.length);
+```
+## Examples
+
+Node, Browser (CDN) and bundled [Examples](./examples).
+
+## Structur
 
 ### Scientific Name
 The [list](https://github.com/b-lack/tree-species/blob/main/lat.json) of scientific names includes about 58000 tree species. The scientific name should be unique. Nevertheless, it is recommended to use the unique ID offered for clear and short identification beyond your own software.

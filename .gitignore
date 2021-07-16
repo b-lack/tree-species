@@ -27,3 +27,6 @@ Temporary Items
 .apdisk
 
 node_modules
+examples/bundler/node_modules
+examples/bundler/dist
+examples/bundler/.cache
