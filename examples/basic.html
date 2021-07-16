@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tree species i18n</title>
+    <script type="text/javascript" src="../dist/index.esm.js"></script>
+</head>
+<body>
+    <script type="text/javascript">
+        var treeNameToSearch = 'silver fir';
+        var silverFirKey = TreeSpecies.encode(treeNameToSearch, 'en');
+
+        console.info(`Key by species name (${treeNameToSearch}):`, silverFirKey);
+
+        if(silverFirKey){
+            var silverFirEn = TreeSpecies.decode(silverFirKey, 'en');
+            var silverFirEs = TreeSpecies.decode(silverFirKey, 'es');
+            var silverFirDe = TreeSpecies.decode(silverFirKey, 'de');
+            
+            console.info(`Species name(s) by key (${silverFirKey}) (en):`, silverFirEn);
+            console.info(`Species name(s) by key (${silverFirKey}) (es):`, silverFirEs);
+            console.info(`Species name(s) by key (${silverFirKey}) (de):`, silverFirDe);
+        }
+
+        var speciesArrayEn = TreeSpecies.getList('en');
+        console.info('List of species(en): ', speciesArrayEn.length);
+
+        var speciesArrayEs = TreeSpecies.getList('es');
+        console.info('List of species(es): ', speciesArrayEs.length);
+
+        var speciesArrayDe = TreeSpecies.getList('de');
+        console.info('List of species (de): ', speciesArrayDe.length);
+    </script>
+</body>
+</html>
