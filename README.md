@@ -28,6 +28,10 @@ var treeName = TreeSpecies.decode(treeSpeciesId, 'es');
 // Get tree list by language code
 var speciesArrayDe = TreeSpecies.getList('de');
 console.info('List of species (de): ', speciesArrayDe.length);
+
+// Get color by species id
+var speciesColor = TreeSpecies.getColorFromId(treeSpeciesId);
+console.info('%c Color by key: ' +speciesColor, 'color: #' + speciesColor);
 ```
 ## Examples
 
