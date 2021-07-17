@@ -1,5 +1,5 @@
 var chai = require('chai'), expect = chai.expect, should = chai.should();
-var treeSpecies = require('../dist/index.cjs');
+var treeSpecies = require('../dist/index.esm');
 
 var speciesId = 'cDD';
 var speciesIdSupposedToFail = '666';
