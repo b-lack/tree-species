@@ -11,27 +11,31 @@ npm i tree-species-i18n
 
 Using CDN
 ```
-https://cdn.jsdelivr.net/npm/tree-species-i18n@1.0.0/dist/index.esm.js
+https://cdn.jsdelivr.net/npm/tree-species-i18n@1.0.2/dist/index.esm.js
 ```
 ## Usage
 
 ```js
-import * as TreeSpecies from 'tree-species-i18n';
+import * as treeSpeciesI18n from 'tree-species-i18n';
 
 // Search for id by species name and language code (en, es or de)
 var treeNameToSearch = 'silver fir';
-var treeSpeciesId = TreeSpecies.encode(treeNameToSearch, 'en');
+var treeSpeciesId = treeSpeciesI18n.encode(treeNameToSearch, 'en');
 
 // Search for species name by id and language code 
-var treeName = TreeSpecies.decode(treeSpeciesId, 'es');
+var treeName = treeSpeciesI18n.decode(treeSpeciesId, 'es');
 
 // Get tree list by language code
-var speciesArrayDe = TreeSpecies.getList('de');
+var speciesArrayDe = treeSpeciesI18n.getList('de');
 console.info('List of species (de): ', speciesArrayDe.length);
 
 // Get color by species id
-var speciesColor = TreeSpecies.getColorFromId(treeSpeciesId);
+var speciesColor = treeSpeciesI18n.getColorFromId(treeSpeciesId);
 console.info('%c Color by key: ' +speciesColor, 'color: #' + speciesColor);
+
+// Get random tree species by language code
+var randomSpeciesId = treeSpeciesI18n.getRandomSpeciesId('en');
+console.info('Random species id (en): ' +randomSpeciesId);
 ```
 ## Examples
 

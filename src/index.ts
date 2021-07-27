@@ -1,16 +1,17 @@
 //import * as lat from '../lat.json';
 
-import * as en from '../locales/en.json';
-import * as de from '../locales/de.json';
-import * as es from '../locales/es.json';
+import en from '../locales/en.json';
+import de from '../locales/de.json';
+import es from '../locales/es.json';
+
 
 export function decode(speciesId:string, languageCode:string) {
 
     const langCode = languageCode.toLowerCase();
 
-    if(langCode === 'en') return en[speciesId] || undefined
-    if(langCode === 'de') return de[speciesId] || undefined
-    if(langCode === 'es') return es[speciesId] || undefined
+    if(langCode === 'en') return en[speciesId.toString()] || undefined
+    if(langCode === 'de') return de[speciesId.toString()] || undefined
+    if(langCode === 'es') return es[speciesId.toString()] || undefined
     //if(languageCode === 'lat') return lat[speciesId] || undefined
 
     return null
@@ -60,3 +61,34 @@ export function getColorFromId(str) {
     return intToRGB(hash);
 } 
 
+export function getSpeciesLength(languageCode:string) {
+
+    const langCode = languageCode.toLowerCase();
+
+    if(langCode === 'en'){
+        return Object.keys(en).length;
+    }else if(langCode === 'de'){
+        return Object.keys(de).length;
+    }else if(langCode === 'es'){
+        return Object.keys(es).length;
+    }
+
+    return 0
+}
+
+export function getRandomSpeciesId(languageCode:string) {
+
+    let list:string[];
+    const langCode = languageCode.toLowerCase();
+
+    if(langCode === 'en'){
+        list = Object.keys(en);
+    }else if(langCode === 'de'){
+        list = Object.keys(de);
+    }else if(langCode === 'es'){
+        list = Object.keys(es);
+    }
+    
+    return list[Math.floor(Math.random()*list.length)];
+
+} 
