@@ -1,13 +1,13 @@
 var chai = require('chai'), expect = chai.expect, should = chai.should();
 var treeSpecies = require('../dist/index.esm');
 
-var speciesId = 'cDD';
 var onlyGerman = '395';
 var speciesIdSupposedToFail = '666';
 
 describe('speciesId = cDD', function() {
 
     it('in en', function(done){
+        var speciesId = treeSpecies.getRandomSpeciesId('en');
         var list = treeSpecies.decode(speciesId, 'en');
         expect(list).to.be.a('array')
         expect(list).lengthOf.greaterThan(0)
@@ -15,6 +15,7 @@ describe('speciesId = cDD', function() {
         done()
     })
     it('in es', function(done){
+        var speciesId = treeSpecies.getRandomSpeciesId('es');
         var list = treeSpecies.decode(speciesId, 'es');
         expect(list).to.be.a('array')
         expect(list).lengthOf.greaterThan(0)
@@ -22,13 +23,14 @@ describe('speciesId = cDD', function() {
         done()
     })
     it('in de', function(done){
+        var speciesId = treeSpecies.getRandomSpeciesId('de');
         var list = treeSpecies.decode(speciesId, 'de');
         expect(list).to.be.a('array')
         expect(list).lengthOf.greaterThan(0)
         expect(list[0]).to.be.a('string')
         done()
     })
-    
+
 })
 
 describe('speciesId = 666', function() {

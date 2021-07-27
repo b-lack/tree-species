@@ -1,13 +1,22 @@
-//import * as lat from '../lat.json';
+//import lat from '../lat.json';
 
 import en from '../locales/en.json';
 import de from '../locales/de.json';
 import es from '../locales/es.json';
 
+let defaultLanguage = 'en';
+
+export function getUserLanguageCode(languageCode:string):string{
+    if(typeof window != "undefined" && window.hasOwnProperty('navigator')){
+        defaultLanguage = navigator.language.split('-')[0] || defaultLanguage; 
+    }
+
+    return languageCode ? languageCode.toLowerCase() : defaultLanguage;
+}
 
 export function decode(speciesId:string, languageCode:string) {
 
-    const langCode = languageCode.toLowerCase();
+    const langCode = languageCode || getUserLanguageCode(languageCode);
 
     if(langCode === 'en') return en[speciesId.toString()] || undefined
     if(langCode === 'de') return de[speciesId.toString()] || undefined
@@ -24,7 +33,7 @@ function encodeFromName(name:string, obj){
 }
 export function encode(name:string, languageCode:string) {
 
-    const langCode = languageCode.toLowerCase();
+    const langCode = languageCode || getUserLanguageCode(languageCode);
 
     if(langCode === 'en') return encodeFromName(name, en)
     if(langCode === 'de') return encodeFromName(name, de)
@@ -36,7 +45,7 @@ export function encode(name:string, languageCode:string) {
 
 export function getList(languageCode:string) {
     
-    const langCode = languageCode.toLowerCase();
+    const langCode = languageCode || getUserLanguageCode(languageCode);
 
     if(langCode === 'en') return Object.entries(en);
     if(langCode === 'de') return Object.entries(de);
@@ -63,7 +72,7 @@ export function getColorFromId(str) {
 
 export function getSpeciesLength(languageCode:string) {
 
-    const langCode = languageCode.toLowerCase();
+    const langCode = languageCode || getUserLanguageCode(languageCode);
 
     if(langCode === 'en'){
         return Object.keys(en).length;
@@ -78,8 +87,9 @@ export function getSpeciesLength(languageCode:string) {
 
 export function getRandomSpeciesId(languageCode:string) {
 
-    let list:string[];
-    const langCode = languageCode.toLowerCase();
+    let list:string[] = [];
+
+    const langCode = languageCode || getUserLanguageCode(languageCode);
 
     if(langCode === 'en'){
         list = Object.keys(en);

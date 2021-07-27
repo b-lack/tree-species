@@ -11,14 +11,14 @@ npm i tree-species-i18n
 
 Using CDN
 ```
-https://cdn.jsdelivr.net/npm/tree-species-i18n@1.0.2/dist/index.esm.js
+https://cdn.jsdelivr.net/npm/tree-species-i18n@1.0.4/dist/index.esm.js
 ```
 ## Usage
 
 ```js
 import * as treeSpeciesI18n from 'tree-species-i18n';
 
-// Search for id by species name and language code (en, es or de)
+// Search for id by species name and language code (en, es, de or leave empty to get default user language in browser).
 var treeNameToSearch = 'silver fir';
 var treeSpeciesId = treeSpeciesI18n.encode(treeNameToSearch, 'en');
 
