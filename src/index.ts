@@ -49,6 +49,16 @@ export function getList(languageCode:string) {
 
     return Object.entries(languages[langCode]);
 }
+export function getFirstList(languageCode:string) {
+    
+    const langCode = languageCode || getUserLanguageCode(languageCode);
+
+    let languageObj = Object.assign({}, languages[langCode]);
+    
+    Object.entries(languageObj).map(entry => languageObj[entry[0]] = entry[1][0]);
+
+    return languageObj;
+}
 
 export function getEnum(languageCode:string) {
     

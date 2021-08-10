@@ -11,7 +11,7 @@ npm i tree-species-i18n
 
 Using CDN
 ```
-https://cdn.jsdelivr.net/npm/tree-species-i18n@1.0.4/dist/index.esm.js
+https://cdn.jsdelivr.net/npm/tree-species-i18n@1.0.6/dist/index.esm.js
 ```
 ## Usage
 

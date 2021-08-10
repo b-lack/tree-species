@@ -6,7 +6,6 @@ describe('get Enum', function() {
 
     it('in en', function(done){
         var list = treeSpecies.getEnum('en');
-        console.log(list);
         expect(list).to.be.a('array')
         expect(list).lengthOf.greaterThan(0)
         expect(list[0]).to.be.a('string')
@@ -14,7 +13,6 @@ describe('get Enum', function() {
     })
     it('in es', function(done){
         var list = treeSpecies.getEnum('es');
-        console.log(list);
         expect(list).to.be.a('array')
         expect(list).lengthOf.greaterThan(0)
         expect(list[0]).to.be.a('string')
@@ -22,10 +20,32 @@ describe('get Enum', function() {
     })
     it('in de', function(done){
         var list = treeSpecies.getEnum('de');
-        console.log(list);
         expect(list).to.be.a('array')
         expect(list).lengthOf.greaterThan(0)
         expect(list[0]).to.be.a('string')
+        done()
+    })
+
+})
+
+describe('get first List', function() {
+
+    it('in en', function(done){
+        var list = treeSpecies.getFirstList('en');
+        console.log(list);
+        expect(list).to.be.a('object')
+        done()
+    })
+    it('in es', function(done){
+        var list = treeSpecies.getFirstList('es');
+        console.log(list);
+        expect(list).to.be.a('object')
+        done()
+    })
+    it('in de', function(done){
+        var list = treeSpecies.getFirstList('de');
+        console.log(list);
+        expect(list).to.be.a('object')
         done()
     })
 
@@ -35,7 +55,6 @@ describe('get Values', function() {
 
     it('in en', function(done){
         var list = treeSpecies.getValues('en');
-        console.log(list);
         expect(list).to.be.a('array')
         expect(list).lengthOf.greaterThan(0)
         expect(list[0]).to.be.a('array')
@@ -43,7 +62,6 @@ describe('get Values', function() {
     })
     it('in es', function(done){
         var list = treeSpecies.getValues('es');
-        console.log(list);
         expect(list).to.be.a('array')
         expect(list).lengthOf.greaterThan(0)
         expect(list[0]).to.be.a('array')
@@ -51,7 +69,6 @@ describe('get Values', function() {
     })
     it('in de', function(done){
         var list = treeSpecies.getValues('de');
-        console.log(list);
         expect(list).to.be.a('array')
         expect(list).lengthOf.greaterThan(0)
         expect(list[0]).to.be.a('array')
@@ -64,7 +81,6 @@ describe('get first Values', function() {
 
     it('in en', function(done){
         var list = treeSpecies.getFirstValues('en');
-        console.log(list);
         expect(list).to.be.a('array')
         expect(list).lengthOf.greaterThan(0)
         expect(list[0]).to.be.a('string')
@@ -72,7 +88,6 @@ describe('get first Values', function() {
     })
     it('in es', function(done){
         var list = treeSpecies.getFirstValues('es');
-        console.log(list);
         expect(list).to.be.a('array')
         expect(list).lengthOf.greaterThan(0)
         expect(list[0]).to.be.a('string')
@@ -80,7 +95,6 @@ describe('get first Values', function() {
     })
     it('in de', function(done){
         var list = treeSpecies.getFirstValues('de');
-        console.log(list);
         expect(list).to.be.a('array')
         expect(list).lengthOf.greaterThan(0)
         expect(list[0]).to.be.a('string')
