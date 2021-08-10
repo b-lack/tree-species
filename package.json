@@ -1,6 +1,6 @@
 {
   "name": "tree-species-i18n",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "tree species with corresponding translation",
   "main": "dist/index.esm.js",
   "module": "dist/index.esm.js",
@@ -8,7 +8,7 @@
     "build": "rm -rf dist && rollup -c && tsc --emitDeclarationOnly",
     "prepublish:public": "npm run build",
     "publish:public": "npm publish --access public",
-    "test": "mocha ./test/* --exit"
+    "test": "npm run build && mocha ./test/* --exit"
   },
   "files": [
     "dist"

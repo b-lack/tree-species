@@ -8,24 +8,10 @@ import babel from '@rollup/plugin-babel'
 
 const extensions = ['.js', '.ts']
 export default [
-// CommonJS (for Node) and ES module (for bundlers) build.
+    // CommonJS (for Node) and ES module (for bundlers) build.
     {
         input: 'src/index.ts',
         output: [
-            /*{
-                file: pkg.main,
-                format: 'cjs'
-            },
-            {
-                file: pkg.module,
-                format: 'es'
-            },
-            {
-                sourcemap: true,
-                file: pkg.module,
-                format: 'iife',
-                name: 'TreeSpecies'
-            },*/
             { // umd
                 file: pkg.module,
                 format: 'umd',

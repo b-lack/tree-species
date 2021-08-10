@@ -4,6 +4,11 @@ import en from '../locales/en.json';
 import de from '../locales/de.json';
 import es from '../locales/es.json';
 
+const languages = {
+    de:de,
+    en:en,
+    es:es
+}
 let defaultLanguage = 'en';
 
 export function getUserLanguageCode(languageCode:string):string{
@@ -35,25 +40,35 @@ export function encode(name:string, languageCode:string) {
 
     const langCode = languageCode || getUserLanguageCode(languageCode);
 
-    if(langCode === 'en') return encodeFromName(name, en)
-    if(langCode === 'de') return encodeFromName(name, de)
-    if(langCode === 'es') return encodeFromName(name, es)
-    //if(languageCode === 'lat') return encodeFromName(name, lat)
-
-    return null
+    return encodeFromName(name, languages[langCode])
 }
 
 export function getList(languageCode:string) {
     
     const langCode = languageCode || getUserLanguageCode(languageCode);
 
-    if(langCode === 'en') return Object.entries(en);
-    if(langCode === 'de') return Object.entries(de);
-    if(langCode === 'es') return Object.entries(es);
-    //if(languageCode === 'lat') return encodeFromName(name, lat)
-
-    return null
+    return Object.entries(languages[langCode]);
 }
+
+export function getEnum(languageCode:string) {
+    
+    const langCode = languageCode || getUserLanguageCode(languageCode);
+
+    return Object.keys(languages[langCode]);
+}
+export function getValues(languageCode:string) {
+    
+    const langCode = languageCode || getUserLanguageCode(languageCode);
+
+    return Object.values(languages[langCode]);
+}
+export function getFirstValues(languageCode:string) {
+    
+    const langCode = languageCode || getUserLanguageCode(languageCode);
+
+    return Object.values(languages[langCode]).map(values => values[0]);
+}
+
 function intToRGB(i){
     var c = (i & 0x00FFFFFF)
         .toString(16)
@@ -74,15 +89,7 @@ export function getSpeciesLength(languageCode:string) {
 
     const langCode = languageCode || getUserLanguageCode(languageCode);
 
-    if(langCode === 'en'){
-        return Object.keys(en).length;
-    }else if(langCode === 'de'){
-        return Object.keys(de).length;
-    }else if(langCode === 'es'){
-        return Object.keys(es).length;
-    }
-
-    return 0
+    return Object.keys(languages[langCode]).length;
 }
 
 export function getRandomSpeciesId(languageCode:string) {
