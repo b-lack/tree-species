@@ -1,6 +1,6 @@
 {
   "name": "tree-species-i18n",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "tree species with corresponding translation",
   "main": "dist/index.esm.js",
   "module": "dist/index.esm.js",
