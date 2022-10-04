@@ -26,8 +26,14 @@ var treeSpeciesId = treeSpeciesI18n.encode(treeNameToSearch, 'en');
 var treeName = treeSpeciesI18n.decode(treeSpeciesId, 'es');
 
 // Get tree list by language code
+// Supported languages: en, es, de
 var speciesArrayDe = treeSpeciesI18n.getList('de');
 console.info('List of species (de): ', speciesArrayDe.length);
+
+// Returns a list of tree species, in the selected language, that are native to the specified country code.
+// Supported country codes: de, at, ch, se, fr, no, jp, uk, us
+var speciesArrayDeJP = treeSpeciesI18n.getList('de', 'JP');
+console.info('List of species (de) in JP: ', speciesArrayDeJP.length);
 
 // Get color by species id
 var speciesColor = treeSpeciesI18n.getColorFromId(treeSpeciesId);

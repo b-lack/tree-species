@@ -5,12 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tree species i18n</title>
-    <script type="text/javascript" src="../dist/index.esm.js"></script>
+    <script type="text/javascript" src="../dist/index.main.js"></script>
 </head>
 <body>
     open console
     <script type="text/javascript">
-        console.log(global)
+        //console.log(global)
         var treeNameToSearch = 'silver fir';
         var silverFirKey = TreeSpecies.encode(treeNameToSearch, 'en');
 
@@ -37,6 +37,14 @@
 
         var speciesColor = TreeSpecies.getColorFromId(silverFirKey);
         console.info('%c Color by key: ' +speciesColor, 'color: #' + speciesColor);
+
+        console.log(`TreeSpecies.getList('de', 'DE')`);
+        var speciesArrayDe = TreeSpecies.getList('de', 'DE');
+        console.info('List of species (de_DE): ', speciesArrayDe.length);
+
+        console.log(`TreeSpecies.getList('de', 'JP')`);
+        var speciesArrayDe = TreeSpecies.getList('de', 'JP');
+        console.info('List of species (de_jp): ', speciesArrayDe);
 
     </script>
 </body>
