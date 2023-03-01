@@ -6,6 +6,8 @@ import en from '../locales/en.json';
 import de from '../locales/de.json';
 import es from '../locales/es.json';
 
+import latin from '../locales/latin.json';
+
 const languages = {
     de: de,
     en: en,
@@ -97,6 +99,37 @@ export function getList(languageCode:string, countryCode:string) {
     }
     return Object.entries(list);
 }
+
+/**
+ * 
+ * @param languageCode 
+ * @param countryCode 
+ * @returns 
+ */
+export function getListScientific(languageCode:string, countryCode:string) {
+
+    const list = getList(languageCode, countryCode);
+    // KEY FEHLT
+    return list.map(entry => {
+
+        return {
+            latin: latin[entry[0]] || null,
+            names: entry[1]
+        }
+    });
+
+}
+export function search(searchTerm:string, languageCode:string) {
+    const result = {};
+    Object.entries(latin).forEach(([key, value]) => {
+        if(value.toLowerCase().includes(searchTerm.toLowerCase())){
+            result[key] = value;
+        }
+    });
+
+    return result;
+}
+
 export function getFirstList(languageCode:string) {
     
     const langCode = languageCode || getUserLanguageCode(languageCode);

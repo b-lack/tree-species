@@ -1,5 +1,5 @@
 var chai = require('chai'), expect = chai.expect, should = chai.should();
-var treeSpecies = require('../dist/index.esm');
+var treeSpecies = require('../dist/index.module.js');
 
 describe('getRandomSpeciesId', function() {
 

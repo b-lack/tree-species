@@ -10,6 +10,9 @@
 <body>
     open console
     <script type="text/javascript">
+
+       
+
         //console.log(global)
         var treeNameToSearch = 'silver fir';
         var silverFirKey = TreeSpecies.encode(treeNameToSearch, 'en');
@@ -45,6 +48,9 @@
         console.log(`TreeSpecies.getList('de', 'JP')`);
         var speciesArrayDe = TreeSpecies.getList('de', 'JP');
         console.info('List of species (de_jp): ', speciesArrayDe);
+
+        var speciesArrayEnLatin = TreeSpecies.getListScientific('de');
+        console.info('List of species (de): ', speciesArrayEnLatin);
 
     </script>
 </body>
